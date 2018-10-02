@@ -2,7 +2,7 @@
 this is a small script to make a pdf from list of images.  
 
 ### Dependencies:
-1- PIL package
+1- PIL package  
 2- fpdf
 
 ### how to run :  
