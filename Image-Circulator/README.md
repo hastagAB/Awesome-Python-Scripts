@@ -1,7 +1,7 @@
 # Image Circulator
 Tiny Python3 script to make your images circular.
 
-##Dependencies
+## Dependencies
  It requires `python3` and `pillow`.
  To install `pillow`, you need `pip3` or python3.
 
