@@ -10,3 +10,4 @@ To run, from the command line type:
 
 `python3 image_circulator.py -i INPUT_FILE_PATH -o OUTPUT_FILE_PATH -d DIAMETER_IN_PIXELS`
 
+Or make the script executable.
