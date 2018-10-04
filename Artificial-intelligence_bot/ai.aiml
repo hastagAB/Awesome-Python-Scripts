@@ -1,0 +1,36 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- load.aiml -->
+
+    <category>
+        <pattern>YANE</pattern>
+        <template>
+            Ya, kake!
+        </template>
+    </category>
+
+    <category>
+        <pattern>WAYE *</pattern>
+        <template>
+            <random>
+                <li>Ni sakagone!</li>
+                <li>sauri 1000GHZ!</li>
+                <li>Kwakwalwa 1000PTB!</li>
+            </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>GASKIYANE *</pattern>
+        <template>
+            Kaima kayi daidai! :)
+        </template>
+    </category>
+
+    <category>
+        <pattern>YATO *</pattern>
+        <template>
+            Komai lafiya
+        </template>
+    </category>
+
+</aiml>
