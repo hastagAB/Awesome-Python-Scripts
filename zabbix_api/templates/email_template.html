@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+<center>
+    <h1>Total Zabbix alerts {{ count }}</h1>
+    <br>
+</center>
+<ol align="left">
+	Host Wise count:
+	<br>
+		{% for host, count in zabbixHostWiseCount.items() %}
+			<tr>
+				<td>{{ host }}</td>
+				<td>{{ count }}</td>
+			</tr>
+		{% endfor %}
+	
+ 	<br>
+ 	Alerts:
+ 	<br>
+	
+	{% for host in zabbixAlertWiseCount.keys() %} 
+
+		Host: {{ host }}
+		<tr>
+			<td>Alert</td>
+			<td>Count</td>
+		</tr>
+
+		{% for hostAlertMessage, count in zabbixAlertWiseCount[host].items() %}
+			<tr>
+				<td>{{ hostAlertMessage }}</td>
+				<td>{{ count }}</td>
+			</tr>
+		{% endfor %}
+		<br>
+	{% endfor %}
+
+</body>
+</html>
+
