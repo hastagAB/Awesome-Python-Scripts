@@ -1,0 +1,4 @@
+# WorkLog
+pygithub
+PyQt5
+qdarkstyle
