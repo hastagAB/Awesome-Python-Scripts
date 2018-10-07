@@ -15,12 +15,14 @@ def decryption(key, text):
             count += 1
         else:
             real_key += ' '
-    print(real_key)
+    #print(real_key)
     encr = ''
     #decrypting
     for c in range(0,len(text)):
         if text[c] == ' ':
             encr += ' '
+        elif ((ord(text[c]) >= 48) and (ord(text[c]) <= 57)):
+            encr += text[c]
         else:
             encr += (alph[(ord(text[c]) - ord(real_key[c])) % 26])
     return encr
@@ -40,12 +42,14 @@ def encryption(key, text):
             
         else:
             real_key += ' '
-    print(real_key)
+    #print(real_key)
     encr = ''
     #encrypting
     for c in range(0,len(text)):
         if text[c] == ' ':
             encr += ' '
+        elif ((ord(text[c]) >= 48) and (ord(text[c]) <= 57)):
+            encr += text[c]
         else:
             encr += (alph[(ord(real_key[c]) + ord(text[c])) % 26])
     return encr
