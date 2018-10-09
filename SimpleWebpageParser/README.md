@@ -1,5 +1,5 @@
 # Simple Webpage Parser
-A simple wrapper around the popular web scraper library BeautifulSoap. It merges the use of Requests and BeautifulSoap library in one class which abstracts the extracting of html from web url logic and gives user a clean code to work with.
+A simple wrapper around the popular web scraper library BeautifulSoap. It merges the use of Requests and BeautifulSoap library in one class which abstracts the process of extraction of html from webpage's url and gives user a clean code to work with.
 
 ## Libraries Required
 1. requests
