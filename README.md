@@ -42,6 +42,7 @@ So far, the following projects have been integrated to this repo:
 - [Image To PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/images2pdf) by [msaoudallah](https://github.com/msaoudallah)
 - [Vinegère Cipher](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/vigenere_cipher) by [victoni](https://github.com/victoni)
 - [Zabbix API](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zabbix_api) by [msg4sunny](https://github.com/msg4sunny)
+- [Simple Webpage Parser](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SimpleWebpageParser) by [Nitish Srivastava](https://github.com/nitish-iiitd)
 - [Zip password cracker](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zip_password_cracker) by [umar abdullahi](https://github.com/umarbrowser)
 
 
