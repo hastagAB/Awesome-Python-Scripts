@@ -36,7 +36,6 @@ So far, the following projects have been integrated to this repo:
 - [Word generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Word-generator) by [TGLIDE](https://github.com/TGlide)
 - [Work log generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Work_Log_Generator) by [Maël Pedretti](https://github.com/73VW)
 - [Youtube video downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Youtube_Video_Downloader) by [Christopher He](https://github.com/hecris)
-- [Youtube video downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Youtube_Video_Downloader) by [Christopher He](https://github.com/hecris)
 - [Asymmetric Encryption](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/asymmetric_cryptography) by [victor matheus](https://github.com/victormatheusc)
 - [Caesar Cipher](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/caeser_cipher) by [epi052](https://github.com/epi052)
 - [Image To PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/images2pdf) by [msaoudallah](https://github.com/msaoudallah)
