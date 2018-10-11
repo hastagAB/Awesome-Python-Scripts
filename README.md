@@ -43,6 +43,7 @@ So far, the following projects have been integrated to this repo:
 - [Zabbix API](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zabbix_api) by [msg4sunny](https://github.com/msg4sunny)
 - [Simple Webpage Parser](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SimpleWebpageParser) by [Nitish Srivastava](https://github.com/nitish-iiitd)
 - [Zip password cracker](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zip_password_cracker) by [umar abdullahi](https://github.com/umarbrowser)
+- [Excel to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_to_ListofList) by [Nitish Srivastava](https://github.com/nitish-iiitd)
 
 
 ## Contribuition Guidelines :
