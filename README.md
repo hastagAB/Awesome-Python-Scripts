@@ -46,6 +46,7 @@ So far, the following projects have been integrated to this repo:
 - [Excel to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_to_ListofList) by [Nitish Srivastava](https://github.com/nitish-iiitd)
 - [HTML Table to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/HTML_Table_to_List) by [Nitish Srivastava](https://github.com/nitish-iiitd)
 - [Colored B&W Image Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Color_to_BW_Converter) by [Nitish Srivastava](https://github.com/nitish-iiitd)
+- [Gmail Mailing Script](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/mailing) by [mayank-kapur](https://github.com/kapurm17)
 
 ## Contribuition Guidelines :
 - Make a Seperate Folder for the Script.
