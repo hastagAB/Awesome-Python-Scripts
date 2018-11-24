@@ -1,24 +1,18 @@
-from bs4 import BeautifulSoup
+import webbrowser as wb 
 import requests
-import webbrowser as wb
+import re
+import json
 
 
-username = input("Enter the instagram user-id: ")
+username=input("Enter the username : ")
 
 try:
-    a = requests.get("https://www.instagram.com/"+username)
-    co = a.content
-    soup = BeautifulSoup(co,'html.parser')
-    link = soup.find_all('meta' , property="og:image")
-    print(link)
-    print(type(soup))
-
-    imagelink=(str(link[0])[15:])
-    imagelink=imagelink[:len(imagelink)-23]
-    print(imagelink)
-    wb.open_new_tab(imagelink)
-
-except :
-    print("No such username exists")
-
-
+	content = requests.get("https://www.instagram.com/"+username).content
+	find=re.findall(r"logging_page_id.*show_suggested_profiles",str(content))
+	user_id=((find[0][16:]).split(","))[0][14:-1] # We get the user id of the username
+	jsonreq=requests.get("https://i.instagram.com/api/v1/users/"+user_id+"/info/").content # using a link we get the whole info of the person
+	jsonloaded=json.loads(jsonreq)
+	imgurl=jsonloaded["user"]["hd_profile_pic_url_info"]["url"]
+	wb.open_new_tab(imgurl)
+except:
+	print("No such username exists")
