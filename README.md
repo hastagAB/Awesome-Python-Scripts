@@ -48,6 +48,7 @@ So far, the following projects have been integrated to this repo:
 - [Colored B&W Image Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Color_to_BW_Converter) by [Nitish Srivastava](https://github.com/nitish-iiitd)
 - [Gmail Mailing Script](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/mailing) by [mayank-kapur](https://github.com/kapurm17)
 - [Take Screenshot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Take_screenshot) by [Moad Mohammed Elhebri](https://github.com/moadmmh)
+- [Port Scanner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Port_Scanner) by [Plutoberth](https://github.com/Plutoberth)
 
 ## Contribuition Guidelines :
 - Make a Seperate Folder for the Script.
