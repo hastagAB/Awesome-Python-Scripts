@@ -11,7 +11,6 @@ This repo is a compilation of some *awesome* Python scripts that automate some b
 
 So far, the following projects have been integrated to this repo:
 
-    
 | Project Name | Contributors |
 |--|--|
 | [Address locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Adress) | [Chris]() |
