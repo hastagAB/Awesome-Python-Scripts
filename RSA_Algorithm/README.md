@@ -19,6 +19,6 @@ $ ./RSA_Algorithm.py
 ```
 
 ## References
-[Blog](https://www.di-mgt.com.au/rsa_alg.html)
-[Paper](https://people.csail.mit.edu/rivest/Rsapaper.pdf)
+[Blog](https://www.di-mgt.com.au/rsa_alg.html) <br>
+[Paper](https://people.csail.mit.edu/rivest/Rsapaper.pdf) <br>
 [Video](https://www.youtube.com/watch?v=wXB-V_Keiu8)
