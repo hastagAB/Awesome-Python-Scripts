@@ -3,6 +3,7 @@
 
 # In[3]:
 
+import sys
 
 def wordFreq(string):
     word_count = {}
@@ -14,5 +15,7 @@ def wordFreq(string):
                 word_count[word] = word_count[word] + 1
             else:
                 word_count[word] = 1
-    return word_count
+    print(word_count)
 
+if __name__ == "__main__":
+    wordFreq(sys.argv[1])
