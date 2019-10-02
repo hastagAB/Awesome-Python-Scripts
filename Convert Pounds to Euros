@@ -1,0 +1,15 @@
+holidaypounds = int(input("Enter how many pounds you want to take on holiday: £"))
+euro = holidaypounds * 1.14
+print("You will have €", euro)
+
+pounds = holidaypounds / 1.14
+FiftyEuros = holidaypounds / 50
+TwentyEuros = holidaypounds / 20
+TenEuros = holidaypounds / 10
+FiveEuros = holidaypounds / 5
+
+print("You will have €", FiftyEuros, "fifty note(s)", )
+print("You will have €", TwentyEuros, "twenty note(s)", )
+print("You will have €", TenEuros, "ten note(s)", )
+print("You will have €", FiveEuros, "five note(s)", )
+
