@@ -49,8 +49,9 @@ So far, the following projects have been integrated to this repo:
 - [Gmail Mailing Script](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/mailing) by [mayank-kapur](https://github.com/kapurm17)
 - [Take Screenshot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Take_screenshot) by [Moad Mohammed Elhebri](https://github.com/moadmmh)
 - [Port Scanner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Port_Scanner) by [Plutoberth](https://github.com/Plutoberth)
+- [log4j file parser](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/logpye_log4j_search) by [0xBACE](https://github.com/0xBACE)
 
 ## Contribuition Guidelines :
 - Make a Seperate Folder for the Script.
-- There shouldn't be any Spaces between the names of the script. (Use underscore or dash Symbol) eg. Script_One
+- There shouldn't be any Spaces between the names of git the script. (Use underscore or dash Symbol) eg. Script_One
 - The Folder Should contain Python Script, its supporting files(If any) and a seperate `README.md` File with proper documentation.
