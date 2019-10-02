@@ -4,6 +4,7 @@
 * It is also based on the idea that factorizing large numbers requires years.
 * Here, the (a,n) are kept public and (p,q,b) are kept private.
 
+![](https://github.com/Chinmayrane16/Awesome-Python-Scripts/blob/master/RSA_Algorithm/RSA_Algorithm.png)
 
 ## Usage
 For Windows users:
