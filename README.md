@@ -1,4 +1,5 @@
 
+
 # Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667">
 
 ## What is this repo?
@@ -55,7 +56,12 @@ So far, the following projects have been integrated to this repo:
 |[Zabbix API](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zabbix_api)|[msg4sunny](https://github.com/msg4sunny)|
 |[Zip password cracker](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zip_password_cracker)|[umar abdullahi](https://github.com/umarbrowser)|
 
+## How to use :
 
+- Clone/Download the directory and navigate to each folder. Or...
+- Simply navigate to the folder and download/copy the scripts! It's *that* simple and easy.
+
+Remember to star the repo if you love the scipts~ :wink:
 
 ## Contribuition Guidelines :
 - Make a **separate folder** for your script.
@@ -65,6 +71,6 @@ So far, the following projects have been integrated to this repo:
 	- :heavy_check_mark: Script-One
 
 - The Folder should contain the followings -
-	- Python Script, 
+	- Main Python Script, 
 	- Supporting files for the Script (If any)
 	-  A separate `README.md` File with proper documentation.
