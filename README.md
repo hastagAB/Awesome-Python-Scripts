@@ -1,11 +1,11 @@
 # Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667">
 
 ## What is this repo?
-This repo is a compilation of some awesome scripts that automate some boring tasks or simply make our life easier.
+This repo is a compilation of some awesome scripts that automate some boring tasks or simply make our lives easier; one script at a time. 
 
 ## What do we have:
 
-So far, the following projects have been integrated to this repo:
+So far, the following projects are the scripts that have been integrated into this repository. :)
 
 - [Python Algebra Solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Algebra-Solver) by [Sengxay Xayachack](https://github.com/frankxayachack)
 - [AI chatbot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Artificial-intelligence_bot) by [umar abdullahi](https://github.com/umarbrowser)
@@ -49,7 +49,7 @@ So far, the following projects have been integrated to this repo:
 - [Gmail Mailing Script](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/mailing) by [mayank-kapur](https://github.com/kapurm17)
 - [Take Screenshot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Take_screenshot) by [Moad Mohammed Elhebri](https://github.com/moadmmh)
 
-## Contribuition Guidelines :
-- Make a Seperate Folder for the Script.
-- There shouldn't be any Spaces between the names of the script. (Use underscore or dash Symbol) eg. Script_One
-- The Folder Should contain Python Script, its supporting files(If any) and a seperate `README.md` File with proper documentation.
+## Contribution Guidelines:
+- Make a separate folder for the Script.
+- There shouldn't be any spaces in the scripts' names. Usage of underscores ('_') or dashes ('-') in place of spaces is allowed. Ex. "Script_One.py" or "Script-One.py" is preferred as compared to "Script One.py"
+- The folder should contain Python Script, and its respective supporting files (if any) and a separate `README.md` File with proper documentation.
