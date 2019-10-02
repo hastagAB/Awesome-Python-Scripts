@@ -53,5 +53,5 @@ So far, the following projects have been integrated to this repo:
 
 ## Contribuition Guidelines :
 - Make a Seperate Folder for the Script.
-- There shouldn't be any Spaces between the names of git the script. (Use underscore or dash Symbol) eg. Script_One
+- There shouldn't be any Spaces between the names of the script. (Use underscore or dash Symbol) eg. Script_One
 - The Folder Should contain Python Script, its supporting files(If any) and a seperate `README.md` File with proper documentation.
