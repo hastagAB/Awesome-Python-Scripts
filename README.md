@@ -72,3 +72,5 @@ Remember to star the repo if you love the scipts~ :wink:
 	- Main Python Script, 
 	- Supporting files for the Script (If any)
 	-  A separate `README.md` File with proper documentation.
+	
+- Feel Free to add your script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above.
