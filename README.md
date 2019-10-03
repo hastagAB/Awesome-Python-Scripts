@@ -31,7 +31,7 @@ So far, the following projects have been integrated to this repo:
 |[Gmail Mailing Script](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/mailing) |[mayank-kapur](https://github.com/kapurm17) |
 |[Handwrting DNN recognizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Handwriting_Recognizer) |[Chris]() |
 |[HTML Table to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/HTML_Table_to_List) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
-|[Image circle formatter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image-Circulator) |[Berk Gureken](https://github.com/bureken) | 
+|[Image circle formatter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image-Circulator) |[Berk Gureken](https://github.com/bureken) |
 |[Image To PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/images2pdf)|[msaoudallah](https://github.com/msaoudallah)|
 |[Instadp Web Scrapper](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/InstadpShower)|[Psychiquest](https://github.com/psychiquest)|
 |[Own IP locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Own_IP_Adress)|[Chris]()|
@@ -58,19 +58,30 @@ So far, the following projects have been integrated to this repo:
 
 - Clone/Download the directory and navigate to each folder. Or...
 - Simply navigate to the folder and download/copy the scripts! It's *that* simple and easy.
+- Setup virtual environment for all scripts:
+    - `python -m venv env`
+    - `source env\bin\activate`
+    - `pip install -r requirements.txt`
+
+- Run the scripts :)
 
 Remember to star the repo if you love the scipts~ :wink:
 
 ## Contribuition Guidelines :
 - Make a **separate folder** for your script.
-- There shouldn't be any **spaces** between the names of the script. (Use underscore or dash Symbol) 
+- There shouldn't be any **spaces** between the names of the script. (Use underscore or dash Symbol)
 	- :x: Script One
 	- :heavy_check_mark: Script_One
 	- :heavy_check_mark: Script-One
 
 - The Folder should contain the followings -
-	- Main Python Script, 
+	- Main Python Script,
 	- Supporting files for the Script (If any)
 	-  A separate `README.md` File with proper documentation.
-	
+
+- Add any third-party dependencies to `requirements.txt`
+    - If your script run on specific version of that library create a `requirements.txt` file in the script directory.
+        - `cd <your_script_dir>`
+        - `pip freeze > requirements.txt`
+
 - Feel Free to add your script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above.
