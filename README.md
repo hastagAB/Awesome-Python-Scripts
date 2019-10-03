@@ -31,7 +31,7 @@ So far, the following projects have been integrated to this repo:
 |[Gmail Mailing Script](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/mailing) |[mayank-kapur](https://github.com/kapurm17) |
 |[Handwrting DNN recognizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Handwriting_Recognizer) |[Chris]() |
 |[HTML Table to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/HTML_Table_to_List) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
-|[Image circle formatter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image-Circulator) |[Berk Gureken](https://github.com/bureken) | 
+|[Image circle formatter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image-Circulator) |[Berk Gureken](https://github.com/bureken) |
 |[Image To PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/images2pdf)|[msaoudallah](https://github.com/msaoudallah)|
 |[Instadp Web Scrapper](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/InstadpShower)|[Psychiquest](https://github.com/psychiquest)|
 |[Own IP locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Own_IP_Adress)|[Chris]()|
@@ -39,6 +39,7 @@ So far, the following projects have been integrated to this repo:
 |[Python Algebra Solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Algebra-Solver)|[Sengxay Xayachack](https://github.com/frankxayachack)|
 |[Random name generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Random_Names_Generator)| [Ayush Bhardwaj](https://github.com/hastagAB)|
 |[Server Ping](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Ping_Server)|[prince]()|
+|[Signature photo to PNG converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/signature2png)|[Rodolfo Ferro](https://github.com/RodolfoFerro)|
 |[Simple Webpage Parser](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SimpleWebpageParser)|[Nitish Srivastava](https://github.com/nitish-iiitd)|
 |[Slideshare downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Slideshare-Downloader)|[Chris Goes](https://github.com/GhostofGoes)|
 |[SMS your location](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SmsYourLocation)|[prince]()|
@@ -63,14 +64,14 @@ Remember to star the repo if you love the scipts~ :wink:
 
 ## Contribuition Guidelines :
 - Make a **separate folder** for your script.
-- There shouldn't be any **spaces** between the names of the script. (Use underscore or dash Symbol) 
+- There shouldn't be any **spaces** between the names of the script. (Use underscore or dash Symbol)
 	- :x: Script One
 	- :heavy_check_mark: Script_One
 	- :heavy_check_mark: Script-One
 
 - The Folder should contain the followings -
-	- Main Python Script, 
+	- Main Python Script,
 	- Supporting files for the Script (If any)
 	-  A separate `README.md` File with proper documentation.
-	
+
 - Feel Free to add your script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above.
