@@ -19,3 +19,5 @@ def wordFreq(string):
 
 if __name__ == "__main__":
     wordFreq(sys.argv[1])
+
+git rebase -i HEAD~[N]
