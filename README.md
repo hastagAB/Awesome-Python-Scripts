@@ -16,6 +16,7 @@ So far, the following projects have been integrated to this repo:
 - [Cricket Matches web Scraper](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/CricBuzz_Score_Update) by [Divy Ranjan](https://github.com/divyranjan17)
 - [Crypt socket](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Crypt_Socket) by [Willian GL](https://github.com/williangl)
 - [Current City Weather](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Current_City_Weather) by [Jesse Bridge](https://github.com/jessebridge)
+- [Did I Complete Hacktoberfest 2019?](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Did-I-Complete-Hacktoberfest-2019) by [jasmaa](https://github.com/jasmaa)
 - [Directory organizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory-organizer) by [Athul P](https://github.com/athulpn)
 - [File explorer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File-Explorer-Dialog-Box) by [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)
 - [Flash card quizzer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Flash-card-Challenge) by [Utkarsh Sharma](https://github.com/Utkarsh1308)
