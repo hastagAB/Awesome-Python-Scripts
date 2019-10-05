@@ -57,6 +57,7 @@ So far, the following projects have been integrated to this repo:
 |[Zip password cracker](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zip_password_cracker)|[umar abdullahi](https://github.com/umarbrowser)|
 |[CLI Calculator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/cli_calculator)|[Willian GL](https://github.com/williangl) |
 |[Find PhoneNumber in String](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Find-PhoneNumber-in-String)|[Austin Zuniga](https://github.com/AustinZuniga)|
+|[IMDB TV Series Info Extractor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) |
 
 ## How to use :
 
