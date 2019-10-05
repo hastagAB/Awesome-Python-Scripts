@@ -58,12 +58,12 @@ So far, the following projects have been integrated to this repo:
 
 - Clone/Download the directory and navigate to each folder. Or...
 - Simply navigate to the folder and download/copy the scripts! It's *that* simple and easy.
-- Setup virtual environment for all scripts:
+- Setup virtual environment for that scripts:
     - `python -m venv env`
     - `source env\bin\activate`
     - `pip install -r requirements.txt`
 
-- Run the scripts :)
+- Run the script :)
 
 Remember to star the repo if you love the scipts~ :wink:
 
@@ -78,10 +78,12 @@ Remember to star the repo if you love the scipts~ :wink:
 	- Main Python Script,
 	- Supporting files for the Script (If any)
 	-  A separate `README.md` File with proper documentation.
+    - `requirements.txt` file for any required library.
 
-- Add any third-party dependencies to `requirements.txt`
-    - If your script run on specific version of that library create a `requirements.txt` file in the script directory.
-        - `cd <your_script_dir>`
-        - `pip freeze > requirements.txt`
+    - How to create `requirements.txt` file
+            - `cd <your_script_dir>`
+            - Activate your local virtual environment
+                - `source env\bin\activate`
+            - `pip freeze > requirements.txt`
 
 - Feel Free to add your script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above.

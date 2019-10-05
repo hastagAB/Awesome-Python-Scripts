@@ -3,18 +3,18 @@
 A simple implementation on how to take screenshots .
 
  #### Required Modules :
-  - Numpy   
+  - Numpy
     ```bash
       pip install numpy
     ```
-  - Opencv   
+  - Opencv
     ```bash
       pip install opencv-python
     ```
-  - Pyautogui 
+  - Pyautogui
     ```bash
       pip3 install pyautogui --user
     ```
   #### Results :
-    
+
    ![alt text](https://github.com/moadmmh/Awesome-OpenCV/blob/master/Take_Screenshot/test.png)
