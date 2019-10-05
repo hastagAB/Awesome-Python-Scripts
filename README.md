@@ -34,11 +34,13 @@ So far, the following projects have been integrated to this repo:
 |[Image circle formatter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image-Circulator) |[Berk Gureken](https://github.com/bureken) |
 |[Image To PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/images2pdf)|[msaoudallah](https://github.com/msaoudallah)|
 |[Instadp Web Scrapper](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/InstadpShower)|[Psychiquest](https://github.com/psychiquest)|
+|[Minecraft Server in background](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Minecraft_server_in_background)|[Max von Forell](https://github.com/mvforell)|
 |[Own IP locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Own_IP_Adress)|[Chris]()|
 |[Port Scanner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Port_Scanner)|[Plutoberth](https://github.com/Plutoberth)|
 |[Python Algebra Solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Algebra-Solver)|[Sengxay Xayachack](https://github.com/frankxayachack)|
 |[Random name generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Random_Names_Generator)| [Ayush Bhardwaj](https://github.com/hastagAB)|
 |[Server Ping](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Ping_Server)|[prince]()|
+|[Signature photo to PNG converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/signature2png)|[Rodolfo Ferro](https://github.com/RodolfoFerro)|
 |[Simple Webpage Parser](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SimpleWebpageParser)|[Nitish Srivastava](https://github.com/nitish-iiitd)|
 |[Slideshare downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Slideshare-Downloader)|[Chris Goes](https://github.com/GhostofGoes)|
 |[SMS your location](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SmsYourLocation)|[prince]()|
@@ -53,6 +55,9 @@ So far, the following projects have been integrated to this repo:
 |[Youtube video downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Youtube_Video_Downloader)|[Christopher He](https://github.com/hecris)|
 |[Zabbix API](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zabbix_api)|[msg4sunny](https://github.com/msg4sunny)|
 |[Zip password cracker](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zip_password_cracker)|[umar abdullahi](https://github.com/umarbrowser)|
+|[CLI Calculator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/cli_calculator)|[Willian GL](https://github.com/williangl) |
+|[Find PhoneNumber in String](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Find-PhoneNumber-in-String)|[Austin Zuniga](https://github.com/AustinZuniga)|
+|[IMDB TV Series Info Extractor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) |
 
 ## How to use :
 
