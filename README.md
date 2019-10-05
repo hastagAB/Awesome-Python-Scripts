@@ -11,6 +11,7 @@ So far, the following projects have been integrated to this repo:
 
 | Project Name | Contributors |
 |--|--|
+|[File Encrypt Decrypt](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)|
 | [Address locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Adress) | [Chris]() |
 |[AI chatbot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Artificial-intelligence_bot) |[umar abdullahi](https://github.com/umarbrowser) |
 |[Asymmetric Encryption](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) |
