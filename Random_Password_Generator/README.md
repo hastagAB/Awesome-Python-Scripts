@@ -7,7 +7,12 @@ This program uses the Python 3 module `secrets` to create a pseudo random passwo
 
 # Requirements
 * [PasswordGenerator.py](./PasswordGenerator.py) can use Python 3 and higher or Python 2 and higher
-* [createPassword.py](./createPassword.py) can use python 3.6 or higher
+* [createPassword.py](./createPassword.py) can run on python 3.6 or higher or for Python 2 do:
+  * `cd Random_Password_Generator/` to change directory into this folder. 
+  * Create virtual environment with `virtualvenv env`
+  * do `source venv/bin/activate` to activate virtual environment.
+  * do `pip install -r requirements.txt` to install python2-secrets
+  * **TIP**: to deactivate virtual environment, do `deactivate`. 
 
 # Usage
 
