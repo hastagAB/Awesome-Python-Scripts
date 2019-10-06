@@ -16,6 +16,7 @@ So far, the following projects have been integrated to this repo:
 |[AI chatbot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Artificial-intelligence_bot) |[umar abdullahi](https://github.com/umarbrowser) |
 |[Asymmetric Encryption](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) |
 |[Bitcoin price GUI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Bitcoin-Price-GUI) |[Amirul Abu](https://github.com/amirulabu) |
+|[Cryptocurrency Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-converter) |[AdnCodz](https://github.com/AdnCodez) |
 |[Caesar Cipher](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/caeser_cipher) |[epi052](https://github.com/epi052) |
 |[Checksum tool](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Checksum) |[Austin Ewens](https://github.com/aewens) |
 |[Codechef autosubmitter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Codechef-Code-Submitter) |[Harshit Mahajan](https://github.com/hmahajan99) |
