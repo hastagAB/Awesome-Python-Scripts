@@ -11,10 +11,12 @@ So far, the following projects have been integrated to this repo:
 
 | Project Name | Contributors |
 |--|--|
+|[File Encrypt Decrypt](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)|
 | [Address locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Adress) | [Chris]() |
 |[AI chatbot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Artificial-intelligence_bot) |[umar abdullahi](https://github.com/umarbrowser) |
 |[Asymmetric Encryption](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) |
 |[Bitcoin price GUI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Bitcoin-Price-GUI) |[Amirul Abu](https://github.com/amirulabu) |
+|[Cryptocurrency Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-converter) |[AdnCodz](https://github.com/AdnCodez) |
 |[Caesar Cipher](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/caeser_cipher) |[epi052](https://github.com/epi052) |
 |[Checksum tool](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Checksum) |[Austin Ewens](https://github.com/aewens) |
 |[Codechef autosubmitter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Codechef-Code-Submitter) |[Harshit Mahajan](https://github.com/hmahajan99) |
@@ -24,6 +26,7 @@ So far, the following projects have been integrated to this repo:
 | [Crypt socket](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Crypt_Socket)|[Willian GL](https://github.com/williangl) |
 |[Current City Weather](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Current_City_Weather) |[Jesse Bridge](https://github.com/jessebridge) |
 |[Directory organizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory-organizer) | [Athul P](https://github.com/athulpn) |
+|[Excel Files Merger](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_Files_Merger) | [Andrei N](https://github.com/Andrei-Niculae)|
 |[Excel to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_to_ListofList) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
 |[File explorer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File-Explorer-Dialog-Box) | [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|
 |[Flash card quizzer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Flash-card-Challenge) |[Utkarsh Sharma](https://github.com/Utkarsh1308) |
@@ -31,14 +34,17 @@ So far, the following projects have been integrated to this repo:
 |[Gmail Mailing Script](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/mailing) |[mayank-kapur](https://github.com/kapurm17) |
 |[Handwrting DNN recognizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Handwriting_Recognizer) |[Chris]() |
 |[HTML Table to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/HTML_Table_to_List) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
-|[Image circle formatter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image-Circulator) |[Berk Gureken](https://github.com/bureken) | 
+|[Image circle formatter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image-Circulator) |[Berk Gureken](https://github.com/bureken) |
 |[Image To PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/images2pdf)|[msaoudallah](https://github.com/msaoudallah)|
 |[Instadp Web Scrapper](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/InstadpShower)|[Psychiquest](https://github.com/psychiquest)|
+|[Keylogger](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Keylogger) |[Preet Mishra](https://github.com/preetmishra) |
+|[Minecraft Server in background](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Minecraft_server_in_background)|[Max von Forell](https://github.com/mvforell)|
 |[Own IP locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Own_IP_Adress)|[Chris]()|
 |[Port Scanner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Port_Scanner)|[Plutoberth](https://github.com/Plutoberth)|
 |[Python Algebra Solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Algebra-Solver)|[Sengxay Xayachack](https://github.com/frankxayachack)|
 |[Random name generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Random_Names_Generator)| [Ayush Bhardwaj](https://github.com/hastagAB)|
 |[Server Ping](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Ping_Server)|[prince]()|
+|[Signature photo to PNG converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/signature2png)|[Rodolfo Ferro](https://github.com/RodolfoFerro)|
 |[Simple Webpage Parser](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SimpleWebpageParser)|[Nitish Srivastava](https://github.com/nitish-iiitd)|
 |[Slideshare downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Slideshare-Downloader)|[Chris Goes](https://github.com/GhostofGoes)|
 |[SMS your location](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SmsYourLocation)|[prince]()|
@@ -53,24 +59,42 @@ So far, the following projects have been integrated to this repo:
 |[Youtube video downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Youtube_Video_Downloader)|[Christopher He](https://github.com/hecris)|
 |[Zabbix API](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zabbix_api)|[msg4sunny](https://github.com/msg4sunny)|
 |[Zip password cracker](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zip_password_cracker)|[umar abdullahi](https://github.com/umarbrowser)|
+|[CLI Calculator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/cli_calculator)|[Willian GL](https://github.com/williangl) |
+|[Find PhoneNumber in String](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Find-PhoneNumber-in-String)|[Austin Zuniga](https://github.com/AustinZuniga)|
+|[IMDB TV Series Info Extractor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) |
+|[Yoda-speak Translator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/speak_like_yoda)|[sonniki](https://github.com/sonniki) |
+|[SSH Host adder](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SSH_Host_Adder)|[NinoDoko](https://github.com/NinoDoko)|
 
 ## How to use :
 
 - Clone/Download the directory and navigate to each folder. Or...
 - Simply navigate to the folder and download/copy the scripts! It's *that* simple and easy.
+- Setup virtual environment for that scripts:
+    - `python -m venv env`
+    - `source env\bin\activate`
+    - `pip install -r requirements.txt`
+
+- Run the script :)
 
 Remember to star the repo if you love the scipts~ :wink:
 
 ## Contribuition Guidelines :
 - Make a **separate folder** for your script.
-- There shouldn't be any **spaces** between the names of the script. (Use underscore or dash Symbol) 
+- There shouldn't be any **spaces** between the names of the script. (Use underscore or dash Symbol)
 	- :x: Script One
 	- :heavy_check_mark: Script_One
 	- :heavy_check_mark: Script-One
 
 - The Folder should contain the followings -
-	- Main Python Script, 
+	- Main Python Script,
 	- Supporting files for the Script (If any)
 	-  A separate `README.md` File with proper documentation.
-	
+    - `requirements.txt` file for any required library.
+
+    - How to create `requirements.txt` file
+            - `cd <your_script_dir>`
+            - Activate your local virtual environment
+                - `source env\bin\activate`
+            - `pip freeze > requirements.txt`
+
 - Feel Free to add your script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above.

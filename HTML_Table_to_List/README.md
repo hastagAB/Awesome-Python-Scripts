@@ -3,7 +3,7 @@ A simple tool which takes a HTML table as string, and converts it to python list
 
 ## Libraries Required
 1. Beautiful Soap
-`$pip install bs4`
+`$pip install beautifulsoup4`
 
 ## Usage
-A sample script `html_table_to_list_usage.py` has been provided to show the usage of the HTMLTableToList. It takes a string of html table, and prints the corresponding list of list. 
+A sample script `html_table_to_list_usage.py` has been provided to show the usage of the HTMLTableToList. It takes a string of html table, and prints the corresponding list of list.
