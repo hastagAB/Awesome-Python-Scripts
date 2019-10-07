@@ -43,6 +43,7 @@ So far, the following projects have been integrated to this repo:
 |[Port Scanner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Port_Scanner)|[Plutoberth](https://github.com/Plutoberth)|
 |[Python Algebra Solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Algebra-Solver)|[Sengxay Xayachack](https://github.com/frankxayachack)|
 |[Random name generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Random_Names_Generator)| [Ayush Bhardwaj](https://github.com/hastagAB)|
+|[Random Password Generators](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Random_Password_Generator)| [Hafpaf](https://github.com/hafpaf) and [Renderer-RCT2](https://github.com/Renderer-RCT2)|
 |[Server Ping](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Ping_Server)|[prince]()|
 |[Signature photo to PNG converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/signature2png)|[Rodolfo Ferro](https://github.com/RodolfoFerro)|
 |[Simple Webpage Parser](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SimpleWebpageParser)|[Nitish Srivastava](https://github.com/nitish-iiitd)|
