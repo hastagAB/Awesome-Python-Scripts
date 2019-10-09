@@ -32,4 +32,7 @@ def download(post_id):
         print("Downloading video {}".format(no))
         urllib.request.urlretrieve(video, "{}_{}.mp4".format(post_id, no))
 
-download(sys.argv[1])
+if len(sys.argv) == 1:
+    print("Please provide instagram post id")
+else:
+    download(sys.argv[1])
