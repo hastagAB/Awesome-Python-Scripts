@@ -98,3 +98,5 @@ Remember to star the repo if you love the scipts~ :wink:
             - `pip freeze > requirements.txt`
 
 - Feel Free to add your script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above.
+
+- One Commit per PR is the Golden Rule. 
