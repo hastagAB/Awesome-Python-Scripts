@@ -28,6 +28,7 @@ So far, the following projects have been integrated to this repo:
 |[Directory organizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory-organizer) | [Athul P](https://github.com/athulpn) |
 |[Excel Files Merger](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_Files_Merger) | [Andrei N](https://github.com/Andrei-Niculae)|
 |[Excel to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_to_ListofList) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
+|[Extended_ip_address_info](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/extended_ip_address_info) | [hafpaf](https://github.com/hafpaf)|
 |[File explorer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File-Explorer-Dialog-Box) | [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|
 |[File Sharing Bot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File-Sharing-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)|
 |[Flash card quizzer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Flash-card-Challenge) |[Utkarsh Sharma](https://github.com/Utkarsh1308) |
