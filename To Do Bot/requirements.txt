@@ -1,0 +1,5 @@
+python-dateutil==2.6.0
+requests
+telepot==10.5
+urllib3
+virtualenv==15.1.0
