@@ -26,6 +26,7 @@ So far, the following projects have been integrated to this repo:
 | [Crypt socket](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Crypt_Socket)|[Willian GL](https://github.com/williangl) |
 |[Current City Weather](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Current_City_Weather) |[Jesse Bridge](https://github.com/jessebridge) |
 |[Directory organizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory-organizer) | [Athul P](https://github.com/athulpn) |
+|[DOH DIG](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/DOH-Dig/) | [Ryan](https://github.com/awsumco) |
 |[Excel Files Merger](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_Files_Merger) | [Andrei N](https://github.com/Andrei-Niculae)|
 |[Excel to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_to_ListofList) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
 |[Extended_ip_address_info](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/extended_ip_address_info) | [hafpaf](https://github.com/hafpaf)|
