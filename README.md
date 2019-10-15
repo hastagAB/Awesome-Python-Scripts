@@ -13,6 +13,7 @@ So far, the following projects have been integrated to this repo:
 |--|--|
 |[File Encrypt Decrypt](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)|
 | [Address locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Adress) | [Chris]() |
+| [Automated emails](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/automated_email) | [Suvigya](https://github.com/SuvigyaJain1) |
 |[AI chatbot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Artificial-intelligence_bot) |[umar abdullahi](https://github.com/umarbrowser) |
 |[Asymmetric Encryption](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) |
 |[Bitcoin price GUI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Bitcoin-Price-GUI) |[Amirul Abu](https://github.com/amirulabu) |
@@ -103,4 +104,4 @@ Remember to star the repo if you love the scipts~ :wink:
 
 - Feel Free to add your script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above.
 
-- One Commit per PR is the Golden Rule. 
+- One Commit per PR is the Golden Rule.
