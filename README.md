@@ -13,6 +13,7 @@ So far, the following projects have been integrated to this repo:
 |--|--|
 |[File Encrypt Decrypt](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)|
 | [Address locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Adress) | [Chris]() |
+| [Automated emails](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/automated_email) | [Suvigya](https://github.com/SuvigyaJain1) |
 |[AI chatbot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Artificial-intelligence_bot) |[umar abdullahi](https://github.com/umarbrowser) |
 |[Asymmetric Encryption](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) |
 |[Bitcoin price GUI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Bitcoin-Price-GUI) |[Amirul Abu](https://github.com/amirulabu) |
@@ -26,6 +27,7 @@ So far, the following projects have been integrated to this repo:
 | [Crypt socket](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Crypt_Socket)|[Willian GL](https://github.com/williangl) |
 |[Current City Weather](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Current_City_Weather) |[Jesse Bridge](https://github.com/jessebridge) |
 |[Directory organizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory-organizer) | [Athul P](https://github.com/athulpn) |
+|[DOH DIG](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/DOH-Dig/) | [Ryan](https://github.com/awsumco) |
 |[Excel Files Merger](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_Files_Merger) | [Andrei N](https://github.com/Andrei-Niculae)|
 |[Excel to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_to_ListofList) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
 |[Extended_ip_address_info](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/extended_ip_address_info) | [hafpaf](https://github.com/hafpaf)|
@@ -55,6 +57,7 @@ So far, the following projects have been integrated to this repo:
 |[Subtitle downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Subtitle-downloader)|[Kaushlendra Pratap](https://github.com/kaushl1998)|
 |[Take Screenshot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Take_screenshot)|[Moad Mohammed Elhebri](https://github.com/moadmmh)|
 |[To Do Bot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/To-Do-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)|
+|[Upload Files to S3](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Upload_files_to_s3)|[Jayram Nai](https://github.com/jramnai)|
 |[Vinegère Cipher](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/vigenere_cipher)|[victoni](https://github.com/victoni)|
 |[Web proxy](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Proxy-Request)|[Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|
 |[Website blocker](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Website-Blocker)|[Ayush Bhardwaj](https://github.com/hastagAB)|
@@ -67,6 +70,7 @@ So far, the following projects have been integrated to this repo:
 |[Find PhoneNumber in String](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Find-PhoneNumber-in-String)|[Austin Zuniga](https://github.com/AustinZuniga)|
 |[IMDB TV Series Info Extractor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) |
 |[Yoda-speak Translator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/speak_like_yoda)|[sonniki](https://github.com/sonniki) |
+|[Medium Article Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)|
 
 ## How to use :
 
@@ -102,4 +106,4 @@ Remember to star the repo if you love the scipts~ :wink:
 
 - Feel Free to add your script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above.
 
-- One Commit per PR is the Golden Rule. 
+- One Commit per PR is the Golden Rule.
