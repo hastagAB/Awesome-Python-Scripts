@@ -83,9 +83,9 @@ So far, the following projects have been integrated to this repo:
 
 - Run the script :)
 
-Remember to star the repo if you love the scipts~ :wink:
+Remember to star the repo if you love the scripts~ :wink:
 
-## Contribuition Guidelines :
+## Contribution Guidelines :
 - Make a **separate folder** for your script.
 - There shouldn't be any **spaces** between the names of the script. (Use underscore or dash Symbol)
 	- :x: Script One
