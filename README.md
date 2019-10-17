@@ -1,4 +1,4 @@
-# Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667">
+﻿# Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667">
 
 ## What is this repo?
 This repo is a compilation of some *awesome* Python scripts that automate some boring tasks or simply make our life easier...or both!
@@ -71,7 +71,7 @@ So far, the following projects have been integrated to this repo:
 |[IMDB TV Series Info Extractor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) |
 |[Yoda-speak Translator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/speak_like_yoda)|[sonniki](https://github.com/sonniki) |
 |[Medium Article Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)|
-
+|[Clean_up_photo](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Clean_up_photo)|[sritanmay001](https://github.com/sritanmy001)|
 ## How to use :
 
 - Clone/Download the directory and navigate to each folder. Or...
