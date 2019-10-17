@@ -71,7 +71,7 @@ So far, the following projects have been integrated to this repo:
 |[IMDB TV Series Info Extractor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) |
 |[Yoda-speak Translator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/speak_like_yoda)|[sonniki](https://github.com/sonniki) |
 |[Medium Article Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)|
-
+|[Face Recognition](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/image_recognition)|[LOKESH KHURANA](https://github.com/theluvvkhurana)|
 ## How to use :
 
 - Clone/Download the directory and navigate to each folder. Or...
