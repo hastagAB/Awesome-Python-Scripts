@@ -1,0 +1,1 @@
+This program is used to find out the "bad" picture files and then eventually delete them.
