@@ -72,6 +72,7 @@ So far, the following projects have been integrated to this repo:
 |[Yoda-speak Translator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/speak_like_yoda)|[sonniki](https://github.com/sonniki) |
 |[Medium Article Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)|
 |[Clean_up_photo](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Clean_up_photo)|[sritanmay001](https://github.com/sritanmy001)|
+|[PyRecorder](./PyRecorder)|[Rocky Jain](https://github.com/jainrocky)|
 ## How to use :
 
 - Clone/Download the directory and navigate to each folder. Or...
