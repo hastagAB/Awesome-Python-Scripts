@@ -1,11 +1,11 @@
-﻿# Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://legacy.python.org/community/logos/python-powered-w-70x28.png"> <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667">
+﻿# Awesome Python Scripts <img alt="PyPI" src="https://legacy.python.org/community/logos/python-powered-w-70x28.png"> <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667">
 
 ## What is this repo?
 This repo is a compilation of some *awesome* Python scripts that automate some boring tasks or simply make our life easier...or both!
 
 :cookie: Cookies for all contributors as well~
 
-## What do we have:
+## :sunglasses: What do we have:
 
 So far, the following projects have been integrated to this repo:
 
