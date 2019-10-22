@@ -1,0 +1,23 @@
+def animate(i):
+    dataLink = 'https://btc-e.com/api/3/trades/btc_usd?limit=2000'
+    data = urllib.request.urlopen(dataLink)
+    data = data.readall().decode("utf-8")
+    data = json.loads(data)
+
+    
+    data = data["btc_usd"]
+    data = pd.DataFrame(data)
+
+    buys = data[(data['type']=="bid")]
+    buys["datestamp"] = np.array(buys["timestamp"]).astype("datetime64[s]")
+    buyDates = (buys["datestamp"]).tolist()
+    
+
+    sells = data[(data['type']=="ask")]
+    sells["datestamp"] = np.array(sells["timestamp"]).astype("datetime64[s]")
+    sellDates = (sells["datestamp"]).tolist()
+
+    a.clear()
+
+    a.plot_date(buyDates, buys["price"])
+    a.plot_date(sellDates, sells["price"])
