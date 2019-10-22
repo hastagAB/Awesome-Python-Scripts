@@ -71,6 +71,7 @@ So far, the following projects have been integrated to this repo:
 |[IMDB TV Series Info Extractor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) |
 |[Yoda-speak Translator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/speak_like_yoda)|[sonniki](https://github.com/sonniki) |
 |[Medium Article Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)|
+|[RSA Key Pair Generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA-key-pairs) | [Aditya Parikh](https://github.com/obiwan69) |
 |[Clean_up_photo](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Clean_up_photo)|[sritanmay001](https://github.com/sritanmy001)|
 |[PyRecorder](./PyRecorder)|[Rocky Jain](https://github.com/jainrocky)|
 |[Pretty CSV](https://github.com/Frizz925/Awesome-Python-Scripts/tree/pretty-csv/Pretty-CSV)|[Frizz925](https://github.com/Frizz925)|
