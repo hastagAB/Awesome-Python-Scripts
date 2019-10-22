@@ -73,6 +73,8 @@ So far, the following projects have been integrated to this repo:
 |[Medium Article Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)|
 |[Clean_up_photo](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Clean_up_photo)|[sritanmay001](https://github.com/sritanmy001)|
 |[PyRecorder](./PyRecorder)|[Rocky Jain](https://github.com/jainrocky)|
+|[Pretty CSV](https://github.com/Frizz925/Awesome-Python-Scripts/tree/pretty-csv/Pretty-CSV)|[Frizz925](https://github.com/Frizz925)|
+
 ## How to use :
 
 - Clone/Download the directory and navigate to each folder. Or...
