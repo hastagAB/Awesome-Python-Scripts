@@ -1,4 +1,4 @@
-# Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667">
+﻿# Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667">
 
 ## What is this repo?
 This repo is a compilation of some *awesome* Python scripts that automate some boring tasks or simply make our life easier...or both!
@@ -72,6 +72,9 @@ So far, the following projects have been integrated to this repo:
 |[Yoda-speak Translator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/speak_like_yoda)|[sonniki](https://github.com/sonniki) |
 |[Medium Article Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)|
 |[RSA Key Pair Generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA-key-pairs) | [Aditya Parikh](https://github.com/obiwan69) |
+|[Clean_up_photo](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Clean_up_photo)|[sritanmay001](https://github.com/sritanmy001)|
+|[PyRecorder](./PyRecorder)|[Rocky Jain](https://github.com/jainrocky)|
+|[Pretty CSV](https://github.com/Frizz925/Awesome-Python-Scripts/tree/pretty-csv/Pretty-CSV)|[Frizz925](https://github.com/Frizz925)|
 
 ## How to use :
 
@@ -84,9 +87,9 @@ So far, the following projects have been integrated to this repo:
 
 - Run the script :)
 
-Remember to star the repo if you love the scipts~ :wink:
+Remember to star the repo if you love the scripts~ :wink:
 
-## Contribuition Guidelines :
+## Contribution Guidelines :
 - Make a **separate folder** for your script.
 - There shouldn't be any **spaces** between the names of the script. (Use underscore or dash Symbol)
 	- :x: Script One
