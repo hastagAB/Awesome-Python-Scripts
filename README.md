@@ -1,5 +1,5 @@
-﻿# Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667">
-
+﻿# Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667"> [![HitCount](http://hits.dwyl.io/hastagAB/Awesome-Python-Scripts.svg)](http://hits.dwyl.io/hastagAB/Awesome-Python-Scripts)  ![GitHub stars](https://img.shields.io/github/stars/hastagAB/Awesome-Python-Scripts?style=social)
+ 
 ## What is this repo?
 This repo is a compilation of some *awesome* Python scripts that automate some boring tasks or simply make our life easier...or both!
 
@@ -75,6 +75,7 @@ So far, the following projects have been integrated to this repo:
 |[Clean_up_photo](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Clean_up_photo)|[sritanmay001](https://github.com/sritanmy001)|
 |[PyRecorder](./PyRecorder)|[Rocky Jain](https://github.com/jainrocky)|
 |[Pretty CSV](https://github.com/Frizz925/Awesome-Python-Scripts/tree/pretty-csv/Pretty-CSV)|[Frizz925](https://github.com/Frizz925)|
+|[File Organizer](https://github.com/Frizz925/Awesome-Python-Scripts/tree/File-Organizer)|[Ayush Bhardwaj](https://github.com/hastagAB)|
 |[YTS Torrents](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/yts_torrents)|[Mayank Nader](https://github.com/makkoncept)|
 
 ## How to use :
@@ -109,6 +110,14 @@ Remember to star the repo if you love the scripts~ :wink:
                 - `source env\bin\activate`
             - `pip freeze > requirements.txt`
 
-- Feel Free to add your script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above.
+- Please add your script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above.
 
-- One Commit per PR is the Golden Rule.
+- Only One Commit per PR is Adviced.
+
+# Want to connect with me ?
+- [LinkedIn](https://www.linkedin.com/in/hastagab/)
+- [Twitter](https://twitter.com/HastagAB)
+- [Facebook](https://www.facebook.com/SirHastagAB) 
+- [Quora](https://www.quora.com/profile/Ayush-Bhardwaj-76)
+
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-HastagAB-red)](https://github.com/hastagAB)
