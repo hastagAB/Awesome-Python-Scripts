@@ -76,6 +76,7 @@ So far, the following projects have been integrated to this repo:
 |[PyRecorder](./PyRecorder)|[Rocky Jain](https://github.com/jainrocky)|
 |[Pretty CSV](https://github.com/Frizz925/Awesome-Python-Scripts/tree/pretty-csv/Pretty-CSV)|[Frizz925](https://github.com/Frizz925)|
 |[File Organizer](https://github.com/Frizz925/Awesome-Python-Scripts/tree/File-Organizer)|[Ayush Bhardwaj](https://github.com/hastagAB)|
+|[send_whatsapp_message](https://github.com/mukeshprasad/Awesome-Python-Scripts/tree/master/send_whatsapp_message)|[Mukesh Prasad](https://github.com/mukeshprasad)|
 |[YTS Torrents](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/yts_torrents)|[Mayank Nader](https://github.com/makkoncept)|
 
 ## How to use :
