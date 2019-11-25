@@ -40,6 +40,7 @@ So far, the following projects have been integrated to this repo:
 |[HTML Table to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/HTML_Table_to_List) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
 |[Image circle formatter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image-Circulator) |[Berk Gureken](https://github.com/bureken) |
 |[Image To PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/images2pdf)|[msaoudallah](https://github.com/msaoudallah)|
+|[Importance Checker](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/ImportanceChecker)|[natesabrown](https://github.com/natesabrown)|
 |[Instadp Web Scrapper](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/InstadpShower)|[Psychiquest](https://github.com/psychiquest)|
 |[Keylogger](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Keylogger) |[Preet Mishra](https://github.com/preetmishra) |
 |[Minecraft Server in background](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Minecraft_server_in_background)|[Max von Forell](https://github.com/mvforell)|
