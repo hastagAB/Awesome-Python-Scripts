@@ -79,7 +79,6 @@ So far, the following projects have been integrated to this repo:
 |[send_whatsapp_message](send_whatsapp_message)|[Mukesh Prasad](https://github.com/mukeshprasad)|
 |[YTS Torrents](yts_torrents)|[Mayank Nader](https://github.com/makkoncept)|
 
-
 ## How to use :
 
 - Clone/Download the directory and navigate to each folder. Or...
