@@ -1,4 +1,3 @@
-# WorkLog
-pygithub
+QDarkStyle
 PyQt5
-qdarkstyle
+PyGithub
