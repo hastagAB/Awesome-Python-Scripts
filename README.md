@@ -72,6 +72,7 @@ So far, the following projects have been integrated to this repo:
 |[IMDB TV Series Info Extractor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) |
 |[PX to REM](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PX-to-REM)|[Atthaphon Urairat](https://github.com/uatthaphon) |
 |[Yoda-speak Translator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/speak_like_yoda)|[sonniki](https://github.com/sonniki) |
+|[SSH Host adder](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SSH_Host_Adder)|[NinoDoko](https://github.com/NinoDoko)|
 |[Wikipedia-Search](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Wikipedia-Search)|[Nissaar](https://github.com/Nissaar) |
 |[Instagram Video Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/insta_video_downloader)|[Shobhit Bhosure](https://github.com/shobhit99) |
 |[Medium Article Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)|
