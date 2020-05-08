@@ -144,6 +144,7 @@ So far, the following projects have been integrated to this repo:
 |[File Organizer](File-Organizer)|[Ayush Bhardwaj](https://github.com/hastagAB)|
 |[send_whatsapp_message](send_whatsapp_message)|[Mukesh Prasad](https://github.com/mukeshprasad)|
 |[YTS Torrents](yts_torrents)|[Mayank Nader](https://github.com/makkoncept)|
+|[COVID visualiser (real-time) ](covdi_visualiser)|[Tushar Gupta](https://github.com/tushar5526)|
 
 ## How to use :
 
