@@ -11,7 +11,6 @@ So far, the following projects have been integrated to this repo:
 
 | Project Name | Contributors |
 |--|--|
-
 |[File Encrypt Decrypt](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)|
 | [Address locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Adress) | [Chris]() |
 | [Automated emails](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/automated_email) | [Suvigya](https://github.com/SuvigyaJain1) |
