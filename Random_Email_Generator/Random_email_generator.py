@@ -4,11 +4,11 @@ import csv
 import progressbar
 
 '''
-Asks user for how many fake emails they want generated. Must be Integer. Duh.
+Asks user for how many emails they want generated. Must be Integer.
 If not an integer, keeps recursively cycling back until it gets an integer. 
 '''
 def getcount():
-	rownums = input("How many fake email addresses?: ")
+	rownums = input("How many email addresses?: ")
 	try:
 		rowint = int(rownums)
 		return rowint
