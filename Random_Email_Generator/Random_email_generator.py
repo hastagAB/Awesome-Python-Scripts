@@ -51,7 +51,7 @@ print ("Progress: ")
 prebar = progressbar.ProgressBar(maxval=int(howmany))
 
 for i in prebar(range(howmany)):
-	while counter <= howmany:
+	while counter < howmany:
 		emailarray.append(str(makeEmail()))
 		counter = counter+1
 		prebar.update(i)
