@@ -1,5 +1,4 @@
 # COMMAND AND CONTROL CENTER - REVERSE_SHELL AND HANDLER #
-# ========================================================
 
 # 0) PLEASE READ FILES UNDER "USAGE GUIDE" !!!
 # 1) server.py HANDLES THE CONTROLS OF THE PAYLOAD	-	MAIN CONTROL SCRIPT
