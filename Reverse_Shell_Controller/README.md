@@ -15,7 +15,7 @@ handler.py IS THE CONTROLLER (TO BE DEPLOYED ON THE ATTACKER MACHINE)
 reverse_shell.py - "Online_Safety_Guide.png.exe" IS THE PAYLOAD (TO BE INJECTED INTO THE VICTIM AND NEEDS TO BE RUN BY THE USER)
 
 
-================================================================================================================================================
+----------------
 
 # MANDATORY REQUIREMENTS:-
 
