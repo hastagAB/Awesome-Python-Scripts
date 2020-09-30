@@ -18,3 +18,4 @@ for (dirname, dirs, files) in os.walk('.'):
                print 'iPhone:', thefile
 	       #os.remove(thefile) Add this when you are sure to delete the file
                continue
+print("Finished")
