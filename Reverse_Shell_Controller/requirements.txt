@@ -1,0 +1,13 @@
+socket
+termcolor
+json
+base64
+subprocess
+datetime
+shutil
+threading
+requests
+mss==4.0.2
+PyAudio
+wave
+pynput
