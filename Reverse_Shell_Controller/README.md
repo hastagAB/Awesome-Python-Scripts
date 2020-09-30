@@ -1,11 +1,11 @@
-================================================================================================================================================
-
 # COMMAND AND CONTROL CENTER - REVERSE_SHELL AND HANDLER #
 #========================================================#
 
-# 1) server.py HANDLES THE CONTROLS OF THE PAYLOAD
-# 2) CORRESPONDING reverse_shell.py SCRIPT
-# 3) DEPENDEDNT AND INCLUDED SCRIPTS - keyLogger.py ; soundRecorder.py
+# 0) PLEASE READ FILES UNDER "USAGE GUIDE" !!!
+# 1) server.py HANDLES THE CONTROLS OF THE PAYLOAD	-	MAIN CONTROL SCRIPT
+# 2) CORRESPONDING reverse_shell.py SCRIPT		-	MAIN ATTACK SCRIPT (PAYLOAD)
+# 3) DEPENDEDNT AND INCLUDED SCRIPTS - keyLogger.py ; soundRecorder.py ; camRecorder.py
+# 4) All other requirements (to disguise the payload) are available in the Res folder
 
 # THIS SET OF SCRIPTS, THE HANDLER (handler) ALONG WITH ITS REVERSE_SHELL (AND OTHER DEPENDENT SCRIPTS)
 # ALLOWS REMOTE CONNECTIONS TO MULTIPLE TARGET MACHINES AND GAIN THEIR REMOTE ACCESS
