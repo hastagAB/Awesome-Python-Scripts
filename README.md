@@ -148,6 +148,7 @@ So far, the following projects have been integrated to this repo:
 |[YTS Torrents](yts_torrents)|[Mayank Nader](https://github.com/makkoncept)|
 |[COVID visualiser (real-time) ](covdi_visualiser)|[Tushar Gupta](https://github.com/tushar5526)|
 |[Random_Email_Generator](Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
+|[Reverse_Shell_Controller](Reverse_Shell_Controller)|[Raktim Saha](https://github.com/Ricky-001)|
 
 ## How to use :
 
