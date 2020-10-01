@@ -2,7 +2,7 @@ import argparse
 import requests
 
 aq = argparse.ArgumentParser()
-aq.add_argument('-i', '--input', required=True, help="input image path")
+aq.add_argument('-i', '--input', required=True, help="input image link")
 
 aq.add_argument('-k', '--apikey', required=True, help="api-key")
 
