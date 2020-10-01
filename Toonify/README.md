@@ -32,3 +32,8 @@ python3 toonify-API-2.py -i img_path -k api_key
 ```
 
 > NOTE: The toonify image works well with .jpg format and might give some problem with other formats
+
+
+For more details on toonify API:
+
+[toonify API doc](https://deepai.org/machine-learning-model/toonify)
