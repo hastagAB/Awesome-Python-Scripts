@@ -148,7 +148,6 @@ So far, the following projects have been integrated to this repo:
 |[YTS Torrents](yts_torrents)|[Mayank Nader](https://github.com/makkoncept)|
 |[COVID visualiser (real-time) ](covdi_visualiser)|[Tushar Gupta](https://github.com/tushar5526)|
 |[Random_Email_Generator](Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
-|[Codeforces Checker](codeforcesChecker)|[Jinesh Parakh](https://github.com/jineshparakh)|
 
 ## How to use :
 
