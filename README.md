@@ -37,6 +37,7 @@ So far, the following projects have been integrated to this repo:
 |[File Sharing Bot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File-Sharing-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)|
 |[Flash card quizzer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Flash-card-Challenge) |[Utkarsh Sharma](https://github.com/Utkarsh1308) |
 |[Frammed text generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/FramedText) | [jcdwalle](https://github.com/jcdwalle)|
+|[git_automation](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/git_automation)| [loge1998](https://github.com/loge1998)|
 |[Gmail Mailing Script](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/mailing) |[mayank-kapur](https://github.com/kapurm17) |
 |[Handwrting DNN recognizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Handwriting_Recognizer) |[Chris]() |
 |[HTML Table to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/HTML_Table_to_List) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
