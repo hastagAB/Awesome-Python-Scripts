@@ -152,6 +152,7 @@ So far, the following projects have been integrated to this repo:
 |[Random_Email_Generator](Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
 |[Tambola_Ticket_Generator](Tambola_Ticket_Generator)|[Amandeep_Singh](https://github.com/Synster)|
 | [Py_Cleaner](Py_Cleaner) | [Abhishek Dobliyal](https://github.com/Abhishek-Dobliyal)
+|[Send messages to sqs in parallel](send_sqs_messages_in_parallel)|[Jinam Shah](https://github.com/jinamshah)|
 
 
 ## How to use :
