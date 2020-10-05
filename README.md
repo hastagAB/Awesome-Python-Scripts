@@ -100,6 +100,7 @@ So far, the following projects have been integrated to this repo:
 |[Excel Files Merger](Excel_Files_Merger) | [Andrei N](https://github.com/Andrei-Niculae)|
 |[Excel to List](Excel_to_ListofList) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
 |[Extended_ip_address_info](extended_ip_address_info) | [hafpaf](https://github.com/hafpaf)|
+|[Fibonacci_Sequence_Generator](Fibonacci_Sequence_Generator) | [John Wesley Kommala](https://github.com/JohnWesleyK)|
 |[File explorer](File-Explorer-Dialog-Box) | [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|
 |[File Sharing Bot](File-Sharing-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)|
 |[Flash card quizzer](Flash-card-Challenge) |[Utkarsh Sharma](https://github.com/Utkarsh1308) |
