@@ -37,6 +37,7 @@ So far, the following projects have been integrated to this repo:
 |[File Sharing Bot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File-Sharing-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)|
 |[Flash card quizzer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Flash-card-Challenge) |[Utkarsh Sharma](https://github.com/Utkarsh1308) |
 |[Frammed text generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/FramedText) | [jcdwalle](https://github.com/jcdwalle)|
+|[git_automation](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/git_automation)| [loge1998](https://github.com/loge1998)|
 |[Gmail Mailing Script](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/mailing) |[mayank-kapur](https://github.com/kapurm17) |
 |[Handwrting DNN recognizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Handwriting_Recognizer) |[Chris]() |
 |[HTML Table to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/HTML_Table_to_List) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
@@ -149,6 +150,8 @@ So far, the following projects have been integrated to this repo:
 |[COVID visualiser (real-time) ](covdi_visualiser)|[Tushar Gupta](https://github.com/tushar5526)|
 |[Random_Email_Generator](Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
 |[Tambola_Ticket_Generator](Tambola_Ticket_Generator)|[Amandeep_Singh](https://github.com/Synster)|
+| [Py_Cleaner](Py_Cleaner) | [Abhishek Dobliyal](https://github.com/Abhishek-Dobliyal)
+
 
 ## How to use :
 
