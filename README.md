@@ -148,6 +148,7 @@ So far, the following projects have been integrated to this repo:
 |[YTS Torrents](yts_torrents)|[Mayank Nader](https://github.com/makkoncept)|
 |[COVID visualiser (real-time) ](covdi_visualiser)|[Tushar Gupta](https://github.com/tushar5526)|
 |[Random_Email_Generator](Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
+|[Github repo creator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)|[Harish Tiwari ](https://github.com/optimist2309)
 
 ## How to use :
 
