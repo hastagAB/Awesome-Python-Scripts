@@ -155,6 +155,7 @@ So far, the following projects have been integrated to this repo:
 |[Send messages to sqs in parallel](send_sqs_messages_in_parallel)|[Jinam Shah](https://github.com/jinamshah)|
 |[Codeforces Checker](codeforcesChecker)|[Jinesh Parakh](https://github.com/jineshparakh)|
 |[Github repo creator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)|[Harish Tiwari ](https://github.com/optimist2309)
+|[Remove-Duplicate-Files](Remove-Duplicate-Files)|[Aayushi Varma](https://github.com/aayuv17)
 
 
 ## How to use :
