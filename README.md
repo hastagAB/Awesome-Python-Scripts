@@ -1,9 +1,13 @@
 ﻿# Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667"> [![HitCount](http://hits.dwyl.io/hastagAB/Awesome-Python-Scripts.svg)](http://hits.dwyl.io/hastagAB/Awesome-Python-Scripts)  ![GitHub stars](https://img.shields.io/github/stars/hastagAB/Awesome-Python-Scripts?style=social)
 
+---
+
 ## What is this repo?
 This repo is a compilation of some *awesome* Python scripts that automate some boring tasks or simply make our life easier...or both!
 
 :cookie: Cookies for all contributors as well~
+
+---
 
 ## What do we have:
 
@@ -159,6 +163,7 @@ So far, the following projects have been integrated to this repo:
 |[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)
 |[Image Watermarker (batch)](imageWatermarker)|[Remco Halman](https://github.com/remcohalman)
 
+---
 
 ## How to use :
 
@@ -172,6 +177,8 @@ So far, the following projects have been integrated to this repo:
 - Run the script :)
 
 Remember to star the repo if you love the scripts~ :wink:
+
+---
 
 ## Contribution Guidelines :
 - Make a **separate folder** for your script.
@@ -199,6 +206,8 @@ Remember to star the repo if you love the scripts~ :wink:
 # If you like the project:
 - Star the Repo - [Awesome Python Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
 - Follow me on GitHub - [Ayush Bhardwaj](https://github.com/hastagAB)
+
+---
 
 # Want to connect with me ?
 - [LinkedIn](https://www.linkedin.com/in/hastagab/)
