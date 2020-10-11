@@ -153,7 +153,7 @@ So far, the following projects have been integrated to this repo:
 |[Tambola_Ticket_Generator](Tambola_Ticket_Generator)|[Amandeep_Singh](https://github.com/Synster)|
 | [Py_Cleaner](Py_Cleaner) | [Abhishek Dobliyal](https://github.com/Abhishek-Dobliyal)
 |[Send messages to sqs in parallel](send_sqs_messages_in_parallel)|[Jinam Shah](https://github.com/jinamshah)|
-|[Folder Manager](Folder_Manger)|[Harsh Raj](https://github.com/DeadProgrammer0)|
+|[Folder Manager](Folder_Manager)|[Harsh Raj](https://github.com/DeadProgrammer0)|
 
 
 ## How to use :
