@@ -153,6 +153,11 @@ So far, the following projects have been integrated to this repo:
 |[Tambola_Ticket_Generator](Tambola_Ticket_Generator)|[Amandeep_Singh](https://github.com/Synster)|
 | [Py_Cleaner](Py_Cleaner) | [Abhishek Dobliyal](https://github.com/Abhishek-Dobliyal)
 |[Send messages to sqs in parallel](send_sqs_messages_in_parallel)|[Jinam Shah](https://github.com/jinamshah)|
+|[Codeforces Checker](codeforcesChecker)|[Jinesh Parakh](https://github.com/jineshparakh)|
+|[Github repo creator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)|[Harish Tiwari ](https://github.com/optimist2309)
+|[Remove-Duplicate-Files](Remove-Duplicate-Files)|[Aayushi Varma](https://github.com/aayuv17)
+|[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)
+|[Image Watermarker (batch)](imageWatermarker)|[Remco Halman](https://github.com/remcohalman)
 |[Folder Manager](Folder_Manager)|[Harsh Raj](https://github.com/DeadProgrammer0)|
 
 
