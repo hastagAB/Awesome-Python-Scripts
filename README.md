@@ -156,8 +156,14 @@ So far, the following projects have been integrated to this repo:
 |[Codeforces Checker](codeforcesChecker)|[Jinesh Parakh](https://github.com/jineshparakh)|
 |[Github repo creator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)|[Harish Tiwari ](https://github.com/optimist2309)
 |[Remove-Duplicate-Files](Remove-Duplicate-Files)|[Aayushi Varma](https://github.com/aayuv17)
-|[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)
-|[Image Watermarker (batch)](imageWatermarker)|[Remco Halman](https://github.com/remcohalman)
+
+
+|[FindAddress](FindAddress)|[Bhavya Tripathi](https://github.com/Bhavya-Tripathi)
+
+
+
+
+
 
 
 ## How to use :
