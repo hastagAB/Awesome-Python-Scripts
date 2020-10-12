@@ -157,9 +157,11 @@ So far, the following projects have been integrated to this repo:
 |[Github repo creator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)|[Harish Tiwari ](https://github.com/optimist2309)
 |[Remove-Duplicate-Files](Remove-Duplicate-Files)|[Aayushi Varma](https://github.com/aayuv17)
 
+
 |[FindAddress](FindAddress)|[Bhavya Tripathi](https://github.com/Bhavya-Tripathi)
 
-|[Image Watermarker (batch)](Image Watermarker (batch))|[Remco Halman](https://github.com/remcohalman)
+
+
 
 
 
