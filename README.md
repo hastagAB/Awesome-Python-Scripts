@@ -58,6 +58,7 @@ So far, the following projects have been integrated to this repo:
 |[SMS your location](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SmsYourLocation)|[prince]()|
 |[Squid installer for Ubuntu](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Squid-Proxy-Installer-for-Ubuntu16)|[Berkay Demir]()|
 |[Subtitle downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Subtitle-downloader)|[Kaushlendra Pratap](https://github.com/kaushl1998)|
+|[Top_News](Top_News)|[Attupatil](https://github.com/Attupatil)|
 |[Take Screenshot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Take_screenshot)|[Moad Mohammed Elhebri](https://github.com/moadmmh)|
 |[To Do Bot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/To-Do-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)|
 |[Upload Files to S3](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Upload_files_to_s3)|[Jayram Nai](https://github.com/jramnai)|
@@ -150,6 +151,7 @@ So far, the following projects have been integrated to this repo:
 |[YTS Torrents](yts_torrents)|[Mayank Nader](https://github.com/makkoncept)|
 |[COVID visualiser (real-time) ](covdi_visualiser)|[Tushar Gupta](https://github.com/tushar5526)|
 |[Random_Email_Generator](Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
+|[WiFi Password Viewer](Wifi-Password)|[Sagar Patel](https://github.com/sagar627)|
 |[Tambola_Ticket_Generator](Tambola_Ticket_Generator)|[Amandeep_Singh](https://github.com/Synster)|
 | [Py_Cleaner](Py_Cleaner) | [Abhishek Dobliyal](https://github.com/Abhishek-Dobliyal)
 |[Send messages to sqs in parallel](send_sqs_messages_in_parallel)|[Jinam Shah](https://github.com/jinamshah)|
@@ -159,6 +161,8 @@ So far, the following projects have been integrated to this repo:
 |[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)
 |[Image Watermarker (batch)](imageWatermarker)|[Remco Halman](https://github.com/remcohalman)
 |[IMDBQuerier](IMDBQuerier)|[Burak Bekci](https://github.com/Bekci)
+|[URL shortener](url_shortener)|[Sam Ebison](https://github.com/ebsa491)
+
 
 ## How to use :
 
