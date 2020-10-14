@@ -58,6 +58,7 @@ So far, the following projects have been integrated to this repo:
 |[SMS your location](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SmsYourLocation)|[prince]()|
 |[Squid installer for Ubuntu](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Squid-Proxy-Installer-for-Ubuntu16)|[Berkay Demir]()|
 |[Subtitle downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Subtitle-downloader)|[Kaushlendra Pratap](https://github.com/kaushl1998)|
+|[Top_News](Top_News)|[Attupatil](https://github.com/Attupatil)|
 |[Take Screenshot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Take_screenshot)|[Moad Mohammed Elhebri](https://github.com/moadmmh)|
 |[To Do Bot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/To-Do-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)|
 |[Upload Files to S3](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Upload_files_to_s3)|[Jayram Nai](https://github.com/jramnai)|
