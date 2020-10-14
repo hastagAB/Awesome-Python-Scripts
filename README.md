@@ -158,6 +158,7 @@ So far, the following projects have been integrated to this repo:
 |[Remove-Duplicate-Files](Remove-Duplicate-Files)|[Aayushi Varma](https://github.com/aayuv17)
 |[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)
 |[Image Watermarker (batch)](imageWatermarker)|[Remco Halman](https://github.com/remcohalman)
+|[URL shortener](url_shortener)|[Sam Ebison](https://github.com/ebsa491)
 
 
 ## How to use :
