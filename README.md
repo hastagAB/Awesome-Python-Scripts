@@ -150,6 +150,7 @@ So far, the following projects have been integrated to this repo:
 |[YTS Torrents](yts_torrents)|[Mayank Nader](https://github.com/makkoncept)|
 |[COVID visualiser (real-time) ](covdi_visualiser)|[Tushar Gupta](https://github.com/tushar5526)|
 |[Random_Email_Generator](Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
+|[WiFi Password Viewer](Wifi-Password)|[Sagar Patel](https://github.com/sagar627)|
 |[Tambola_Ticket_Generator](Tambola_Ticket_Generator)|[Amandeep_Singh](https://github.com/Synster)|
 | [Py_Cleaner](Py_Cleaner) | [Abhishek Dobliyal](https://github.com/Abhishek-Dobliyal)
 |[Send messages to sqs in parallel](send_sqs_messages_in_parallel)|[Jinam Shah](https://github.com/jinamshah)|
