@@ -37,6 +37,7 @@ So far, the following projects have been integrated to this repo:
 |[File Sharing Bot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File-Sharing-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)|
 |[Flash card quizzer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Flash-card-Challenge) |[Utkarsh Sharma](https://github.com/Utkarsh1308) |
 |[Frammed text generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/FramedText) | [jcdwalle](https://github.com/jcdwalle)|
+|[git_automation](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/git_automation)| [loge1998](https://github.com/loge1998)|
 |[Gmail Mailing Script](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/mailing) |[mayank-kapur](https://github.com/kapurm17) |
 |[Handwrting DNN recognizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Handwriting_Recognizer) |[Chris]() |
 |[HTML Table to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/HTML_Table_to_List) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
@@ -99,6 +100,7 @@ So far, the following projects have been integrated to this repo:
 |[Excel Files Merger](Excel_Files_Merger) | [Andrei N](https://github.com/Andrei-Niculae)|
 |[Excel to List](Excel_to_ListofList) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
 |[Extended_ip_address_info](extended_ip_address_info) | [hafpaf](https://github.com/hafpaf)|
+|[Fibonacci_Sequence_Generator](Fibonacci_Sequence_Generator) | [John Wesley Kommala](https://github.com/JohnWesleyK)|
 |[File explorer](File-Explorer-Dialog-Box) | [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|
 |[File Sharing Bot](File-Sharing-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)|
 |[Flash card quizzer](Flash-card-Challenge) |[Utkarsh Sharma](https://github.com/Utkarsh1308) |
@@ -149,6 +151,16 @@ So far, the following projects have been integrated to this repo:
 |[COVID visualiser (real-time) ](covdi_visualiser)|[Tushar Gupta](https://github.com/tushar5526)|
 |[Random_Email_Generator](Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
 |[WiFi Password Viewer](Wifi-Password)|[Sagar Patel](https://github.com/sagar627)|
+|[Tambola_Ticket_Generator](Tambola_Ticket_Generator)|[Amandeep_Singh](https://github.com/Synster)|
+| [Py_Cleaner](Py_Cleaner) | [Abhishek Dobliyal](https://github.com/Abhishek-Dobliyal)
+|[Send messages to sqs in parallel](send_sqs_messages_in_parallel)|[Jinam Shah](https://github.com/jinamshah)|
+|[Codeforces Checker](codeforcesChecker)|[Jinesh Parakh](https://github.com/jineshparakh)|
+|[Github repo creator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)|[Harish Tiwari ](https://github.com/optimist2309)
+|[Remove-Duplicate-Files](Remove-Duplicate-Files)|[Aayushi Varma](https://github.com/aayuv17)
+|[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)
+|[Image Watermarker (batch)](imageWatermarker)|[Remco Halman](https://github.com/remcohalman)
+|[URL shortener](url_shortener)|[Sam Ebison](https://github.com/ebsa491)
+
 
 ## How to use :
 

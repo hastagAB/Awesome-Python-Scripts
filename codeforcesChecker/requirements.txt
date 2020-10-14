@@ -1,0 +1,6 @@
+beautifulsoup4==4.8.1
+chromedriver-binary==81.0.4044.69.0
+colorama==0.4.3
+requests==2.22.0
+selenium==3.141.0
+termcolor==1.1.0
