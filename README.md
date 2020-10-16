@@ -179,6 +179,9 @@ So far, the following projects have been integrated to this repo:
 Remember to star the repo if you love the scripts~ :wink:
 
 ## Contribution Guidelines :
+
+### Steps required to follow before adding any script 
+
 - Make a **separate folder** for your script.
 - There shouldn't be any **spaces** between the names of the script. (Use underscore or dash Symbol)
 	- :x: Script One
@@ -197,7 +200,7 @@ Remember to star the repo if you love the scripts~ :wink:
                 - `source env\bin\activate`
             - `pip freeze > requirements.txt`
 
-- Please add your script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above.
+- Add your name & script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above in the same format. [Compulsory]
 
 - Only One Commit per PR is Adviced.
 
