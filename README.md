@@ -30,6 +30,7 @@ So far, the following projects have been integrated to this repo:
 |[Directory organizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory-organizer) | [Athul P](https://github.com/athulpn) |
 |[DOH DIG](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/DOH-Dig/) | [Ryan](https://github.com/awsumco) |
 |[English Theasaurus](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/English_Theasaurus/) | [Ansh Dhingra](https://github.com/anshdhinhgra47) |
+|[Elasticsearch snapshot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/elastic-snapshot) | [Joe Ryan](https://github.com/joeryan) |
 |[Excel Files Merger](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_Files_Merger) | [Andrei N](https://github.com/Andrei-Niculae)|
 |[Excel to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_to_ListofList) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
 |[Extended_ip_address_info](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/extended_ip_address_info) | [hafpaf](https://github.com/hafpaf)|
