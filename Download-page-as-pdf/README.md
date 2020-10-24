@@ -15,10 +15,10 @@ Download a page as a PDF .
  #### Examples of use :
  - Download a page:
  ```bash
-    python download-page-as-pdf.py -l 'https://www.pudim.com'
+    python download-page-as-pdf.py -l 'www.pudim.com.br'
  ```
 
  - Download a page and give a pdf name:
  ```bash
-    python download-page-as-pdf.py -l 'https://www.pudim.com' -n 'pudim.pdf'
+    python download-page-as-pdf.py -l 'http://www.pudim.com.br' -n 'pudim.pdf'
  ```
