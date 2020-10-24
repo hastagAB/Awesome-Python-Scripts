@@ -165,6 +165,7 @@ So far, the following projects have been integrated to this repo:
 |[IMDBQuerier](IMDBQuerier)|[Burak Bekci](https://github.com/Bekci)
 |[URL shortener](url_shortener)|[Sam Ebison](https://github.com/ebsa491)
 |[2048](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/2048)|[Krunal](https://github.com/gitkp11)
+|[Download Page as PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Download-page-as-pdf)|[Jeremias Gomes](https://github.com/j3r3mias)
 
 
 ## How to use :
