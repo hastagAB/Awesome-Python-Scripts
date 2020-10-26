@@ -167,7 +167,7 @@ So far, the following projects have been integrated to this repo:
 |[2048](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/2048)|[Krunal](https://github.com/gitkp11)
 |[Spotify Downloader](spotify_downloader)|[Sagar Patel](https://github.com/sagar627)|
 |[Download Page as PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Download-page-as-pdf)|[Jeremias Gomes](https://github.com/j3r3mias)
-
+|[GithubBot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/GithubBot)|[Abhilasha](https://github.com/Abhilasha06)|
 
 ## How to use :
 
