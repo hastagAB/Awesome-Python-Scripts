@@ -168,6 +168,7 @@ So far, the following projects have been integrated to this repo:
 |[Spotify Downloader](spotify_downloader)|[Sagar Patel](https://github.com/sagar627)|
 |[Download Page as PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Download-page-as-pdf)|[Jeremias Gomes](https://github.com/j3r3mias)
 |[Independent RSA Communication Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Communication)|[Miguel Santos](https://github.com/wi6n3l)
+|[GithubBot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/GithubBot)|[Abhilasha](https://github.com/Abhilasha06)|
 
 
 ## How to use :
