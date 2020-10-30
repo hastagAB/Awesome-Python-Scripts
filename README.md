@@ -167,6 +167,7 @@ So far, the following projects have been integrated to this repo:
 |[2048](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/2048)|[Krunal](https://github.com/gitkp11)
 |[Spotify Downloader](spotify_downloader)|[Sagar Patel](https://github.com/sagar627)|
 |[Download Page as PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Download-page-as-pdf)|[Jeremias Gomes](https://github.com/j3r3mias)
+|[JSON file to YAML convertor](https://github.com/saksham117/Awesome-Python-Scripts/tree/master/json-to-yaml)|[Saksham Basandrai](https://github.com/saksham117)
 |[Independent RSA Communication Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Communication)|[Miguel Santos](https://github.com/wi6n3l)
 |[GithubBot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/GithubBot)|[Abhilasha](https://github.com/Abhilasha06)|
 |[Translate CLI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TranslateCLI)|[Rodrigo Oliveira](https://github.com/rodrigocam)|
