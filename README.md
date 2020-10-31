@@ -171,6 +171,7 @@ So far, the following projects have been integrated to this repo:
 |[Independent RSA Communication Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Communication)|[Miguel Santos](https://github.com/wi6n3l)
 |[GithubBot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/GithubBot)|[Abhilasha](https://github.com/Abhilasha06)|
 |[Translate CLI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TranslateCLI)|[Rodrigo Oliveira](https://github.com/rodrigocam)|
+|[Rock-Paper-Scissor Game](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Rock-Paper-Scissor)|[Punit Sakre](https://github.com/punitsakre23)|
 
 
 ## How to use :
