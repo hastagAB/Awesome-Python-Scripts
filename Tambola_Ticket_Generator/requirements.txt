@@ -1,0 +1,2 @@
+numpy==1.19.2
+tabulate==0.8.7

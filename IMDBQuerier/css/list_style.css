@@ -1,0 +1,15 @@
+li {
+  list-style-type: none;
+  text-align: center;
+  max-width: 50%;
+  background-color: #EEEEEE;
+}
+
+span.rating {
+  color: #D9AA00;
+}
+
+
+span.list_title{
+  font-weight: bold;
+}
