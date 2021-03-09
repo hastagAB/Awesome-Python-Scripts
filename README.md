@@ -222,5 +222,6 @@ Remember to star the repo if you love the scripts~ :wink:
 - [Twitter](https://twitter.com/HastagAB)
 - [Facebook](https://www.facebook.com/SirHastagAB)
 - [Instagram](https://www.instagram.com/sirhastagab/)
+- [Portfolio](https://ayushbhardwaj.me)
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-HastagAB-red)](https://github.com/hastagAB)
