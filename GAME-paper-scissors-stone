@@ -1,0 +1,67 @@
+# You Vs. The Bot
+
+import random
+
+outcomes = ["Paper", "Scissors", "Stone"]
+userscore = 0
+botscore = 0
+user_to_move = {"a": "Paper", "b": "Scissors", "c": "Stone"}
+
+# Ask how many games
+while True:
+    try:
+        games = int(input("How many games would you like to play? "))
+        break
+    except:
+        print("That isn't a valid number")
+
+# Play the game
+while userscore < games and botscore < games:
+    while True:
+        try:
+            user_answer = user_to_move[
+                input("\nEnter your choice: (a) Paper, (b) Scissors, (c) Stone \nEnter your letter: ")]
+            if user_answer == "a" or "b" or "c":
+                break
+        except:
+            print("Invalid input, please try again.")
+
+    print("Your answer is: " + user_answer)
+    bot_answer = random.choice(outcomes)
+    print("The bot answered: " + bot_answer)
+
+    # Work out who won the game
+    def game_result(useranswer, botanswer):
+        if useranswer == bot_answer:
+            return "Draw"
+        elif useranswer == "Stone" and botanswer == "Scissors":
+            return "You Win!"
+        elif useranswer == "Paper" and botanswer == "Stone":
+            return "You Win!"
+        elif useranswer == "Scissors" and botanswer == "Paper":
+            return "You Win!"
+        elif useranswer == "Stone" and botanswer == "Paper":
+            return "You Lose!"
+        elif useranswer == "Paper" and botanswer == "Scissors":
+            return "You Lose!"
+        elif useranswer == "Scissors" and botanswer == "Stone":
+            return "You Lose!"
+        else:
+            return "Error"
+
+    if game_result(user_answer, bot_answer) == "You Win!":
+        userscore += 1
+    elif game_result(user_answer, bot_answer) == "You Lose!":
+        botscore += 1
+    else:
+        pass
+
+    # Show user the results
+    print(game_result(user_answer, bot_answer))
+    print(f'Your score is {userscore} and the bot score is {botscore}')
+
+# Final Scores
+if userscore > botscore:
+    print("\nFINAL RESULT : YOU'RE A WINNER ! HURRAH !")
+else:
+    print("\nFINAL RESULT: YOU DIDN'T WIN. TRY AGAIN.")
