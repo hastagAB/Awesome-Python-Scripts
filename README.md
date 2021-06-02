@@ -173,6 +173,7 @@ So far, the following projects have been integrated to this repo:
 |[Translate CLI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TranslateCLI)|[Rodrigo Oliveira](https://github.com/rodrigocam)|
 |[Rock-Paper-Scissor Game](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Rock-Paper-Scissor)|[Punit Sakre](https://github.com/punitsakre23)|
 |[Folder Locker and hider](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Folder%20Locker%20%26%20Hider)|[Prajjwal Pathak](https://github.com/pyguru123)|
+|[Image Compressor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image_Compressor)|[Prathima Kadari](https://github.com/prathimacode-hub)|
 
 
 ## How to use :
