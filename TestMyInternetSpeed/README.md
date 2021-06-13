@@ -1,4 +1,6 @@
 ## Test Your Internet Speed using Python
+<img src="https://b.cdnst.net/images/share-logo.png"
+     alt="speedtest image"/>
 
 This is a simple but powerful and efficient python program.
 You can test your internet bandwidth speed with this script i wrote using just a single command, you will also get a bunch of good options to choose from and the test will be performed with the help of speedtest-cli module in python.
