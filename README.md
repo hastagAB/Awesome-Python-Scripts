@@ -1,4 +1,4 @@
-﻿# Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667"> [![HitCount](http://hits.dwyl.io/hastagAB/Awesome-Python-Scripts.svg)](http://hits.dwyl.io/hastagAB/Awesome-Python-Scripts)  ![GitHub stars](https://img.shields.io/github/stars/hastagAB/Awesome-Python-Scripts?style=social)
+# Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667"> [![HitCount](http://hits.dwyl.io/hastagAB/Awesome-Python-Scripts.svg)](http://hits.dwyl.io/hastagAB/Awesome-Python-Scripts)  ![GitHub stars](https://img.shields.io/github/stars/hastagAB/Awesome-Python-Scripts?style=social)
 
 ## What is this repo?
 This repo is a compilation of some *awesome* Python scripts that automate some boring tasks or simply make our life easier...or both!
@@ -174,7 +174,7 @@ So far, the following projects have been integrated to this repo:
 |[Rock-Paper-Scissor Game](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Rock-Paper-Scissor)|[Punit Sakre](https://github.com/punitsakre23)|
 |[Folder Locker and hider](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Folder%20Locker%20%26%20Hider)|[Prajjwal Pathak](https://github.com/pyguru123)|
 |[Image Compressor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image_Compressor)|[Prathima Kadari](https://github.com/prathimacode-hub)|
-
+|[Test Your Internet Speed](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TestMyInternetSpeed)|[TheSmartDeveloperr](https://github.com/thesmartdeveloperr)|
 
 ## How to use :
 
