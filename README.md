@@ -11,6 +11,7 @@ So far, the following projects have been integrated to this repo:
 
 | Project Name | Contributors |
 |--|--|
+| [AI for guess the number](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/AI_for_Guess_the_number) | [Omar Sameh](https://github.com/ShadowHunter15) |
 | [sudoku-solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/sudoku-solver) | [Rishabh Umrao](https://github.com/ayedaemon)  |
 |[File Encrypt Decrypt](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)|
 | [Address locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Adress) | [Chris]() |
