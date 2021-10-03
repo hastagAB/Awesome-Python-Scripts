@@ -27,6 +27,7 @@ So far, the following projects have been integrated to this repo:
 |[Contact 'Leads' Distribution](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Contact-Distribution) |[Tiago Cordeiro](https://github.com/tiagocordeiro) |
 |[Cricket Matches web Scraper](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/CricBuzz_Score_Update) |[Divy Ranjan](https://github.com/divyranjan17) |
 | [Crypt socket](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Crypt_Socket)|[Willian GL](https://github.com/williangl) |
+| [CSV to Excel](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/CSV-to-Excel)|[xemeds](https://github.com/xemeds) |
 |[Current City Weather](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Current_City_Weather) |[Jesse Bridge](https://github.com/jessebridge) |
 |[Directory organizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory-organizer) | [Athul P](https://github.com/athulpn) |
 |[DOH DIG](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/DOH-Dig/) | [Ryan](https://github.com/awsumco) |
