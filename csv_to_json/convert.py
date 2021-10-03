@@ -8,7 +8,6 @@ try:
     with open(file_name+'.csv') as f:
 
         reader = csv.reader(f, delimiter=',')
-
         titles = []
         temp_data = {}
 
