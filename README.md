@@ -180,6 +180,7 @@ So far, the following projects have been integrated to this repo:
 |[Image Compressor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image_Compressor)|[Prathima Kadari](https://github.com/prathimacode-hub)|
 |[Test Your Internet Speed](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TestMyInternetSpeed)|[TheSmartDeveloperr](https://github.com/thesmartdeveloperr)|
 |[Plagiarism_detector](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Plagiarism_detector)|[Akshita Singhal](https://github.com/akshitasinghal4444)|
+|[Battery_notification](https://github.com/hastagABAwesome-Python-Scripts/Battery_notification/)|[Krishna Sharma](https://github.com/krishnasharma1386)
 
 ## How to use :
 
