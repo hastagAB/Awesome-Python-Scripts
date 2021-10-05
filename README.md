@@ -20,6 +20,7 @@ So far, the following projects have been integrated to this repo:
 |[Asymmetric Encryption](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) |
 |[Bitcoin price GUI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Bitcoin-Price-GUI) |[Amirul Abu](https://github.com/amirulabu) |
 |[Cryptocurrency Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-converter) |[AdnCodz](https://github.com/AdnCodez) |
+|[Cryptocurrency Prices](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-Prices) |[xemeds](https://github.com/xemeds) |
 |[Caesar Cipher](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/caeser_cipher) |[epi052](https://github.com/epi052) |
 |[Checksum tool](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Checksum) |[Austin Ewens](https://github.com/aewens) |
 |[Codechef autosubmitter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Codechef-Code-Submitter) |[Harshit Mahajan](https://github.com/hmahajan99) |
@@ -135,6 +136,7 @@ So far, the following projects have been integrated to this repo:
 |[Vinegère Cipher](vigenere_cipher)|[victoni](https://github.com/victoni)|
 |[Web proxy](Proxy-Request)|[Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|
 |[Website blocker](Website-Blocker)|[Ayush Bhardwaj](https://github.com/hastagAB)|
+|[Word Frequency Counter](Word_Frequency_Counter)|[sonniki](https://github.com/sonniki)|
 |[Word generator](Word-generator)|[TGLIDE](https://github.com/TGlide)|
 |[Work log generator](Work_Log_Generator)|[Maël Pedretti](https://github.com/73VW)|
 |[Youtube video downloader](Youtube_Video_Downloader)|[Christopher He](https://github.com/hecris)|
@@ -178,6 +180,7 @@ So far, the following projects have been integrated to this repo:
 |[Image Compressor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image_Compressor)|[Prathima Kadari](https://github.com/prathimacode-hub)|
 |[Test Your Internet Speed](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TestMyInternetSpeed)|[TheSmartDeveloperr](https://github.com/thesmartdeveloperr)|
 |[Plagiarism_detector](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Plagiarism_detector)|[Akshita Singhal](https://github.com/akshitasinghal4444)|
+|[Battery_notification](https://github.com/hastagABAwesome-Python-Scripts/Battery_notification/)|[Krishna Sharma](https://github.com/krishnasharma1386)
 
 ## How to use :
 
