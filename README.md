@@ -136,6 +136,7 @@ So far, the following projects have been integrated to this repo:
 |[Vinegère Cipher](vigenere_cipher)|[victoni](https://github.com/victoni)|
 |[Web proxy](Proxy-Request)|[Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|
 |[Website blocker](Website-Blocker)|[Ayush Bhardwaj](https://github.com/hastagAB)|
+|[Word Frequency Counter](Word_Frequency_Counter)|[sonniki](https://github.com/sonniki)|
 |[Word generator](Word-generator)|[TGLIDE](https://github.com/TGlide)|
 |[Work log generator](Work_Log_Generator)|[Maël Pedretti](https://github.com/73VW)|
 |[Youtube video downloader](Youtube_Video_Downloader)|[Christopher He](https://github.com/hecris)|
