@@ -8,4 +8,4 @@ pip install win10toast
 
 than run the file.
 ```
-using ```python``` for windows and ```pythn3``` for linux and follow up ```Battery_notification.py```
+using ```python``` for windows and ```python3``` for linux and follow up ```Battery_notification.py```
