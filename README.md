@@ -20,6 +20,7 @@ So far, the following projects have been integrated to this repo:
 |[Asymmetric Encryption](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) |
 |[Bitcoin price GUI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Bitcoin-Price-GUI) |[Amirul Abu](https://github.com/amirulabu) |
 |[Cryptocurrency Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-converter) |[AdnCodz](https://github.com/AdnCodez) |
+|[Cryptocurrency Prices](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-Prices) |[xemeds](https://github.com/xemeds) |
 |[Caesar Cipher](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/caeser_cipher) |[epi052](https://github.com/epi052) |
 |[Checksum tool](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Checksum) |[Austin Ewens](https://github.com/aewens) |
 |[Codechef autosubmitter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Codechef-Code-Submitter) |[Harshit Mahajan](https://github.com/hmahajan99) |
@@ -27,6 +28,7 @@ So far, the following projects have been integrated to this repo:
 |[Contact 'Leads' Distribution](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Contact-Distribution) |[Tiago Cordeiro](https://github.com/tiagocordeiro) |
 |[Cricket Matches web Scraper](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/CricBuzz_Score_Update) |[Divy Ranjan](https://github.com/divyranjan17) |
 | [Crypt socket](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Crypt_Socket)|[Willian GL](https://github.com/williangl) |
+| [CSV to Excel](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/CSV-to-Excel)|[xemeds](https://github.com/xemeds) |
 |[Current City Weather](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Current_City_Weather) |[Jesse Bridge](https://github.com/jessebridge) |
 |[Directory organizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory-organizer) | [Athul P](https://github.com/athulpn) |
 |[DOH DIG](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/DOH-Dig/) | [Ryan](https://github.com/awsumco) |
@@ -50,6 +52,7 @@ So far, the following projects have been integrated to this repo:
 |[Minecraft Server in background](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Minecraft_server_in_background)|[Max von Forell](https://github.com/mvforell)|
 |[Own IP locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Own_IP_Adress)|[Chris]()|
 |[Port Scanner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Port_Scanner)|[Plutoberth](https://github.com/Plutoberth)|
+|[Harry Potter Cloak](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Harry-Potter-Cloak) | [thesmartdeveloperr](https://github.com/thesmartdeveloperr)|
 |[Python Algebra Solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Algebra-Solver)|[Sengxay Xayachack](https://github.com/frankxayachack)|
 |[Random name generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Random_Names_Generator)| [Ayush Bhardwaj](https://github.com/hastagAB)|
 |[Random Password Generators](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Random_Password_Generator)| [Hafpaf](https://github.com/hafpaf) and [Renderer-RCT2](https://github.com/Renderer-RCT2)|
@@ -134,6 +137,7 @@ So far, the following projects have been integrated to this repo:
 |[Vinegère Cipher](vigenere_cipher)|[victoni](https://github.com/victoni)|
 |[Web proxy](Proxy-Request)|[Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|
 |[Website blocker](Website-Blocker)|[Ayush Bhardwaj](https://github.com/hastagAB)|
+|[Word Frequency Counter](Word_Frequency_Counter)|[sonniki](https://github.com/sonniki)|
 |[Word generator](Word-generator)|[TGLIDE](https://github.com/TGlide)|
 |[Work log generator](Work_Log_Generator)|[Maël Pedretti](https://github.com/73VW)|
 |[Youtube video downloader](Youtube_Video_Downloader)|[Christopher He](https://github.com/hecris)|
@@ -178,6 +182,7 @@ So far, the following projects have been integrated to this repo:
 |[Test Your Internet Speed](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TestMyInternetSpeed)|[TheSmartDeveloperr](https://github.com/thesmartdeveloperr)|
 |[Plagiarism_detector](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Plagiarism_detector)|[Akshita Singhal](https://github.com/akshitasinghal4444)|
 |[csv_to_json](https://github.com/TechBoyy6/Awesome-Python-Scripts/tree/CSVtoJSON/csv_to_json)|[MoiZ](https://github.com/TechBoyy6)|
+|[Battery_notification](https://github.com/hastagABAwesome-Python-Scripts/Battery_notification/)|[Krishna Sharma](https://github.com/krishnasharma1386)|
 
 ## How to use :
 

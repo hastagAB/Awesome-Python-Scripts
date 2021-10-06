@@ -11,3 +11,4 @@ A simple python script which takes colored image filename as argument and conver
 
 ## Example
 `$python bw_convert.py sample_image.jpg`
+`$python bw_convert.py sample_image.png`
