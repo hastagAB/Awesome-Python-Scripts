@@ -177,6 +177,7 @@ So far, the following projects have been integrated to this repo:
 |[Image Compressor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image_Compressor)|[Prathima Kadari](https://github.com/prathimacode-hub)|
 |[Test Your Internet Speed](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TestMyInternetSpeed)|[TheSmartDeveloperr](https://github.com/thesmartdeveloperr)|
 |[Plagiarism_detector](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Plagiarism_detector)|[Akshita Singhal](https://github.com/akshitasinghal4444)|
+|[csv_to_json](https://github.com/TechBoyy6/Awesome-Python-Scripts/tree/CSVtoJSON/csv_to_json)|[MoiZ](https://github.com/TechBoyy6)|
 
 ## How to use :
 
