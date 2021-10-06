@@ -52,6 +52,7 @@ So far, the following projects have been integrated to this repo:
 |[Minecraft Server in background](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Minecraft_server_in_background)|[Max von Forell](https://github.com/mvforell)|
 |[Own IP locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Own_IP_Adress)|[Chris]()|
 |[Port Scanner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Port_Scanner)|[Plutoberth](https://github.com/Plutoberth)|
+|[Harry Potter Cloak](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Harry-Potter-Cloak) | [thesmartdeveloperr](https://github.com/thesmartdeveloperr)|
 |[Python Algebra Solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Algebra-Solver)|[Sengxay Xayachack](https://github.com/frankxayachack)|
 |[Random name generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Random_Names_Generator)| [Ayush Bhardwaj](https://github.com/hastagAB)|
 |[Random Password Generators](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Random_Password_Generator)| [Hafpaf](https://github.com/hafpaf) and [Renderer-RCT2](https://github.com/Renderer-RCT2)|
