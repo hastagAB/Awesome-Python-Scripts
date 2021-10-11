@@ -13,7 +13,7 @@ except:
 
 user = input("Enter User id\n")                     #YOUR ID
 Pass_w = input("\nEnter your Password\n")           #YOUR Password
-reciever_id = input("\nEnter reciever id\n")        #Reciever ID
+receiver_id = input("\nEnter reciever id\n")        #Reciever ID
 msg = input("\nEnter message\n")                        #message
 
 try:
@@ -24,7 +24,7 @@ except:
     server.quit()
     exit()
 
-server.sendmail(user, reciever_id, msg)
+server.sendmail(user, receiver_id, msg)
 print("MAIL sent")                                  #confirmation
 
 
