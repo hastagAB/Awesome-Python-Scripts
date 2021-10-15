@@ -184,6 +184,7 @@ So far, the following projects have been integrated to this repo:
 |[Plagiarism_detector](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Plagiarism_detector)|[Akshita Singhal](https://github.com/akshitasinghal4444)|
 |[csv_to_json](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/csv_to_json)|[MoiZ](https://github.com/TechBoyy6)|
 |[Battery_notification](https://github.com/hastagABAwesome-Python-Scripts/Battery_notification/)|[Krishna Sharma](https://github.com/krishnasharma1386)|
+|[Steg_Tool](https://github.com/hastagABAwesome-Python-Scripts/Steg_Tool/)|[Shankar JP](https://github.com/shankarjp)|
 
 ## How to use :
 
