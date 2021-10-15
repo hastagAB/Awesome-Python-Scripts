@@ -1,8 +1,0 @@
-#!/usr/bin/python
-
-import sys
-import ssh_adder
-
-def main():
-    ssh_adder.main(sys.argv)
-
