@@ -1,0 +1,2 @@
+PyAutoGUI==0.9.53
+schedule==1.1.0
