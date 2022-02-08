@@ -11,6 +11,7 @@ So far, the following projects have been integrated to this repo:
 
 | Project Name | Contributors |
 |--|--|
+| [TicTacToe AI and 2 players](https://github.com/ShadowHunter15/Awesome-Python-Scripts/tree/master/TicTacToe_AI_and_2_players) | [Omar Sameh](https://github.com/ShadowHunter15) |
 | [AI for guess the number](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/AI_for_Guess_the_number) | [Omar Sameh](https://github.com/ShadowHunter15) |
 | [sudoku-solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/sudoku-solver) | [Rishabh Umrao](https://github.com/ayedaemon)  |
 |[File Encrypt Decrypt](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)|
