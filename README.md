@@ -90,6 +90,7 @@ So far, the following projects have been integrated to this repo:
 |[Face Recognition](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/image_recognition)|[LOKESH KHURANA](https://github.com/theluvvkhurana)|
 |[File Encrypt Decrypt](file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)|
 | [Address locator](Location_Of_Adress) | [Chris]() |
+| [Automated calendar](automated_calendar) | [J.A. Hernández](https://github.com/jesusalberto18) |
 | [Automated emails](automated_email) | [Suvigya](https://github.com/SuvigyaJain1) |
 |[AI chatbot](Artificial-intelligence_bot) |[umar abdullahi](https://github.com/umarbrowser) |
 |[Asymmetric Encryption](asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) |
