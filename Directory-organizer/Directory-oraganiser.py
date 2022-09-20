@@ -1,61 +1,61 @@
 #!/usr/bin/python3
 
-import argparse
+from shutil import move
+from os import path
 import os
 
 
-def path():
-    parse = argparse.ArgumentParser(
-        add_help=True, description="Organize your files to different directories according to their type")
-    parse.add_argument('directory_path', type=str, default='./',
-                       help="The absolute path to the directory")
-    return parse.parse_args().directory_path
+folder_ex = {
+    'Programming Files': set(['ipynb', 'py', 'java', 'cs', 'js', 'vsix', 'jar', 'cc', 'ccc', 'html', 'xml', 'kt']),
+    'Compressed': set(['zip', 'rar', 'arj', 'gz', 'sit', 'sitx', 'sea', 'ace', 'bz2', '7z']),
+    'Applications': set(['exe', 'msi', 'deb', 'rpm']),
+    'Pictures':  set(['jpeg', 'jpg', 'png', 'gif', 'tiff', 'raw', 'webp', 'jfif', 'ico', 'psd', 'svg', 'ai']),
+    'Videos':  set(['mp4', 'webm', 'mkv', 'MPG', 'MP2', 'MPEG', 'MPE', 'MPV', 'OGG', 'M4P', 'M4V', 'WMV', 'MOV', 'QT', 'FLV', 'SWF', 'AVCHD', 'avi', 'mpg', 'mpe', 'mpeg', 'asf', 'wmv', 'mov', 'qt', 'rm']),
+    'Documents': set(['txt', 'pdf', 'doc', 'xlsx', 'pdf', 'ppt', 'pps', 'docx', 'pptx']),
+    'Music':  set(['mp3', 'wav', 'wma', 'mpa', 'ram', 'ra', 'aac', 'aif', 'm4a', 'tsa']),
+    'Torrents': set(['torrent']),
+    'Other': set([])
+}
 
 
-documents = ['.log', '.txt', '.doc', '.docx', '.md', '.pdf', '.wps']
-picture = ['.png', '.jpg', 'jpeg', '.bmp']
-music = ['.mp3', '.wav']
-compressed = ['.zip', '.rar', '.tar', '.gz', '.bz2', '.xz']
-video = ['.3gp', '.mov', '.mp4', '.mkv', '.srt', '.avi']
-web = ['.html', .'.css', '.js']
-source = ['.py', '.c', '.cpp', '.java',]
+def create_folders():
+    '''Creates the required folders to organize files ('Pictures', 'Videos'..).
+    '''
+    for root in folder_ex:
+        try:
+            os.mkdir(root)
+            print(f'{root:20} Created ✔')
+        except OSError:
+            print(f'{root:20} Already Exists')
 
 
-directories = [path() + '/Compressed', path() + '/Documents',
-               path() + '/Pictures', path() + '/Music', path() + '/Video', path() + '/Web', path() + '/Source-codes',]
+def get_folder(ext):
+    '''Returns the Folder that corresponds to the given extension.
 
-print("This will organize your files to different directories according to their type!!")
-print("Are you sure you want to continue? (y/n)")
-flag = input('>>>')
-if flag.lower() == 'y':
-    try:
-        for d in directories:
-            os.mkdir(d)
-    except FileExistsError:
-        pass
+    Args:
+        ext (String): The extension of the file.
 
-    for files in os.listdir(path()):
-        dot = (files.rfind('.'))
-        if dot is not 0 and dot is not -1:
-            if files[dot:].lower() in music:
-                os.rename(path() + '/' + files, path() + '/Music/' + files)
-            if files[dot:].lower() in picture:
-                os.rename(path() + '/' + files, path() + '/Pictures/' + files)
-            if files[dot:].lower() in documents:
-                os.rename(path() + '/' + files, path() + '/Documents/' + files)
-            if files[dot:].lower() in compressed:
-                os.rename(path() + '/' + files, path() +
-                          '/Compressed/' + files)
-            if files[dot:].lower() in video:
-                os.rename(path() + '/' + files, path() + '/Video/' + files)
-            if files[dot:].lower() in web:
-                os.rename(path() + '/' + files, path() + '/Web/' + files)
-            if files[dot:].lower() in source:
-                os.rename(path() + '/' + files, path() + '/Source-codes/' + files)    
+    Returns:
+        String: The name of the Folder that holds the ext.
+    '''
+    for f, ex in folder_ex.items():
+        if ext in ex:
+            return f
+    return 'Other'
 
-    for d in directories:
-        if os.listdir(d) is None:
-            os.removedirs(d)
-else:
-    print("Exiting")
-    os.sys.exit(0)
+
+def start():
+    '''Organize files on the current directory, each to the corresponding folder.
+    '''
+    for filename in os.listdir():
+        # Check it's not filemover.py, a hidden file or a directory
+        if filename != __file__ and filename[0] != '.' and '.' in filename:
+            ext = os.path.basename(filename).split('.')[-1]
+            folder = get_folder(ext)
+            if not os.path.isfile(os.path.join(folder, filename)):
+                move(filename, folder)
+
+
+if __name__ == '__main__':
+    create_folders()
+    start()
