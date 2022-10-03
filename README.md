@@ -32,6 +32,7 @@ So far, the following projects have been integrated to this repo:
 | [CSV to Excel](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/CSV-to-Excel)|[xemeds](https://github.com/xemeds) |
 |[Current City Weather](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Current_City_Weather) |[Jesse Bridge](https://github.com/jessebridge) |
 |[Directory organizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory-organizer) | [Athul P](https://github.com/athulpn) |
+|[Database-As-Storage](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Database-As-Storage) | [Bhargav Kuvadiya](https://github.com/techdobz) |
 |[DOH DIG](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/DOH-Dig/) | [Ryan](https://github.com/awsumco) |
 |[English Theasaurus](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/English_Theasaurus/) | [Ansh Dhingra](https://github.com/anshdhinhgra47) |
 |[Elasticsearch snapshot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/elastic-snapshot) | [Joe Ryan](https://github.com/joeryan) |
@@ -78,7 +79,7 @@ So far, the following projects have been integrated to this repo:
 |[Youtube video downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Youtube_Video_Downloader)|[Christopher He](https://github.com/hecris)|
 |[Zabbix API](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zabbix_api)|[msg4sunny](https://github.com/msg4sunny)|
 |[Zip password cracker](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zip_password_cracker)|[umar abdullahi](https://github.com/umarbrowser)|
-|[RSA Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Algorithm)|[Chinmay Rane](https://github.com/Chinmayrane16)
+|[RSA Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Algorithm)|[Chinmay Rane](https://github.com/Chinmayrane16)|
 |[CLI Calculator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/cli_calculator)|[Willian GL](https://github.com/williangl) |
 |[Find PhoneNumber in String](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Find-PhoneNumber-in-String)|[Austin Zuniga](https://github.com/AustinZuniga)|
 |[IMDB TV Series Info Extractor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) |
@@ -164,21 +165,21 @@ So far, the following projects have been integrated to this repo:
 |[Random_Email_Generator](Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
 |[WiFi Password Viewer](Wifi-Password)|[Sagar Patel](https://github.com/sagar627)|
 |[Tambola_Ticket_Generator](Tambola_Ticket_Generator)|[Amandeep_Singh](https://github.com/Synster)|
-| [Py_Cleaner](Py_Cleaner) | [Abhishek Dobliyal](https://github.com/Abhishek-Dobliyal)
+| [Py_Cleaner](Py_Cleaner) | [Abhishek Dobliyal](https://github.com/Abhishek-Dobliyal)|
 |[Send messages to sqs in parallel](send_sqs_messages_in_parallel)|[Jinam Shah](https://github.com/jinamshah)|
 |[Codeforces Checker](codeforcesChecker)|[Jinesh Parakh](https://github.com/jineshparakh)|
-|[Github repo creator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)|[Harish Tiwari ](https://github.com/optimist2309)
-|[Remove-Duplicate-Files](Remove-Duplicate-Files)|[Aayushi Varma](https://github.com/aayuv17)
-|[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)
-|[Image Watermarker (batch)](imageWatermarker)|[Remco Halman](https://github.com/remcohalman)
+|[Github repo creator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)|[Harish Tiwari ](https://github.com/optimist2309)|
+|[Remove-Duplicate-Files](Remove-Duplicate-Files)|[Aayushi Varma](https://github.com/aayuv17)|
+|[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)|
+|[Image Watermarker (batch)](imageWatermarker)|[Remco Halman](https://github.com/remcohalman)|
 |[Folder Manager](Folder_Manager)|[Harsh Raj](https://github.com/DeadProgrammer0)|
-|[IMDBQuerier](IMDBQuerier)|[Burak Bekci](https://github.com/Bekci)
-|[URL shortener](url_shortener)|[Sam Ebison](https://github.com/ebsa491)
-|[2048](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/2048)|[Krunal](https://github.com/gitkp11)
+|[IMDBQuerier](IMDBQuerier)|[Burak Bekci](https://github.com/Bekci)|
+|[URL shortener](url_shortener)|[Sam Ebison](https://github.com/ebsa491)|
+|[2048](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/2048)|[Krunal](https://github.com/gitkp11)|
 |[Spotify Downloader](spotify_downloader)|[Sagar Patel](https://github.com/sagar627)|
-|[Download Page as PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Download-page-as-pdf)|[Jeremias Gomes](https://github.com/j3r3mias)
-|[JSON file to YAML convertor](https://github.com/saksham117/Awesome-Python-Scripts/tree/master/json-to-yaml)|[Saksham Basandrai](https://github.com/saksham117)
-|[Independent RSA Communication Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Communication)|[Miguel Santos](https://github.com/wi6n3l)
+|[Download Page as PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Download-page-as-pdf)|[Jeremias Gomes](https://github.com/j3r3mias)|
+|[JSON file to YAML convertor](https://github.com/saksham117/Awesome-Python-Scripts/tree/master/json-to-yaml)|[Saksham Basandrai](https://github.com/saksham117)|
+|[Independent RSA Communication Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Communication)|[Miguel Santos](https://github.com/wi6n3l)|
 |[GithubBot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/GithubBot)|[Abhilasha](https://github.com/Abhilasha06)|
 |[Translate CLI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TranslateCLI)|[Rodrigo Oliveira](https://github.com/rodrigocam)|
 |[Rock-Paper-Scissor Game](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Rock-Paper-Scissor)|[Punit Sakre](https://github.com/punitsakre23)|
