@@ -44,6 +44,7 @@ So far, the following projects have been integrated to this repo:
 |[Frammed text generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/FramedText) | [jcdwalle](https://github.com/jcdwalle)|
 |[git_automation](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/git_automation)| [loge1998](https://github.com/loge1998)|
 |[Gmail Mailing Script](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/mailing) |[mayank-kapur](https://github.com/kapurm17) |
+|[Get Time By TimeZone](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Get_Time_TimezoneWise)|[Parth Shah](https://github.com/codingis4noobs) |
 |[Handwrting DNN recognizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Handwriting_Recognizer) |[Chris]() |
 |[HTML Table to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/HTML_Table_to_List) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
 |[Image circle formatter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image-Circulator) |[Berk Gureken](https://github.com/bureken) |
