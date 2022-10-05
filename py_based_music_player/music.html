@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- ALL THE OUTSIDE CSS -->
+    <link rel="stylesheet" href="css/outside/all.min.css">
+
+    <!-- ALL CUSTOM CSS -->
+    <link rel="stylesheet" href="css/main/music.css">
+    <link rel="stylesheet" href="css/main/sidebar.css">
+
+    <title>Music Player</title>
+
+</head>
+<body>
+
+  <div class="music-player">
+
+    <div class="sidebar">
+      <div class="logo-details">
+          <i class='fas fa-music icon'></i>
+            <div class="logo_name">Music</div>
+            <i class='fas fa-bars' id="btn" ></i>
+      </div>
+
+      <ul class="nav-list" id="menulist">
+          
+      </ul>
+  </div>
+
+  <div class="home-section">
+  
+      <div class="music-container" id="music-container">
+          <div class="music-info" id="">
+            <h4 id="title"></h4>
+            <h5 id="artist"></h5>
+            <div class="progress-container" id="progress-container">
+              <div class="progress" id="progress"></div>
+            </div>
+          </div>
+    
+          <audio src="" id="td-audio"></audio>
+    
+          <div class="img-container">
+            <img src="" alt="music-cover" id="cover" />
+          </div>
+          <div class="navigation">
+            <button id="repeat" class="action-btn">
+              <i class="fas fa-recycle repeat-i"></i>
+            </button>
+            <button id="prev" class="action-btn">
+              <i class="fas fa-backward"></i>
+            </button>
+            <button id="play" class="action-btn action-btn-big">
+              <i class="fas fa-play"></i>
+            </button>
+            <button id="next" class="action-btn">
+              <i class="fas fa-forward"></i>
+            </button>
+            <button id="random" class="action-btn">
+              <i class="fas fa-random random-i"></i>
+            </button>
+          </div>
+      </div>
+
+      <ul class="next-queue" id="next-songs">
+        
+      </ul>
+        
+      </div>
+
+  </div>
+
+    <!-- ALL OUTSIDE SCRIPTS -->
+    <script src="js/outside/jquery-3.6.1.min.js"></script>
+    <script src="js/outside/fa.js"></script>
+
+
+    <!-- ALL MAIN SCRIPTS-->
+    <script src="js/main/music_list.js"></script>
+    <script src="js/main/music.js"></script>
+    <script src="js/main/waveform.js"></script>
+    <script src="js/main/sidebar.js"></script>
+
+</body>
+</html>
