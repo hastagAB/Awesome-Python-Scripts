@@ -85,6 +85,7 @@ So far, the following projects have been integrated to this repo:
 |[Find PhoneNumber in String](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Find-PhoneNumber-in-String)|[Austin Zuniga](https://github.com/AustinZuniga)|
 |[IMDB TV Series Info Extractor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) |
 |[PX to REM](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PX-to-REM)|[Atthaphon Urairat](https://github.com/uatthaphon) |
+|[py_based_music_player](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/py_based_music_player) | [Bhargav Kuvadiya](https://github.com/techdobz) |
 |[Yoda-speak Translator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/speak_like_yoda)|[sonniki](https://github.com/sonniki) |
 |[SSH Host adder](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SSH_Host_Adder)|[NinoDoko](https://github.com/NinoDoko)|
 |[Wikipedia-Search](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Wikipedia-Search)|[Nissaar](https://github.com/Nissaar) |
