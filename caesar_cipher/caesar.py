@@ -9,8 +9,8 @@ except AttributeError:
     maketrans = str.maketrans  # python3
 
 
-def caeser_cipher(string_: str, offset: int, decode: bool, file_: string) -> None:
-    """ Caeser Cipher implementation, reads file or string.  Also decodes.
+def caesar_cipher(string_: str, offset: int, decode: bool, file_: string) -> None:
+    """ caesar Cipher implementation, reads file or string.  Also decodes.
 
     Default implementation is ROT13 encoding.
 
@@ -59,7 +59,7 @@ def check_offset_range(value: int) -> int:
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description="Simple Caeser Cipher [En,De]coder")
+    parser = argparse.ArgumentParser(description="Simple caesar Cipher [En,De]coder")
 
     parser.add_argument('-d', '--decode', action='store_true', dest='decode',
                         help='decode ciphertext (offset should equal what was used to encode)', default=False)
@@ -72,4 +72,4 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
-    caeser_cipher(args.string, args.offset, args.decode, args.file)
+    caesar_cipher(args.string, args.offset, args.decode, args.file)
