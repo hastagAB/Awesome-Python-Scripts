@@ -196,6 +196,7 @@ So far, the following projects have been integrated to this repo:
 |[Pressure_Converter](https://github.com/E-wave112/Awesome-Python-Scripts/tree/master/Pressure_Converter)|[E-Wave](https://github.com/E-wave112)|
 | [File Carving](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File_Carving) | [Yeryeong Kim](https://github.com/icarusicarus/) |
 |[Google Meet Joiner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/google_meet_joiner)|[JohanSanSebastian](https://github.com/JohanSanSebastian)|
+|[Countdown](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Countdown)|[Jeremias Gomes](https://github.com/j3r3mias)|
 
 ## How to use :
 
