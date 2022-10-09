@@ -20,6 +20,7 @@ So far, the following projects have been integrated to this repo:
 |[AI chatbot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Artificial-intelligence_bot) |[umar abdullahi](https://github.com/umarbrowser) |
 |[Asymmetric Encryption](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) |
 |[Bitcoin price GUI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Bitcoin-Price-GUI) |[Amirul Abu](https://github.com/amirulabu) |
+|[Better_CSV_Storage](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Better_CSV_Storage) | [Bhargav Kuvadiya](https://github.com/techdobz) |
 |[Cryptocurrency Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-converter) |[AdnCodz](https://github.com/AdnCodez) |
 |[Cryptocurrency Prices](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-Prices) |[xemeds](https://github.com/xemeds) |
 |[Caesar Cipher](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/caeser_cipher) |[epi052](https://github.com/epi052) |
