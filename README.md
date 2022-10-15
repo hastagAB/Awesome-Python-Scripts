@@ -2,6 +2,7 @@
 
 
 ## Contents:
+
 - [What is this repo?](#what-is-this-repo) 
 - [What do we have?](#what-do-we-have)
 - [How to use?](#how-to-use)
@@ -12,15 +13,11 @@
 - [Want to connect with me?](#want-to-connect-with-me)
 
 ## What is this repo?
----
-
 This repo is a compilation of some *awesome* Python scripts that automate some boring tasks or simply make our life easier...or both!
 
 :cookie: Cookies for all contributors as well~
 
 ## What do we have:
----
-
 So far, the following projects have been integrated to this repo:
 
 | Project Name | Contributors |
@@ -214,8 +211,6 @@ So far, the following projects have been integrated to this repo:
 |[Pdf to AudioBook Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PdfToAudio)|[Ayesha Gull](https://github.com/ayeshag7/)|
 
 ## How to use:
----
-
 - Clone/Download the directory and navigate to each folder. Or...
 - Simply navigate to the folder and download/copy the scripts! It's *that* simple and easy.
 - Setup virtual environment for that scripts:
@@ -228,10 +223,8 @@ So far, the following projects have been integrated to this repo:
 Remember to star the repo if you love the scripts~ :wink:
 
 ## Contribution Guidelines:
----
 
 ### Steps required to follow before adding any script 
-
 - Make a **separate folder** for your script.
 - There shouldn't be any **spaces** between the names of the script. (Use underscore or dash Symbol)
 	- :x: Script One
@@ -255,14 +248,10 @@ Remember to star the repo if you love the scripts~ :wink:
 - Only One Commit per PR is Adviced.
 
 # If you like the project:
----
-
 - Star the Repo - [Awesome Python Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
 - Follow me on GitHub - [Ayush Bhardwaj](https://github.com/hastagAB)
 
 # Want to connect with me?
----
-
 - [LinkedIn](https://www.linkedin.com/in/hastagab/)
 - [Twitter](https://twitter.com/HastagAB)
 - [Facebook](https://www.facebook.com/SirHastagAB)
