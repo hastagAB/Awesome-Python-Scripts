@@ -1,12 +1,23 @@
 # Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667"> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hastagAB/Awesome-Python-Scripts)  ![GitHub stars](https://img.shields.io/github/stars/hastagAB/Awesome-Python-Scripts?style=social)
 
+
+## Contents:
+
+- [What is this repo?](#what-is-this-repo) 
+- [What do we have?](#what-do-we-have)
+- [How to use?](#how-to-use)
+- [Contribution Guidelines](#contributions-guidelines)
+    - [Steps required to follow before adding any script](#steps-required-to-follow-before-adding-any-script) 
+- [Contribution Guidelines](#contributions-guidelines)
+- [If you like the project](#if-you-like-the-project)
+- [Want to connect with me?](#want-to-connect-with-me)
+
 ## What is this repo?
 This repo is a compilation of some *awesome* Python scripts that automate some boring tasks or simply make our life easier...or both!
 
 :cookie: Cookies for all contributors as well~
 
 ## What do we have:
-
 So far, the following projects have been integrated to this repo:
 
 | Project Name | Contributors |
@@ -199,8 +210,7 @@ So far, the following projects have been integrated to this repo:
 |[Google Meet Joiner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/google_meet_joiner)|[JohanSanSebastian](https://github.com/JohanSanSebastian)|
 |[Pdf to AudioBook Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PdfToAudio)|[Ayesha Gull](https://github.com/ayeshag7/)|
 
-## How to use :
-
+## How to use:
 - Clone/Download the directory and navigate to each folder. Or...
 - Simply navigate to the folder and download/copy the scripts! It's *that* simple and easy.
 - Setup virtual environment for that scripts:
@@ -212,10 +222,9 @@ So far, the following projects have been integrated to this repo:
 
 Remember to star the repo if you love the scripts~ :wink:
 
-## Contribution Guidelines :
+## Contribution Guidelines:
 
 ### Steps required to follow before adding any script 
-
 - Make a **separate folder** for your script.
 - There shouldn't be any **spaces** between the names of the script. (Use underscore or dash Symbol)
 	- :x: Script One
@@ -242,15 +251,11 @@ Remember to star the repo if you love the scripts~ :wink:
 - Star the Repo - [Awesome Python Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
 - Follow me on GitHub - [Ayush Bhardwaj](https://github.com/hastagAB)
 
-# Want to connect with me ?
+# Want to connect with me?
 - [LinkedIn](https://www.linkedin.com/in/hastagab/)
 - [Twitter](https://twitter.com/HastagAB)
 - [Facebook](https://www.facebook.com/SirHastagAB)
 - [Instagram](https://www.instagram.com/sirhastagab/)
-
-
-
-
 
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-HastagAB-red)](https://github.com/hastagAB)
