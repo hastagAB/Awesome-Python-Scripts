@@ -248,7 +248,8 @@ Remember to star the repo if you love the scripts~ :wink:
 - Only One Commit per PR is Adviced.
 
 # If you like the project:
-- Star the Repo - [Awesome Python Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
+- Star this Repo - [Awesome Python Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
+
 - Follow me on GitHub - [Ayush Bhardwaj](https://github.com/hastagAB)
 
 # Want to connect with me?
