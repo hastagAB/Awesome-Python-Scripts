@@ -3,6 +3,6 @@ certifi==2022.12.7
 chardet==3.0.4
 idna==2.10
 pkg-resources==0.0.0
-requests==2.24.0
+requests==2.31.0
 soupsieve==2.0.1
 urllib3==1.26.5
