@@ -87,9 +87,20 @@ class Application(tk.Frame):
 		self.elabel['text'] = 'Enter Password'
 		self.elabel.grid(row=1, column=0, pady=20)
 
-		self.entry = tk.Entry(self.body)
+		self.entry = tk.Entry(self.body, show="*")
 		self.entry['textvariable'] = self.password
-		self.entry.grid(row=1, column=1, columnspan=2, pady=20)
+		self.entry.grid(row=1, column=1, columnspan=1, pady=20)
+
+		def toggle_password_visibility():
+			if self.entry['show'] == "":
+				self.entry['show'] = "*"
+				self.eye_button['text'] = "👁"
+			else:
+				self.entry['show'] = ""
+				self.eye_button['text'] = "👁"
+
+		self.eye_button = tk.Button(self.body, text="👁", width=2, command=toggle_password_visibility)
+		self.eye_button.place(x=315, y=86)
 
 		self.lock =tk.Button(self.body, bg='green', width=20)
 		self.lock['text'] = f'Lock Folder'
@@ -128,9 +139,20 @@ class Application(tk.Frame):
 		self.elabel['text'] = 'Enter Password'
 		self.elabel.grid(row=1, column=0, columnspan=2, pady=(1,1))
 
-		self.entry = tk.Entry(self.body)
+		self.entry = tk.Entry(self.body, show="*")
 		self.entry['textvariable'] = self.password
-		self.entry.grid(row=2, column=0, columnspan=2)
+		self.entry.place(x=53, y=96)
+
+		def toggle_password_visibility():
+			if self.entry['show'] == "":
+				self.entry['show'] = "*"
+				self.eye_button['text'] = "👁"
+			else:
+				self.entry['show'] = ""
+				self.eye_button['text'] = "👁"
+
+		self.eye_button = tk.Button(self.body, text="👁", width=2, command=toggle_password_visibility)
+		self.eye_button.place(x=180, y=92.5)
 
 		self.unlock =tk.Button(self.body, bg='green', width=20)
 		self.unlock['text'] = f'Unlock Folder'
@@ -210,8 +232,10 @@ class Application(tk.Frame):
 
 if __name__ == '__main__':
 	root = tk.Tk()
-	root.geometry('400x305')
 	root.title('Folder Locker/Unlocker')
+	x = (root.winfo_screenwidth() - 400) // 2
+	y = (root.winfo_screenheight() - 300) // 2
+	root.geometry(f"{400}x{300}+{x}+{y}")
 	root.resizable(0,0)
 
 	lock_icon = PhotoImage(file='icons/lock.png').subsample(2,2)
