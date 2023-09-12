@@ -46,7 +46,7 @@ So far, the following projects have been integrated to this repo:
 |[Directory organizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory-organizer) | [Athul P](https://github.com/athulpn) |
 |[Database-As-Storage](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Database-As-Storage) | [Bhargav Kuvadiya](https://github.com/techdobz) |
 |[DOH DIG](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/DOH-Dig/) | [Ryan](https://github.com/awsumco) |
-|[English Theasaurus](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/English_Theasaurus/) | [Ansh Dhingra](https://github.com/anshdhinhgra47) |
+|[English Theasaurus](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/English_Theasauras/) | [Ansh Dhingra](https://github.com/anshdhinhgra47) |
 |[Elasticsearch snapshot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/elastic-snapshot) | [Joe Ryan](https://github.com/joeryan) |
 |[Excel Files Merger](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_Files_Merger) | [Andrei N](https://github.com/Andrei-Niculae)|
 |[Excel to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_to_ListofList) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
@@ -63,7 +63,7 @@ So far, the following projects have been integrated to this repo:
 |[Image circle formatter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image-Circulator) |[Berk Gureken](https://github.com/bureken) |
 |[Image To PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/images2pdf)|[msaoudallah](https://github.com/msaoudallah)|
 |[Instadp Web Scrapper](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/InstadpShower)|[Psychiquest](https://github.com/psychiquest)|
-|[IP Address ](https://github.com/hashtagAB/Awesome-Python-Scripts/tree/master/ipaddress)|[Xenium](https://github.com/xeniumcode)|
+|[IP Address ](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/ipaddress)|[Xenium](https://github.com/xeniumcode)|
 |[Keylogger](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Keylogger) |[Preet Mishra](https://github.com/preetmishra) |
 |[Minecraft Server in background](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Minecraft_server_in_background)|[Max von Forell](https://github.com/mvforell)|
 |[Own IP locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Own_IP_Adress)|[Chris]()|
@@ -81,8 +81,6 @@ So far, the following projects have been integrated to this repo:
 |[Subtitle downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Subtitle-downloader)|[Kaushlendra Pratap](https://github.com/kaushl1998)|
 |[TTS - Text to Speech Mp3](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TTS_Text_to_Speech_Mp3)|[Antonio Andrade](https://github.com/xAndrade)|
 |[Top_News](Top_News)|[Attupatil](https://github.com/Attupatil)|
-|[Take Screenshot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Take_screenshot)|[Moad Mohammed Elhebri](https://github.com/moadmmh)|
-|[To Do Bot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/To-Do-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)|
 |[Upload Files to S3](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Upload_files_to_s3)|[Jayram Nai](https://github.com/jramnai)|
 |[Vinegère Cipher](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/vigenere_cipher)|[victoni](https://github.com/victoni)|
 |[Web proxy](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Proxy-Request)|[Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|
@@ -103,7 +101,7 @@ So far, the following projects have been integrated to this repo:
 |[Wikipedia-Search](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Wikipedia-Search)|[Nissaar](https://github.com/Nissaar) |
 |[Instagram Video Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/insta_video_downloader)|[Shobhit Bhosure](https://github.com/shobhit99) |
 |[Medium Article Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)|
-|[Face Recognition](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/image_recognition)|[LOKESH KHURANA](https://github.com/theluvvkhurana)|
+|[Face Recognition](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Face_recognition)|[LOKESH KHURANA](https://github.com/theluvvkhurana)|
 |[File Encrypt Decrypt](file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)|
 | [Address locator](Location_Of_Adress) | [Chris]() |
 | [Automated calendar](automated_calendar) | [J.A. Hernández](https://github.com/jesusalberto18) |
@@ -175,7 +173,7 @@ So far, the following projects have been integrated to this repo:
 |[File Organizer](File-Organizer)|[Ayush Bhardwaj](https://github.com/hastagAB)|
 |[send_whatsapp_message](send_whatsapp_message)|[Mukesh Prasad](https://github.com/mukeshprasad)|
 |[YTS Torrents](yts_torrents)|[Mayank Nader](https://github.com/makkoncept)|
-|[COVID visualiser (real-time) ](covdi_visualiser)|[Tushar Gupta](https://github.com/tushar5526)|
+|[COVID visualiser (real-time) ](covid_visualiser)|[Tushar Gupta](https://github.com/tushar5526)|
 |[Random_Email_Generator](Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
 |[WiFi Password Viewer](Wifi-Password)|[Sagar Patel](https://github.com/sagar627)|
 |[Tambola_Ticket_Generator](Tambola_Ticket_Generator)|[Amandeep_Singh](https://github.com/Synster)|
@@ -194,7 +192,7 @@ So far, the following projects have been integrated to this repo:
 |[Download Page as PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Download-page-as-pdf)|[Jeremias Gomes](https://github.com/j3r3mias)|
 |[JSON file to YAML convertor](https://github.com/saksham117/Awesome-Python-Scripts/tree/master/json-to-yaml)|[Saksham Basandrai](https://github.com/saksham117)|
 |[Independent RSA Communication Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Communication)|[Miguel Santos](https://github.com/wi6n3l)|
-|[GithubBot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/GithubBot)|[Abhilasha](https://github.com/Abhilasha06)|
+|[GithubBot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Github_Bot)|[Abhilasha](https://github.com/Abhilasha06)|
 |[Translate CLI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TranslateCLI)|[Rodrigo Oliveira](https://github.com/rodrigocam)|
 |[Rock-Paper-Scissor Game](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Rock-Paper-Scissor)|[Punit Sakre](https://github.com/punitsakre23)|
 |[Folder Locker and hider](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Folder%20Locker%20%26%20Hider)|[Prajjwal Pathak](https://github.com/pyguru123)|
@@ -202,8 +200,8 @@ So far, the following projects have been integrated to this repo:
 |[Test Your Internet Speed](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TestMyInternetSpeed)|[TheSmartDeveloperr](https://github.com/thesmartdeveloperr)|
 |[Plagiarism_detector](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Plagiarism_detector)|[Akshita Singhal](https://github.com/akshitasinghal4444)|
 |[csv_to_json](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/csv_to_json)|[MoiZ](https://github.com/TechBoyy6)|
-|[Battery_notification](https://github.com/hastagABAwesome-Python-Scripts/Battery_notification/)|[Krishna Sharma](https://github.com/krishnasharma1386)|
-|[Steg_Tool](https://github.com/hastagABAwesome-Python-Scripts/Steg_Tool/)|[Shankar JP](https://github.com/shankarjp)|
+|[Battery_notification](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Battery_notification/)|[Krishna Sharma](https://github.com/krishnasharma1386)|
+|[Steg_Tool](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Steg_Tool/)|[Shankar JP](https://github.com/shankarjp)|
 | [Directory Tree Visualizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory_Tree_Generator) | [Harpreet Singh Saluja](https://github.com/hssaluja25/) |
 |[Pressure_Converter](https://github.com/E-wave112/Awesome-Python-Scripts/tree/master/Pressure_Converter)|[E-Wave](https://github.com/E-wave112)|
 | [File Carving](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File_Carving) | [Yeryeong Kim](https://github.com/icarusicarus/) |
