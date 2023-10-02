@@ -22,192 +22,192 @@ So far, the following projects have been integrated to this repo:
 
 | Project Name | Contributors |
 |--|--|
-| [TicTacToe AI and 2 players](https://github.com/ShadowHunter15/Awesome-Python-Scripts/tree/master/TicTacToe_AI_and_2_players) | [Omar Sameh](https://github.com/ShadowHunter15) |
-| [AI for guess the number](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/AI_for_Guess_the_number) | [Omar Sameh](https://github.com/ShadowHunter15) |
-| [sudoku-solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/sudoku-solver) | [Rishabh Umrao](https://github.com/ayedaemon)  |
-|[File Encrypt Decrypt](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)|
-| [Address locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Adress) | [Chris]() |
-| [Automated emails](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/automated_email) | [Suvigya](https://github.com/SuvigyaJain1) |
-|[AI chatbot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Artificial-intelligence_bot) |[umar abdullahi](https://github.com/umarbrowser) |
-|[Asymmetric Encryption](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) |
-|[Bitcoin price GUI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Bitcoin-Price-GUI) |[Amirul Abu](https://github.com/amirulabu) |
-|[Better_CSV_Storage](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Better_CSV_Storage) | [Bhargav Kuvadiya](https://github.com/techdobz) |
-|[Cryptocurrency Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-converter) |[AdnCodz](https://github.com/AdnCodez) |
-|[Cryptocurrency Prices](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-Prices) |[xemeds](https://github.com/xemeds) |
-|[Caesar Cipher](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/caesar_cipher) |[epi052](https://github.com/epi052) |
-|[Checksum tool](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Checksum) |[Austin Ewens](https://github.com/aewens) |
-|[Codechef autosubmitter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Codechef-Code-Submitter) |[Harshit Mahajan](https://github.com/hmahajan99) |
-|[Colored B&W Image Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Color_to_BW_Converter) |[Nitish Srivastava](https://github.com/nitish-iiitd) |
-|[Contact 'Leads' Distribution](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Contact-Distribution) |[Tiago Cordeiro](https://github.com/tiagocordeiro) |
-|[Cricket Matches web Scraper](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/CricBuzz_Score_Update) |[Divy Ranjan](https://github.com/divyranjan17) |
-| [Crypt socket](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Crypt_Socket)|[Willian GL](https://github.com/williangl) |
-| [CSV to Excel](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/CSV-to-Excel)|[xemeds](https://github.com/xemeds) |
-|[Current City Weather](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Current_City_Weather) |[Jesse Bridge](https://github.com/jessebridge) |
-|[Directory organizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory-organizer) | [Athul P](https://github.com/athulpn) |
-|[Database-As-Storage](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Database-As-Storage) | [Bhargav Kuvadiya](https://github.com/techdobz) |
-|[DOH DIG](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/DOH-Dig/) | [Ryan](https://github.com/awsumco) |
-|[English Theasaurus](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/English_Theasauras/) | [Ansh Dhingra](https://github.com/anshdhinhgra47) |
-|[Elasticsearch snapshot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/elastic-snapshot) | [Joe Ryan](https://github.com/joeryan) |
-|[Excel Files Merger](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_Files_Merger) | [Andrei N](https://github.com/Andrei-Niculae)|
-|[Excel to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_to_ListofList) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
-|[Extended_ip_address_info](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/extended_ip_address_info) | [hafpaf](https://github.com/hafpaf)|
-|[File explorer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File-Explorer-Dialog-Box) | [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|
-|[File Sharing Bot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File-Sharing-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)|
-|[Flash card quizzer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Flash-card-Challenge) |[Utkarsh Sharma](https://github.com/Utkarsh1308) |
-|[Frammed text generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/FramedText) | [jcdwalle](https://github.com/jcdwalle)|
-|[git_automation](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/git_automation)| [loge1998](https://github.com/loge1998)|
-|[Gmail Mailing Script](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/mailing) |[mayank-kapur](https://github.com/kapurm17) |
-|[Get Time By TimeZone](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Get_Time_TimezoneWise)|[Parth Shah](https://github.com/codingis4noobs) |
-|[Handwrting DNN recognizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Handwriting_Recognizer) |[Chris]() |
-|[HTML Table to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/HTML_Table_to_List) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
-|[Image circle formatter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image-Circulator) |[Berk Gureken](https://github.com/bureken) |
-|[Image To PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/images2pdf)|[msaoudallah](https://github.com/msaoudallah)|
-|[Instadp Web Scrapper](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/InstadpShower)|[Psychiquest](https://github.com/psychiquest)|
-|[IP Address ](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/ipaddress)|[Xenium](https://github.com/xeniumcode)|
-|[Keylogger](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Keylogger) |[Preet Mishra](https://github.com/preetmishra) |
-|[Minecraft Server in background](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Minecraft_server_in_background)|[Max von Forell](https://github.com/mvforell)|
-|[Own IP locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Own_IP_Adress)|[Chris]()|
-|[Port Scanner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Port_Scanner)|[Plutoberth](https://github.com/Plutoberth)|
-|[Harry Potter Cloak](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Harry-Potter-Cloak) | [thesmartdeveloperr](https://github.com/thesmartdeveloperr)|
-|[Python Algebra Solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Algebra-Solver)|[Sengxay Xayachack](https://github.com/frankxayachack)|
-|[Random name generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Random_Names_Generator)| [Ayush Bhardwaj](https://github.com/hastagAB)|
-|[Random Password Generators](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Random_Password_Generator)| [Hafpaf](https://github.com/hafpaf) and [Renderer-RCT2](https://github.com/Renderer-RCT2)|
-|[Server Ping](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Ping_Server)|[prince]()|
-|[Signature photo to PNG converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/signature2png)|[Rodolfo Ferro](https://github.com/RodolfoFerro)|
-|[Simple Webpage Parser](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SimpleWebpageParser)|[Nitish Srivastava](https://github.com/nitish-iiitd)|
-|[Slideshare downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Slideshare-Downloader)|[Chris Goes](https://github.com/GhostofGoes)|
-|[SMS your location](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SmsYourLocation)|[prince]()|
-|[Squid installer for Ubuntu](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Squid-Proxy-Installer-for-Ubuntu16)|[Berkay Demir]()|
-|[Subtitle downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Subtitle-downloader)|[Kaushlendra Pratap](https://github.com/kaushl1998)|
-|[TTS - Text to Speech Mp3](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TTS_Text_to_Speech_Mp3)|[Antonio Andrade](https://github.com/xAndrade)|
-|[Top_News](Top_News)|[Attupatil](https://github.com/Attupatil)|
-|[Upload Files to S3](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Upload_files_to_s3)|[Jayram Nai](https://github.com/jramnai)|
-|[Vinegère Cipher](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/vigenere_cipher)|[victoni](https://github.com/victoni)|
-|[Web proxy](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Proxy-Request)|[Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|
-|[Website blocker](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Website-Blocker)|[Ayush Bhardwaj](https://github.com/hastagAB)|
-|[Word generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Word-generator)|[TGLIDE](https://github.com/TGlide)|
-|[Work log generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Work_Log_Generator)|[Maël Pedretti](https://github.com/73VW)|
-|[Youtube video downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Youtube_Video_Downloader)|[Christopher He](https://github.com/hecris)|
-|[Zabbix API](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zabbix_api)|[msg4sunny](https://github.com/msg4sunny)|
-|[Zip password cracker](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zip_password_cracker)|[umar abdullahi](https://github.com/umarbrowser)|
-|[RSA Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Algorithm)|[Chinmay Rane](https://github.com/Chinmayrane16)|
-|[CLI Calculator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/cli_calculator)|[Willian GL](https://github.com/williangl) |
-|[Find PhoneNumber in String](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Find-PhoneNumber-in-String)|[Austin Zuniga](https://github.com/AustinZuniga)|
-|[IMDB TV Series Info Extractor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) |
-|[PX to REM](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PX-to-REM)|[Atthaphon Urairat](https://github.com/uatthaphon) |
-|[py_based_music_player](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/py_based_music_player) | [Bhargav Kuvadiya](https://github.com/techdobz) |
-|[Yoda-speak Translator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/speak_like_yoda)|[sonniki](https://github.com/sonniki) |
-|[SSH Host adder](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SSH_Host_Adder)|[NinoDoko](https://github.com/NinoDoko)|
-|[Wikipedia-Search](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Wikipedia-Search)|[Nissaar](https://github.com/Nissaar) |
-|[Instagram Video Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/insta_video_downloader)|[Shobhit Bhosure](https://github.com/shobhit99) |
-|[Medium Article Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)|
-|[Face Recognition](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Face_recognition)|[LOKESH KHURANA](https://github.com/theluvvkhurana)|
-|[File Encrypt Decrypt](file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)|
-| [Address locator](Location_Of_Adress) | [Chris]() |
-| [Automated calendar](automated_calendar) | [J.A. Hernández](https://github.com/jesusalberto18) |
-| [Automated emails](automated_email) | [Suvigya](https://github.com/SuvigyaJain1) |
-|[AI chatbot](Artificial-intelligence_bot) |[umar abdullahi](https://github.com/umarbrowser) |
-|[Asymmetric Encryption](asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) |
-|[Bitcoin price GUI](Bitcoin-Price-GUI) |[Amirul Abu](https://github.com/amirulabu) |
-|[Cryptocurrency Converter](Cryptocurrency-converter) |[AdnCodz](https://github.com/AdnCodez) |
-|[Caesar Cipher](caesar_cipher) |[epi052](https://github.com/epi052) |
-|[Checksum tool](Checksum) |[Austin Ewens](https://github.com/aewens) |
-|[Codechef autosubmitter](Codechef-Code-Submitter) |[Harshit Mahajan](https://github.com/hmahajan99) |
-|[Colored B&W Image Converter](Color_to_BW_Converter) |[Nitish Srivastava](https://github.com/nitish-iiitd) |
-|[Contact 'Leads' Distribution](Contact-Distribution) |[Tiago Cordeiro](https://github.com/tiagocordeiro) |
-|[Cricket Matches web Scraper](CricBuzz_Score_Update) |[Divy Ranjan](https://github.com/divyranjan17) |
-| [Crypt socket](Crypt_Socket)|[Willian GL](https://github.com/williangl) |
-|[Current City Weather](Current_City_Weather) |[Jesse Bridge](https://github.com/jessebridge) |
-|[Directory organizer](Directory-organizer) | [Athul P](https://github.com/athulpn) |
-|[DOH DIG](DOH-Dig/) | [Ryan](https://github.com/awsumco) |
-|[Excel Files Merger](Excel_Files_Merger) | [Andrei N](https://github.com/Andrei-Niculae)|
-|[Excel to List](Excel_to_ListofList) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
-|[Extended_ip_address_info](extended_ip_address_info) | [hafpaf](https://github.com/hafpaf)|
-|[Fibonacci_Sequence_Generator](Fibonacci_Sequence_Generator) | [John Wesley Kommala](https://github.com/JohnWesleyK)|
-|[File explorer](File-Explorer-Dialog-Box) | [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|
-|[File Sharing Bot](File-Sharing-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)|
-|[Flash card quizzer](Flash-card-Challenge) |[Utkarsh Sharma](https://github.com/Utkarsh1308) |
-|[Frammed text generator](FramedText) | [jcdwalle](https://github.com/jcdwalle)|
-|[Gmail Mailing Script](mailing) |[mayank-kapur](https://github.com/kapurm17) |
-|[Handwrting DNN recognizer](Handwriting_Recognizer) |[Chris]() |
-|[HTML Table to List](HTML_Table_to_List) | [Nitish Srivastava](https://github.com/nitish-iiitd)|
-|[Image circle formatter](Image-Circulator) |[Berk Gureken](https://github.com/bureken) |
-|[Image To PDF](images2pdf)|[msaoudallah](https://github.com/msaoudallah)|
-|[Instadp Web Scrapper](InstadpShower)|[Psychiquest](https://github.com/psychiquest)|
-|[Keylogger](Keylogger) |[Preet Mishra](https://github.com/preetmishra) |
-|[Minecraft Server in background](Minecraft_server_in_background)|[Max von Forell](https://github.com/mvforell)|
-|[Own IP locator](Location_Of_Own_IP_Adress)|[Chris]()|
-|[Port Scanner](Port_Scanner)|[Plutoberth](https://github.com/Plutoberth)|
-|[Python Algebra Solver](Algebra-Solver)|[Sengxay Xayachack](https://github.com/frankxayachack)|
-|[Random name generator](Random_Names_Generator)| [Ayush Bhardwaj](https://github.com/hastagAB)|
-|[Random Password Generators](Random_Password_Generator)| [Hafpaf](https://github.com/hafpaf) and [Renderer-RCT2](https://github.com/Renderer-RCT2)|
-|[Server Ping](Ping_Server)|[prince]()|
-|[Signature photo to PNG converter](signature2png)|[Rodolfo Ferro](https://github.com/RodolfoFerro)|
-|[Simple Webpage Parser](SimpleWebpageParser)|[Nitish Srivastava](https://github.com/nitish-iiitd)|
-|[Slideshare downloader](Slideshare-Downloader)|[Chris Goes](https://github.com/GhostofGoes)|
-|[SMS your location](SmsYourLocation)|[prince]()|
-|[Squid installer for Ubuntu](Squid-Proxy-Installer-for-Ubuntu16)|[Berkay Demir]()|
-|[Subtitle downloader](Subtitle-downloader)|[Kaushlendra Pratap](https://github.com/kaushl1998)|
-|[Take Screenshot](Take_screenshot)|[Moad Mohammed Elhebri](https://github.com/moadmmh)|
-|[To Do Bot](To%20Do%20Bot) | [Darshan Patel](https://github.com/DarshanPatel11)|
-|[Upload Files to S3](Upload_files_to_s3)|[Jayram Nai](https://github.com/jramnai)|
-|[Vinegère Cipher](vigenere_cipher)|[victoni](https://github.com/victoni)|
-|[Web proxy](Proxy-Request)|[Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|
-|[Website blocker](Website-Blocker)|[Ayush Bhardwaj](https://github.com/hastagAB)|
-|[Website Url Detector](Website_Url_Detector)|[sonniki](https://github.com/sonniki)|
-|[Word Frequency Counter](Word_Frequency_Counter)|[sonniki](https://github.com/sonniki)|
-|[Word generator](Word-generator)|[TGLIDE](https://github.com/TGlide)|
-|[Work log generator](Work_Log_Generator)|[Maël Pedretti](https://github.com/73VW)|
-|[Youtube video downloader](Youtube_Video_Downloader)|[Christopher He](https://github.com/hecris)|
-|[Zabbix API](zabbix_api)|[msg4sunny](https://github.com/msg4sunny)|
-|[Zip password cracker](zip_password_cracker)|[umar abdullahi](https://github.com/umarbrowser)|
-|[CLI Calculator](cli_calculator)|[Willian GL](https://github.com/williangl) |
-|[Find PhoneNumber in String](Find-PhoneNumber-in-String)|[Austin Zuniga](https://github.com/AustinZuniga)|
-|[IMDB TV Series Info Extractor](imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) |
-|[Yoda-speak Translator](speak_like_yoda)|[sonniki](https://github.com/sonniki) |
-|[Medium Article Downloader](medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)|
-|[RSA Key Pair Generator](RSA-key-pairs) | [Aditya Parikh](https://github.com/obiwan69) |
-|[Clean_up_photo](Clean_up_photo_directory)|[sritanmay001](https://github.com/sritanmy001)|
-|[PyRecorder](PyRecorder)|[Rocky Jain](https://github.com/jainrocky)|
-|[Pretty CSV](Pretty-CSV)|[Frizz925](https://github.com/Frizz925)|
-|[File Organizer](File-Organizer)|[Ayush Bhardwaj](https://github.com/hastagAB)|
-|[send_whatsapp_message](send_whatsapp_message)|[Mukesh Prasad](https://github.com/mukeshprasad)|
-|[YTS Torrents](yts_torrents)|[Mayank Nader](https://github.com/makkoncept)|
-|[COVID visualiser (real-time) ](covid_visualiser)|[Tushar Gupta](https://github.com/tushar5526)|
-|[Random_Email_Generator](Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
-|[WiFi Password Viewer](Wifi-Password)|[Sagar Patel](https://github.com/sagar627)|
-|[Tambola_Ticket_Generator](Tambola_Ticket_Generator)|[Amandeep_Singh](https://github.com/Synster)|
-| [Py_Cleaner](Py_Cleaner) | [Abhishek Dobliyal](https://github.com/Abhishek-Dobliyal)|
-|[Send messages to sqs in parallel](send_sqs_messages_in_parallel)|[Jinam Shah](https://github.com/jinamshah)|
-|[Codeforces Checker](codeforcesChecker)|[Jinesh Parakh](https://github.com/jineshparakh)|
-|[Github repo creator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)|[Harish Tiwari ](https://github.com/optimist2309)|
-|[Remove-Duplicate-Files](Remove-Duplicate-Files)|[Aayushi Varma](https://github.com/aayuv17)|
-|[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)|
-|[Image Watermarker (batch)](imageWatermarker)|[Remco Halman](https://github.com/remcohalman)|
-|[Folder Manager](Folder_Manager)|[Harsh Raj](https://github.com/DeadProgrammer0)|
-|[IMDBQuerier](IMDBQuerier)|[Burak Bekci](https://github.com/Bekci)|
-|[URL shortener](url_shortener)|[Sam Ebison](https://github.com/ebsa491)|
-|[2048](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/2048)|[Krunal](https://github.com/gitkp11)|
-|[Spotify Downloader](spotify_downloader)|[Sagar Patel](https://github.com/sagar627)|
-|[Download Page as PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Download-page-as-pdf)|[Jeremias Gomes](https://github.com/j3r3mias)|
-|[JSON file to YAML convertor](https://github.com/saksham117/Awesome-Python-Scripts/tree/master/json-to-yaml)|[Saksham Basandrai](https://github.com/saksham117)|
-|[Independent RSA Communication Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Communication)|[Miguel Santos](https://github.com/wi6n3l)|
-|[GithubBot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Github_Bot)|[Abhilasha](https://github.com/Abhilasha06)|
-|[Translate CLI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TranslateCLI)|[Rodrigo Oliveira](https://github.com/rodrigocam)|
-|[Rock-Paper-Scissor Game](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Rock-Paper-Scissor)|[Punit Sakre](https://github.com/punitsakre23)|
-|[Folder Locker and hider](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Folder%20Locker%20%26%20Hider)|[Prajjwal Pathak](https://github.com/pyguru123)|
-|[Image Compressor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image_Compressor)|[Prathima Kadari](https://github.com/prathimacode-hub)|
-|[Test Your Internet Speed](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TestMyInternetSpeed)|[TheSmartDeveloperr](https://github.com/thesmartdeveloperr)|
-|[Plagiarism_detector](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Plagiarism_detector)|[Akshita Singhal](https://github.com/akshitasinghal4444)|
-|[csv_to_json](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/csv_to_json)|[MoiZ](https://github.com/TechBoyy6)|
-|[Battery_notification](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Battery_notification/)|[Krishna Sharma](https://github.com/krishnasharma1386)|
-|[Steg_Tool](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Steg_Tool/)|[Shankar JP](https://github.com/shankarjp)|
-| [Directory Tree Visualizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory_Tree_Generator) | [Harpreet Singh Saluja](https://github.com/hssaluja25/) |
-|[Pressure_Converter](https://github.com/E-wave112/Awesome-Python-Scripts/tree/master/Pressure_Converter)|[E-Wave](https://github.com/E-wave112)|
-| [File Carving](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File_Carving) | [Yeryeong Kim](https://github.com/icarusicarus/) |
-|[Google Meet Joiner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/google_meet_joiner)|[JohanSanSebastian](https://github.com/JohanSanSebastian)|
-|[Pdf to AudioBook Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PdfToAudio)|[Ayesha Gull](https://github.com/ayeshag7/)|
-|[Countdown](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Countdown)|[Jeremias Gomes](https://github.com/j3r3mias)|
+|[2048](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/2048)|[Krunal](https://github.com/gitkp11)| 
+|[AI chatbot](Artificial-intelligence_bot) |[umar abdullahi](https://github.com/umarbrowser) | 
+|[AI chatbot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Artificial-intelligence_bot) |[umar abdullahi](https://github.com/umarbrowser) | 
+|[AI for guess the number](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/AI_for_Guess_the_number) | [Omar Sameh](https://github.com/ShadowHunter15) | 
+|[Address locator](Location_Of_Adress) | [Chris]() | 
+|[Address locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Adress) | [Chris]() | 
+|[Asymmetric Encryption](asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) | 
+|[Asymmetric Encryption](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) | 
+|[Automated calendar](automated_calendar) | [J.A. Hernández](https://github.com/jesusalberto18) | 
+|[Automated emails](automated_email) | [Suvigya](https://github.com/SuvigyaJain1) | 
+|[Automated emails](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/automated_email) | [Suvigya](https://github.com/SuvigyaJain1) | 
+|[Battery_notification](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Battery_notification/)|[Krishna Sharma](https://github.com/krishnasharma1386)| 
+|[Better_CSV_Storage](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Better_CSV_Storage) | [Bhargav Kuvadiya](https://github.com/techdobz) | 
+|[Bitcoin price GUI](Bitcoin-Price-GUI) |[Amirul Abu](https://github.com/amirulabu) | 
+|[Bitcoin price GUI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Bitcoin-Price-GUI) |[Amirul Abu](https://github.com/amirulabu) | 
+|[CLI Calculator](cli_calculator)|[Willian GL](https://github.com/williangl) | 
+|[CLI Calculator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/cli_calculator)|[Willian GL](https://github.com/williangl) | 
+|[COVID visualiser (real-time) ](covid_visualiser)|[Tushar Gupta](https://github.com/tushar5526)| 
+|[CSV to Excel](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/CSV-to-Excel)|[xemeds](https://github.com/xemeds) | 
+|[Caesar Cipher](caesar_cipher) |[epi052](https://github.com/epi052) | 
+|[Caesar Cipher](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/caesar_cipher) |[epi052](https://github.com/epi052) | 
+|[Checksum tool](Checksum) |[Austin Ewens](https://github.com/aewens) | 
+|[Checksum tool](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Checksum) |[Austin Ewens](https://github.com/aewens) | 
+|[Clean_up_photo](Clean_up_photo_directory)|[sritanmay001](https://github.com/sritanmy001)| 
+|[Codechef autosubmitter](Codechef-Code-Submitter) |[Harshit Mahajan](https://github.com/hmahajan99) | 
+|[Codechef autosubmitter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Codechef-Code-Submitter) |[Harshit Mahajan](https://github.com/hmahajan99) | 
+|[Codeforces Checker](codeforcesChecker)|[Jinesh Parakh](https://github.com/jineshparakh)| 
+|[Colored B&W Image Converter](Color_to_BW_Converter) |[Nitish Srivastava](https://github.com/nitish-iiitd) | 
+|[Colored B&W Image Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Color_to_BW_Converter) |[Nitish Srivastava](https://github.com/nitish-iiitd) | 
+|[Contact 'Leads' Distribution](Contact-Distribution) |[Tiago Cordeiro](https://github.com/tiagocordeiro) | 
+|[Contact 'Leads' Distribution](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Contact-Distribution) |[Tiago Cordeiro](https://github.com/tiagocordeiro) | 
+|[Countdown](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Countdown)|[Jeremias Gomes](https://github.com/j3r3mias)| 
+|[csv_to_json](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/csv_to_json)|[MoiZ](https://github.com/TechBoyy6)| 
+|[Cricket Matches web Scraper](CricBuzz_Score_Update) |[Divy Ranjan](https://github.com/divyranjan17) | 
+|[Cricket Matches web Scraper](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/CricBuzz_Score_Update) |[Divy Ranjan](https://github.com/divyranjan17) | 
+|[Crypt socket](Crypt_Socket)|[Willian GL](https://github.com/williangl) | 
+|[Crypt socket](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Crypt_Socket)|[Willian GL](https://github.com/williangl) | 
+|[Cryptocurrency Converter](Cryptocurrency-converter) |[AdnCodz](https://github.com/AdnCodez) | 
+|[Cryptocurrency Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-converter) |[AdnCodz](https://github.com/AdnCodez) | 
+|[Cryptocurrency Prices](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-Prices) |[xemeds](https://github.com/xemeds) | 
+|[Current City Weather](Current_City_Weather) |[Jesse Bridge](https://github.com/jessebridge) | 
+|[Current City Weather](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Current_City_Weather) |[Jesse Bridge](https://github.com/jessebridge) | 
+|[DOH DIG](DOH-Dig/) | [Ryan](https://github.com/awsumco) | 
+|[DOH DIG](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/DOH-Dig/) | [Ryan](https://github.com/awsumco) | 
+|[Database-As-Storage](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Database-As-Storage) | [Bhargav Kuvadiya](https://github.com/techdobz) | 
+|[Directory Tree Visualizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory_Tree_Generator) | [Harpreet Singh Saluja](https://github.com/hssaluja25/) | 
+|[Directory organizer](Directory-organizer) | [Athul P](https://github.com/athulpn) | 
+|[Directory organizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory-organizer) | [Athul P](https://github.com/athulpn) | 
+|[Download Page as PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Download-page-as-pdf)|[Jeremias Gomes](https://github.com/j3r3mias)| 
+|[Elasticsearch snapshot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/elastic-snapshot) | [Joe Ryan](https://github.com/joeryan) | 
+|[English Theasaurus](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/English_Theasauras/) | [Ansh Dhingra](https://github.com/anshdhinhgra47) | 
+|[Excel Files Merger](Excel_Files_Merger) | [Andrei N](https://github.com/Andrei-Niculae)| 
+|[Excel Files Merger](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_Files_Merger) | [Andrei N](https://github.com/Andrei-Niculae)| 
+|[Excel to List](Excel_to_ListofList) | [Nitish Srivastava](https://github.com/nitish-iiitd)| 
+|[Excel to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Excel_to_ListofList) | [Nitish Srivastava](https://github.com/nitish-iiitd)| 
+|[Extended_ip_address_info](extended_ip_address_info) | [hafpaf](https://github.com/hafpaf)| 
+|[Extended_ip_address_info](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/extended_ip_address_info) | [hafpaf](https://github.com/hafpaf)| 
+|[Face Recognition](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Face_recognition)|[LOKESH KHURANA](https://github.com/theluvvkhurana)| 
+|[Fibonacci_Sequence_Generator](Fibonacci_Sequence_Generator) | [John Wesley Kommala](https://github.com/JohnWesleyK)| 
+|[File Carving](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File_Carving) | [Yeryeong Kim](https://github.com/icarusicarus/) | 
+|[File Encrypt Decrypt](file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)| 
+|[File Encrypt Decrypt](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)| 
+|[File Organizer](File-Organizer)|[Ayush Bhardwaj](https://github.com/hastagAB)| 
+|[File Sharing Bot](File-Sharing-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)| 
+|[File Sharing Bot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File-Sharing-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)| 
+|[File explorer](File-Explorer-Dialog-Box) | [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)| 
+|[File explorer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File-Explorer-Dialog-Box) | [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)| 
+|[Find PhoneNumber in String](Find-PhoneNumber-in-String)|[Austin Zuniga](https://github.com/AustinZuniga)| 
+|[Find PhoneNumber in String](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Find-PhoneNumber-in-String)|[Austin Zuniga](https://github.com/AustinZuniga)| 
+|[Flash card quizzer](Flash-card-Challenge) |[Utkarsh Sharma](https://github.com/Utkarsh1308) | 
+|[Flash card quizzer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Flash-card-Challenge) |[Utkarsh Sharma](https://github.com/Utkarsh1308) | 
+|[Folder Locker and hider](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Folder%20Locker%20%26%20Hider)|[Prajjwal Pathak](https://github.com/pyguru123)| 
+|[Folder Manager](Folder_Manager)|[Harsh Raj](https://github.com/DeadProgrammer0)| 
+|[Frammed text generator](FramedText) | [jcdwalle](https://github.com/jcdwalle)| 
+|[Frammed text generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/FramedText) | [jcdwalle](https://github.com/jcdwalle)| 
+|[Get Time By TimeZone](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Get_Time_TimezoneWise)|[Parth Shah](https://github.com/codingis4noobs) | 
+|[git_automation](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/git_automation)| [loge1998](https://github.com/loge1998)| 
+|[Github repo creator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)|[Harish Tiwari ](https://github.com/optimist2309)| 
+|[GithubBot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Github_Bot)|[Abhilasha](https://github.com/Abhilasha06)| 
+|[Gmail Mailing Script](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/mailing) |[mayank-kapur](https://github.com/kapurm17) | 
+|[Gmail Mailing Script](mailing) |[mayank-kapur](https://github.com/kapurm17) | 
+|[Google Meet Joiner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/google_meet_joiner)|[JohanSanSebastian](https://github.com/JohanSanSebastian)| 
+|[HTML Table to List](HTML_Table_to_List) | [Nitish Srivastava](https://github.com/nitish-iiitd)| 
+|[HTML Table to List](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/HTML_Table_to_List) | [Nitish Srivastava](https://github.com/nitish-iiitd)| 
+|[Handwrting DNN recognizer](Handwriting_Recognizer) |[Chris]() | 
+|[Handwrting DNN recognizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Handwriting_Recognizer) |[Chris]() | 
+|[Harry Potter Cloak](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Harry-Potter-Cloak) | [thesmartdeveloperr](https://github.com/thesmartdeveloperr)| 
+|[IMDB TV Series Info Extractor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) | 
+|[IMDB TV Series Info Extractor](imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) | 
+|[IMDBQuerier](IMDBQuerier)|[Burak Bekci](https://github.com/Bekci)| 
+|[IP Address ](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/ipaddress)|[Xenium](https://github.com/xeniumcode)| 
+|[Image Compressor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image_Compressor)|[Prathima Kadari](https://github.com/prathimacode-hub)| 
+|[Image To PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/images2pdf)|[msaoudallah](https://github.com/msaoudallah)| 
+|[Image To PDF](images2pdf)|[msaoudallah](https://github.com/msaoudallah)| 
+|[Image Watermarker (batch)](imageWatermarker)|[Remco Halman](https://github.com/remcohalman)| 
+|[Image circle formatter](Image-Circulator) |[Berk Gureken](https://github.com/bureken) | 
+|[Image circle formatter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image-Circulator) |[Berk Gureken](https://github.com/bureken) | 
+|[Independent RSA Communication Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Communication)|[Miguel Santos](https://github.com/wi6n3l)| 
+|[Instadp Web Scrapper](InstadpShower)|[Psychiquest](https://github.com/psychiquest)| 
+|[Instadp Web Scrapper](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/InstadpShower)|[Psychiquest](https://github.com/psychiquest)| 
+|[Instagram Video Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/insta_video_downloader)|[Shobhit Bhosure](https://github.com/shobhit99) | 
+|[JSON file to YAML convertor](https://github.com/saksham117/Awesome-Python-Scripts/tree/master/json-to-yaml)|[Saksham Basandrai](https://github.com/saksham117)| 
+|[Keylogger](Keylogger) |[Preet Mishra](https://github.com/preetmishra) | 
+|[Keylogger](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Keylogger) |[Preet Mishra](https://github.com/preetmishra) | 
+|[Medium Article Downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)| 
+|[Medium Article Downloader](medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)| 
+|[Minecraft Server in background](Minecraft_server_in_background)|[Max von Forell](https://github.com/mvforell)| 
+|[Minecraft Server in background](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Minecraft_server_in_background)|[Max von Forell](https://github.com/mvforell)| 
+|[Own IP locator](Location_Of_Own_IP_Adress)|[Chris]()| 
+|[Own IP locator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Location_Of_Own_IP_Adress)|[Chris]()| 
+|[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)| 
+|[PX to REM](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PX-to-REM)|[Atthaphon Urairat](https://github.com/uatthaphon) | 
+|[Pdf to AudioBook Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PdfToAudio)|[Ayesha Gull](https://github.com/ayeshag7/)| 
+|[Plagiarism_detector](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Plagiarism_detector)|[Akshita Singhal](https://github.com/akshitasinghal4444)| 
+|[Port Scanner](Port_Scanner)|[Plutoberth](https://github.com/Plutoberth)| 
+|[Port Scanner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Port_Scanner)|[Plutoberth](https://github.com/Plutoberth)| 
+|[Pressure_Converter](https://github.com/E-wave112/Awesome-Python-Scripts/tree/master/Pressure_Converter)|[E-Wave](https://github.com/E-wave112)| 
+|[Pretty CSV](Pretty-CSV)|[Frizz925](https://github.com/Frizz925)| 
+|[PyRecorder](PyRecorder)|[Rocky Jain](https://github.com/jainrocky)| 
+|[py_based_music_player](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/py_based_music_player) | [Bhargav Kuvadiya](https://github.com/techdobz) | 
+|[Py_Cleaner](Py_Cleaner) | [Abhishek Dobliyal](https://github.com/Abhishek-Dobliyal)| 
+|[Python Algebra Solver](Algebra-Solver)|[Sengxay Xayachack](https://github.com/frankxayachack)| 
+|[Python Algebra Solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Algebra-Solver)|[Sengxay Xayachack](https://github.com/frankxayachack)| 
+|[RSA Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Algorithm)|[Chinmay Rane](https://github.com/Chinmayrane16)| 
+|[RSA Key Pair Generator](RSA-key-pairs) | [Aditya Parikh](https://github.com/obiwan69) | 
+|[Random Password Generators](Random_Password_Generator)| [Hafpaf](https://github.com/hafpaf) and [Renderer-RCT2](https://github.com/Renderer-RCT2)| 
+|[Random Password Generators](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Random_Password_Generator)| [Hafpaf](https://github.com/hafpaf) and [Renderer-RCT2](https://github.com/Renderer-RCT2)| 
+|[Random name generator](Random_Names_Generator)| [Ayush Bhardwaj](https://github.com/hastagAB)| 
+|[Random name generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Random_Names_Generator)| [Ayush Bhardwaj](https://github.com/hastagAB)| 
+|[Random_Email_Generator](Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)| 
+|[Remove-Duplicate-Files](Remove-Duplicate-Files)|[Aayushi Varma](https://github.com/aayuv17)| 
+|[Rock-Paper-Scissor Game](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Rock-Paper-Scissor)|[Punit Sakre](https://github.com/punitsakre23)| 
+|[send_whatsapp_message](send_whatsapp_message)|[Mukesh Prasad](https://github.com/mukeshprasad)| 
+|[Send messages to sqs in parallel](send_sqs_messages_in_parallel)|[Jinam Shah](https://github.com/jinamshah)| 
+|[Server Ping](Ping_Server)|[prince]()| 
+|[Server Ping](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Ping_Server)|[prince]()| 
+|[Signature photo to PNG converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/signature2png)|[Rodolfo Ferro](https://github.com/RodolfoFerro)| 
+|[Signature photo to PNG converter](signature2png)|[Rodolfo Ferro](https://github.com/RodolfoFerro)| 
+|[Simple Webpage Parser](SimpleWebpageParser)|[Nitish Srivastava](https://github.com/nitish-iiitd)| 
+|[Simple Webpage Parser](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SimpleWebpageParser)|[Nitish Srivastava](https://github.com/nitish-iiitd)| 
+|[Slideshare downloader](Slideshare-Downloader)|[Chris Goes](https://github.com/GhostofGoes)| 
+|[Slideshare downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Slideshare-Downloader)|[Chris Goes](https://github.com/GhostofGoes)| 
+|[SMS your location](SmsYourLocation)|[prince]()| 
+|[SMS your location](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SmsYourLocation)|[prince]()| 
+|[Spotify Downloader](spotify_downloader)|[Sagar Patel](https://github.com/sagar627)| 
+|[Squid installer for Ubuntu](Squid-Proxy-Installer-for-Ubuntu16)|[Berkay Demir]()| 
+|[Squid installer for Ubuntu](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Squid-Proxy-Installer-for-Ubuntu16)|[Berkay Demir]()| 
+|[SSH Host adder](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SSH_Host_Adder)|[NinoDoko](https://github.com/NinoDoko)| 
+|[Steg_Tool](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Steg_Tool/)|[Shankar JP](https://github.com/shankarjp)| 
+|[sudoku-solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/sudoku-solver) | [Rishabh Umrao](https://github.com/ayedaemon)  |
+|[Subtitle downloader](Subtitle-downloader)|[Kaushlendra Pratap](https://github.com/kaushl1998)| 
+|[Subtitle downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Subtitle-downloader)|[Kaushlendra Pratap](https://github.com/kaushl1998)| 
+|[TTS - Text to Speech Mp3](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TTS_Text_to_Speech_Mp3)|[Antonio Andrade](https://github.com/xAndrade)| 
+|[Take Screenshot](Take_screenshot)|[Moad Mohammed Elhebri](https://github.com/moadmmh)| 
+|[Tambola_Ticket_Generator](Tambola_Ticket_Generator)|[Amandeep_Singh](https://github.com/Synster)| 
+|[Test Your Internet Speed](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TestMyInternetSpeed)|[TheSmartDeveloperr](https://github.com/thesmartdeveloperr)| 
+|[TicTacToe AI and 2 players](https://github.com/ShadowHunter15/Awesome-Python-Scripts/tree/master/TicTacToe_AI_and_2_players) | [Omar Sameh](https://github.com/ShadowHunter15) | 
+|[To Do Bot](To%20Do%20Bot) | [Darshan Patel](https://github.com/DarshanPatel11)| 
+|[Top_News](Top_News)|[Attupatil](https://github.com/Attupatil)| 
+|[Translate CLI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TranslateCLI)|[Rodrigo Oliveira](https://github.com/rodrigocam)| 
+|[URL shortener](url_shortener)|[Sam Ebison](https://github.com/ebsa491)| 
+|[Upload Files to S3](Upload_files_to_s3)|[Jayram Nai](https://github.com/jramnai)| 
+|[Upload Files to S3](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Upload_files_to_s3)|[Jayram Nai](https://github.com/jramnai)| 
+|[Vinegère Cipher](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/vigenere_cipher)|[victoni](https://github.com/victoni)| 
+|[Vinegère Cipher](vigenere_cipher)|[victoni](https://github.com/victoni)| 
+|[Web proxy](Proxy-Request)|[Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)| 
+|[Web proxy](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Proxy-Request)|[Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)| 
+|[Website Url Detector](Website_Url_Detector)|[sonniki](https://github.com/sonniki)| 
+|[Website blocker](Website-Blocker)|[Ayush Bhardwaj](https://github.com/hastagAB)| 
+|[Website blocker](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Website-Blocker)|[Ayush Bhardwaj](https://github.com/hastagAB)| 
+|[WiFi Password Viewer](Wifi-Password)|[Sagar Patel](https://github.com/sagar627)| 
+|[Wikipedia-Search](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Wikipedia-Search)|[Nissaar](https://github.com/Nissaar) | 
+|[Word Frequency Counter](Word_Frequency_Counter)|[sonniki](https://github.com/sonniki)| 
+|[Word generator](Word-generator)|[TGLIDE](https://github.com/TGlide)| 
+|[Word generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Word-generator)|[TGLIDE](https://github.com/TGlide)| 
+|[Work log generator](Work_Log_Generator)|[Maël Pedretti](https://github.com/73VW)| 
+|[Work log generator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Work_Log_Generator)|[Maël Pedretti](https://github.com/73VW)| 
+|[YTS Torrents](yts_torrents)|[Mayank Nader](https://github.com/makkoncept)| 
+|[Yoda-speak Translator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/speak_like_yoda)|[sonniki](https://github.com/sonniki) | 
+|[Yoda-speak Translator](speak_like_yoda)|[sonniki](https://github.com/sonniki) | 
+|[Youtube video downloader](Youtube_Video_Downloader)|[Christopher He](https://github.com/hecris)| 
+|[Youtube video downloader](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Youtube_Video_Downloader)|[Christopher He](https://github.com/hecris)| 
+|[Zabbix API](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zabbix_api)|[msg4sunny](https://github.com/msg4sunny)| 
+|[Zabbix API](zabbix_api)|[msg4sunny](https://github.com/msg4sunny)| 
+|[Zip password cracker](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/zip_password_cracker)|[umar abdullahi](https://github.com/umarbrowser)| 
+|[Zip password cracker](zip_password_cracker)|[umar abdullahi](https://github.com/umarbrowser)| 
 
 ## How to use:
 - Clone/Download the directory and navigate to each folder. Or...
