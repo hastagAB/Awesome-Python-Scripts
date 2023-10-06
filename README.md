@@ -134,6 +134,7 @@ So far, the following projects have been integrated to this repo:
 |[To Do Bot](To%20Do%20Bot) | [Darshan Patel](https://github.com/DarshanPatel11)| 
 |[Top_News](Top_News)|[Attupatil](https://github.com/Attupatil)| 
 |[Translate CLI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TranslateCLI)|[Rodrigo Oliveira](https://github.com/rodrigocam)| 
+|[True_False_Combinations](https://github.com/AaryaNale/Awesome-Python-Scripts/tree/master/True_False_Combinations)|[Aarya Nale](https://github.com/AaryaNale)|
 |[URL shortener](url_shortener)|[Sam Ebison](https://github.com/ebsa491)| 
 |[Upload Files to S3](Upload_files_to_s3)|[Jayram Nai](https://github.com/jramnai)| 
 |[Vinegère Cipher](vigenere_cipher)|[victoni](https://github.com/victoni)| 
