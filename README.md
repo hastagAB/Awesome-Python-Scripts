@@ -3,13 +3,14 @@
 
 ## Contents:
 
-- [What is this repo?](#what-is-this-repo) 
-- [What do we have?](#what-do-we-have)
-- [How to use?](#how-to-use)
-- [Contribution Guidelines](#contributions-guidelines)
-    - [Steps required to follow before adding any script](#steps-required-to-follow-before-adding-any-script) 
-- [Contribution Guidelines](#contributions-guidelines)
-- [If you like the project](#if-you-like-the-project)
+- [Awesome Python Scripts :sunglasses:    ](#awesome-python-scripts-sunglasses----)
+  - [Contents:](#contents)
+  - [What is this repo?](#what-is-this-repo)
+  - [What do we have:](#what-do-we-have)
+  - [How to use:](#how-to-use)
+  - [Contribution Guidelines:](#contribution-guidelines)
+    - [Steps required to follow before adding any script](#steps-required-to-follow-before-adding-any-script)
+- [If you like the project:](#if-you-like-the-project)
 - [Want to connect with me?](#want-to-connect-with-me)
 
 ## What is this repo?
@@ -96,6 +97,7 @@ So far, the following projects have been integrated to this repo:
 |[Minecraft Server in background](Minecraft_server_in_background)|[Max von Forell](https://github.com/mvforell)| 
 |[Own IP locator](Location_Of_Own_IP_Adress)|[Chris]()|  
 |[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)| 
+|[PDFsplitter](PDFsplitter)|[Prathamesh-Ghatole](https://github.com/Prathamesh-Ghatole)| 
 |[PX to REM](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PX-to-REM)|[Atthaphon Urairat](https://github.com/uatthaphon) | 
 |[Pdf to AudioBook Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PdfToAudio)|[Ayesha Gull](https://github.com/ayeshag7/)| 
 |[Plagiarism_detector](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Plagiarism_detector)|[Akshita Singhal](https://github.com/akshitasinghal4444)| 
