@@ -1,1 +1,1 @@
-tweepy[async]
+tweepy==4.3.0
