@@ -147,6 +147,7 @@ So far, the following projects have been integrated to this repo:
 |[Word Frequency Counter](Word_Frequency_Counter)|[sonniki](https://github.com/sonniki)| 
 |[Word generator](Word-generator)|[TGLIDE](https://github.com/TGlide)| 
 |[Work log generator](Work_Log_Generator)|[Maël Pedretti](https://github.com/73VW)|  
+|[X Scrapper](X_Scrapper)|[Shreeram](https://github.com/iamshreeram)| 
 |[YTS Torrents](yts_torrents)|[Mayank Nader](https://github.com/makkoncept)|  
 |[Yoda-speak Translator](speak_like_yoda)|[sonniki](https://github.com/sonniki) | 
 |[Youtube video downloader](Youtube_Video_Downloader)|[Christopher He](https://github.com/hecris)| 
