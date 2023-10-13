@@ -153,6 +153,7 @@ So far, the following projects have been integrated to this repo:
 |[Youtube video downloader](Youtube_Video_Downloader)|[Christopher He](https://github.com/hecris)| 
 |[Zabbix API](zabbix_api)|[msg4sunny](https://github.com/msg4sunny)| 
 |[Zip password cracker](zip_password_cracker)|[umar abdullahi](https://github.com/umarbrowser)| 
+|[Task Scheduler](Task-Scheduler)|[heysagnik](https://github.com/heysagnik)| 
 
 ## How to use:
 - Clone/Download the directory and navigate to each folder. Or...
