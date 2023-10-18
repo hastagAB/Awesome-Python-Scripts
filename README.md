@@ -64,6 +64,7 @@ So far, the following projects have been integrated to this repo:
 |[Fibonacci_Sequence_Generator](Fibonacci_Sequence_Generator) | [John Wesley Kommala](https://github.com/JohnWesleyK)| 
 |[File Carving](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File_Carving) | [Yeryeong Kim](https://github.com/icarusicarus/) | 
 |[File Encrypt Decrypt](file-encrypt-decrypt)|[Aditya Arakeri](https://github.com/adityaarakeri)| 
+|[FileMagic Organizer](./FileMagic_Organizer)|[malivinayak](https://github.com/malivinayak)|
 |[File Organizer](File-Organizer)|[Ayush Bhardwaj](https://github.com/hastagAB)| 
 |[File Sharing Bot](File-Sharing-Bot) | [Darshan Patel](https://github.com/DarshanPatel11)| 
 |[File explorer](File-Explorer-Dialog-Box) | [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|  
