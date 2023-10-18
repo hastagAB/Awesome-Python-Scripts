@@ -1,0 +1,7 @@
+sklearn
+pandas
+keras
+cv2
+pygame
+mediapipe
+joblib

@@ -1,2 +1,5 @@
 # Ping pong game autopilot using ML
- Ml model is use to play the game 
+
+![Alt text](<pygame window 18-10-2023 17_43_47.png>)
+
+#Play with Pygame
