@@ -208,6 +208,7 @@ So far, the following projects have been integrated to this repo:
 |[Google Meet Joiner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/google_meet_joiner)|[JohanSanSebastian](https://github.com/JohanSanSebastian)|
 |[Pdf to AudioBook Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PdfToAudio)|[Ayesha Gull](https://github.com/ayeshag7/)|
 |[Countdown](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Countdown)|[Jeremias Gomes](https://github.com/j3r3mias)|
+|[Object Detection](https://github.com/akshathmangudi/Object-Detection)|[Akshath Mangudi](https://github.com/akshathmangudi)|
 
 ## How to use:
 - Clone/Download the directory and navigate to each folder. Or...
