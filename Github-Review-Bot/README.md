@@ -13,7 +13,7 @@ Before you can use this script, ensure you have the following:
     pip install selenium
     ```
 
-- [GeckoDriver](https://github.com/mozilla/geckodriver) for Firefox. Make sure to download the correct version for your system.
+- [GeckoDriver](https://github.com/mozilla/geckodriver) for Firefox. Make sure to download the correct version for your system. Or you can replace `FireFox()` with your own webdriver
 
 - A GitHub account with the necessary access rights to review pull requests in the target repository.
 
