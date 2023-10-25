@@ -7,5 +7,7 @@ It automates the task of compressing the image in day to day lives.
 
 # Dependencies:
 
-   pip install image
+Note : Use python3.11 for tkinder
+
+   `pip install pillow`
 
