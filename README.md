@@ -96,7 +96,8 @@ So far, the following projects have been integrated to this repo:
 |[Keylogger](Keylogger) |[Preet Mishra](https://github.com/preetmishra) |  
 |[Medium Article Downloader](medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)| 
 |[Minecraft Server in background](Minecraft_server_in_background)|[Max von Forell](https://github.com/mvforell)| 
-|[Own IP locator](Location_Of_Own_IP_Adress)|[Chris]()|  
+|[Own IP locator](Location_Of_Own_IP_Adress)|[Chris]()|
+|[Object Detection](https://github.com/akshathmangudi/Object-Detection)|[Akshath Mangudi](https://github.com/akshathmangudi)|
 |[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)| 
 |[PDFsplitter](PDFsplitter)|[Prathamesh-Ghatole](https://github.com/Prathamesh-Ghatole)| 
 |[PX to REM](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PX-to-REM)|[Atthaphon Urairat](https://github.com/uatthaphon) | 
