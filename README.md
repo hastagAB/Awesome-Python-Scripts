@@ -155,6 +155,7 @@ So far, the following projects have been integrated to this repo:
 |[Zabbix API](zabbix_api)|[msg4sunny](https://github.com/msg4sunny)| 
 |[Zip password cracker](zip_password_cracker)|[umar abdullahi](https://github.com/umarbrowser)| 
 |[Task Scheduler](Task-Scheduler)|[heysagnik](https://github.com/heysagnik)| 
+|[PDF Password Decypter](PDF_Password_Decrypter)|[parthasdey2304](https://github.com/parthasdey2304)|
 
 ## How to use:
 - Clone/Download the directory and navigate to each folder. Or...
