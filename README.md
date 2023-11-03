@@ -75,7 +75,8 @@ So far, the following projects have been integrated to this repo:
 |[Frammed text generator](FramedText) | [jcdwalle](https://github.com/jcdwalle)| 
 |[Get Time By TimeZone](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Get_Time_TimezoneWise)|[Parth Shah](https://github.com/codingis4noobs) | 
 |[git_automation](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/git_automation)| [loge1998](https://github.com/loge1998)| 
-|[Github repo creator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)|[Harish Tiwari ](https://github.com/optimist2309)| 
+|[Github repo creator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)|[Harish Tiwari ](https://github.com/optimist2309)|
+|[Github Review Bot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Github-Review-Bot)|[Gaurav Giri](https://github.com/gaurovgiri)|  
 |[GithubBot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Github_Bot)|[Abhilasha](https://github.com/Abhilasha06)|
 |[Gmail Mailing Script](mailing) |[mayank-kapur](https://github.com/kapurm17) | 
 |[Google Meet Joiner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/google_meet_joiner)|[JohanSanSebastian](https://github.com/JohanSanSebastian)| 
