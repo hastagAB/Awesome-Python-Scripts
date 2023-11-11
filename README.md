@@ -97,7 +97,8 @@ So far, the following projects have been integrated to this repo:
 |[Keylogger](Keylogger) |[Preet Mishra](https://github.com/preetmishra) |  
 |[Medium Article Downloader](medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)| 
 |[Minecraft Server in background](Minecraft_server_in_background)|[Max von Forell](https://github.com/mvforell)| 
-|[Own IP locator](Location_Of_Own_IP_Adress)|[Chris]()|  
+|[Own IP locator](Location_Of_Own_IP_Adress)|[Chris]()|
+|[Object Detection](https://github.com/akshathmangudi/Object-Detection)|[Akshath Mangudi](https://github.com/akshathmangudi)|
 |[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)| 
 |[PDFsplitter](PDFsplitter)|[Prathamesh-Ghatole](https://github.com/Prathamesh-Ghatole)| 
 |[PX to REM](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PX-to-REM)|[Atthaphon Urairat](https://github.com/uatthaphon) | 
@@ -124,6 +125,69 @@ So far, the following projects have been integrated to this repo:
 |[Simple Webpage Parser](SimpleWebpageParser)|[Nitish Srivastava](https://github.com/nitish-iiitd)| 
 |[Slideshare downloader](Slideshare-Downloader)|[Chris Goes](https://github.com/GhostofGoes)| 
 |[SMS your location](SmsYourLocation)|[prince]()|
+|[Squid installer for Ubuntu](Squid-Proxy-Installer-for-Ubuntu16)|[Berkay Demir]()|
+|[Subtitle downloader](Subtitle-downloader)|[Kaushlendra Pratap](https://github.com/kaushl1998)|
+|[Take Screenshot](Take_screenshot)|[Moad Mohammed Elhebri](https://github.com/moadmmh)|
+|[To Do Bot](To%20Do%20Bot) | [Darshan Patel](https://github.com/DarshanPatel11)|
+|[Upload Files to S3](Upload_files_to_s3)|[Jayram Nai](https://github.com/jramnai)|
+|[Vinegère Cipher](vigenere_cipher)|[victoni](https://github.com/victoni)|
+|[Web proxy](Proxy-Request)|[Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)|
+|[Website blocker](Website-Blocker)|[Ayush Bhardwaj](https://github.com/hastagAB)|
+|[Website Url Detector](Website_Url_Detector)|[sonniki](https://github.com/sonniki)|
+|[Word Frequency Counter](Word_Frequency_Counter)|[sonniki](https://github.com/sonniki)|
+|[Word generator](Word-generator)|[TGLIDE](https://github.com/TGlide)|
+|[Work log generator](Work_Log_Generator)|[Maël Pedretti](https://github.com/73VW)|
+|[Youtube video downloader](Youtube_Video_Downloader)|[Christopher He](https://github.com/hecris)|
+|[Zabbix API](zabbix_api)|[msg4sunny](https://github.com/msg4sunny)|
+|[Zip password cracker](zip_password_cracker)|[umar abdullahi](https://github.com/umarbrowser)|
+|[CLI Calculator](cli_calculator)|[Willian GL](https://github.com/williangl) |
+|[Find PhoneNumber in String](Find-PhoneNumber-in-String)|[Austin Zuniga](https://github.com/AustinZuniga)|
+|[IMDB TV Series Info Extractor](imdb_episode_ratings)|[Yash Raj Sarrof](https://github.com/yashYRS) |
+|[Yoda-speak Translator](speak_like_yoda)|[sonniki](https://github.com/sonniki) |
+|[Medium Article Downloader](medium_article_downloader)|[coolsonu39](https://github.com/coolsonu39)|
+|[RSA Key Pair Generator](RSA-key-pairs) | [Aditya Parikh](https://github.com/obiwan69) |
+|[Clean_up_photo](Clean_up_photo_directory)|[sritanmay001](https://github.com/sritanmy001)|
+|[PyRecorder](PyRecorder)|[Rocky Jain](https://github.com/jainrocky)|
+|[Pretty CSV](Pretty-CSV)|[Frizz925](https://github.com/Frizz925)|
+|[File Organizer](File-Organizer)|[Ayush Bhardwaj](https://github.com/hastagAB)|
+|[send_whatsapp_message](send_whatsapp_message)|[Mukesh Prasad](https://github.com/mukeshprasad)|
+|[YTS Torrents](yts_torrents)|[Mayank Nader](https://github.com/makkoncept)|
+|[COVID visualiser (real-time) ](covid_visualiser)|[Tushar Gupta](https://github.com/tushar5526)|
+|[Random_Email_Generator](Random_Email_Generator)|[Shubham Garg](https://github.com/shub-garg)|
+|[WiFi Password Viewer](Wifi-Password)|[Sagar Patel](https://github.com/sagar627)|
+|[Tambola_Ticket_Generator](Tambola_Ticket_Generator)|[Amandeep_Singh](https://github.com/Synster)|
+| [Py_Cleaner](Py_Cleaner) | [Abhishek Dobliyal](https://github.com/Abhishek-Dobliyal)|
+|[Send messages to sqs in parallel](send_sqs_messages_in_parallel)|[Jinam Shah](https://github.com/jinamshah)|
+|[Codeforces Checker](codeforcesChecker)|[Jinesh Parakh](https://github.com/jineshparakh)|
+|[Github repo creator](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Git_repo_creator)|[Harish Tiwari ](https://github.com/optimist2309)|
+|[Remove-Duplicate-Files](Remove-Duplicate-Files)|[Aayushi Varma](https://github.com/aayuv17)|
+|[PDF2text](PDF2text)|[QuangPH](https://github.com/quangph-1686a)|
+|[Image Watermarker (batch)](imageWatermarker)|[Remco Halman](https://github.com/remcohalman)|
+|[Folder Manager](Folder_Manager)|[Harsh Raj](https://github.com/DeadProgrammer0)|
+|[IMDBQuerier](IMDBQuerier)|[Burak Bekci](https://github.com/Bekci)|
+|[URL shortener](url_shortener)|[Sam Ebison](https://github.com/ebsa491)|
+|[2048](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/2048)|[Krunal](https://github.com/gitkp11)|
+|[Spotify Downloader](spotify_downloader)|[Sagar Patel](https://github.com/sagar627)|
+|[Download Page as PDF](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Download-page-as-pdf)|[Jeremias Gomes](https://github.com/j3r3mias)|
+|[JSON file to YAML convertor](https://github.com/saksham117/Awesome-Python-Scripts/tree/master/json-to-yaml)|[Saksham Basandrai](https://github.com/saksham117)|
+|[Independent RSA Communication Algorithm](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/RSA_Communication)|[Miguel Santos](https://github.com/wi6n3l)|
+|[GithubBot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Github_Bot)|[Abhilasha](https://github.com/Abhilasha06)|
+|[Translate CLI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TranslateCLI)|[Rodrigo Oliveira](https://github.com/rodrigocam)|
+|[Rock-Paper-Scissor Game](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Rock-Paper-Scissor)|[Punit Sakre](https://github.com/punitsakre23)|
+|[Folder Locker and hider](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Folder%20Locker%20%26%20Hider)|[Prajjwal Pathak](https://github.com/pyguru123)|
+|[Image Compressor](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Image_Compressor)|[Prathima Kadari](https://github.com/prathimacode-hub)|
+|[Test Your Internet Speed](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/TestMyInternetSpeed)|[TheSmartDeveloperr](https://github.com/thesmartdeveloperr)|
+|[Plagiarism_detector](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Plagiarism_detector)|[Akshita Singhal](https://github.com/akshitasinghal4444)|
+|[csv_to_json](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/csv_to_json)|[MoiZ](https://github.com/TechBoyy6)|
+|[Battery_notification](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Battery_notification/)|[Krishna Sharma](https://github.com/krishnasharma1386)|
+|[Steg_Tool](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Steg_Tool/)|[Shankar JP](https://github.com/shankarjp)|
+| [Directory Tree Visualizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory_Tree_Generator) | [Harpreet Singh Saluja](https://github.com/hssaluja25/) |
+|[Pressure_Converter](https://github.com/E-wave112/Awesome-Python-Scripts/tree/master/Pressure_Converter)|[E-Wave](https://github.com/E-wave112)|
+| [File Carving](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/File_Carving) | [Yeryeong Kim](https://github.com/icarusicarus/) |
+|[Google Meet Joiner](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/google_meet_joiner)|[JohanSanSebastian](https://github.com/JohanSanSebastian)|
+|[Pdf to AudioBook Converter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/PdfToAudio)|[Ayesha Gull](https://github.com/ayeshag7/)|
+|[Countdown](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Countdown)|[Jeremias Gomes](https://github.com/j3r3mias)|
+|[Object Detection](https://github.com/akshathmangudi/Object-Detection)|[Akshath Mangudi](https://github.com/akshathmangudi)|
 |[Spotify Downloader](spotify_downloader)|[Sagar Patel](https://github.com/sagar627)| 
 |[Squid installer for Ubuntu](Squid-Proxy-Installer-for-Ubuntu16)|[Berkay Demir]()| | 
 |[SSH Host adder](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/SSH_Host_Adder)|[NinoDoko](https://github.com/NinoDoko)| 
