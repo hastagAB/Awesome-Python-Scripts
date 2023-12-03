@@ -28,6 +28,7 @@ So far, the following projects have been integrated to this repo:
 |[AI for guess the number](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/AI_for_Guess_the_number) | [Omar Sameh](https://github.com/ShadowHunter15) | 
 |[Address locator](Location_Of_Adress) | [Chris]() | 
 |[Asymmetric Encryption](asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) | 
+|[Attachment Unique Mail](Attachment_Unique_Mail) |[Arnav Dandekar](https://github.com/4rnv) | 
 |[Automated calendar](automated_calendar) | [J.A. Hernández](https://github.com/jesusalberto18) | 
 |[Automated emails](automated_email) | [Suvigya](https://github.com/SuvigyaJain1) |  
 |[Battery_notification](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Battery_notification/)|[Krishna Sharma](https://github.com/krishnasharma1386)| 
