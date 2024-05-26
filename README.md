@@ -30,7 +30,8 @@ So far, the following projects have been integrated to this repo:
 |[Asymmetric Encryption](asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) | 
 |[Attachment Unique Mail](Attachment_Unique_Mail) |[Arnav Dandekar](https://github.com/4rnv) | 
 |[Automated calendar](automated_calendar) | [J.A. Hernández](https://github.com/jesusalberto18) | 
-|[Automated emails](automated_email) | [Suvigya](https://github.com/SuvigyaJain1) |  
+|[Automated emails](automated_email) | [Suvigya](https://github.com/SuvigyaJain1) |
+|[Bank Interest Calculator](Bank_Interest_Calculator) | [C Tu](https://github.com/ninja-noodle) |
 |[Battery_notification](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Battery_notification/)|[Krishna Sharma](https://github.com/krishnasharma1386)| 
 |[Better_CSV_Storage](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Better_CSV_Storage) | [Bhargav Kuvadiya](https://github.com/techdobz) | 
 |[Bitcoin price GUI](Bitcoin-Price-GUI) |[Amirul Abu](https://github.com/amirulabu) | 
