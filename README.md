@@ -1,25 +1,23 @@
-# Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667"> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hastagAB/Awesome-Python-Scripts)  ![GitHub stars](https://img.shields.io/github/stars/hastagAB/Awesome-Python-Scripts?style=social)
+# Awesome Python Scripts :snake:
 
+<img alt="PyPI" src="https://pypi.org/static/images/logo-small.8998e9d1.svg" height="30px" width="auto"> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hastagAB/Awesome-Python-Scripts) ![GitHub stars](https://img.shields.io/github/stars/hastagAB/Awesome-Python-Scripts?style=social)
 
 ## Contents:
 
-- [Awesome Python Scripts :sunglasses:    ](#awesome-python-scripts-sunglasses----)
-  - [Contents:](#contents)
-  - [What is this repo?](#what-is-this-repo)
-  - [What do we have:](#what-do-we-have)
-  - [How to use:](#how-to-use)
-  - [Contribution Guidelines:](#contribution-guidelines)
-    - [Steps required to follow before adding any script](#steps-required-to-follow-before-adding-any-script)
-- [If you like the project:](#if-you-like-the-project)
+- [What is this repo?](#what-is-this-repo)
+- [What do we have?](#what-do-we-have)
+- [How to use?](#how-to-use)
+- [Contribution Guidelines](#contribution-guidelines)
+- [If you like the project](#if-you-like-the-project)
 - [Want to connect with me?](#want-to-connect-with-me)
 
 ## What is this repo?
-This repo is a compilation of some *awesome* Python scripts that automate some boring tasks or simply make our life easier...or both!
+This repo is a compilation of some **awesome** Python scripts that automate boring tasks or simply make our lives easier...or both!
 
 :cookie: Cookies for all contributors as well~
 
-## What do we have:
-So far, the following projects have been integrated to this repo:
+## What do we have?
+So far, the following projects have been integrated into this repo:
 
 | Project Name | Contributors |
 |--|--|
@@ -159,53 +157,49 @@ So far, the following projects have been integrated to this repo:
 |[Task Scheduler](Task-Scheduler)|[heysagnik](https://github.com/heysagnik)| 
 |[PDF Password Decypter](PDF_Password_Decrypter)|[parthasdey2304](https://github.com/parthasdey2304)|
 
-## How to use:
-- Clone/Download the directory and navigate to each folder. Or...
-- Simply navigate to the folder and download/copy the scripts! It's *that* simple and easy.
-- Setup virtual environment for that scripts:
-    - `python -m venv env`
-    - `source env\bin\activate`
-    - `pip install -r requirements.txt`
+## How to Use:
+- ***Clone or download the repository.***
 
-- Run the script :)
+- ***Navigate to the folder of the script you're interested in.***
 
-Remember to star the repo if you love the scripts~ :wink:
+- ***Set up a virtual environment for the script:***
+    ```bash
+    python -m venv env
+    source env/bin/activate  # For Unix/Linux
+    .\env\Scripts\activate   # For Windows
+    ```
+- ***Install the required dependencies:***
+    ```bash
+    pip install -r requirements.txt
+    ```
+- ***Run the script.***
+
+Remember to star the repository if you find these scripts useful!
 
 ## Contribution Guidelines:
 
-### Steps required to follow before adding any script 
-- Make a **separate folder** for your script.
-- There shouldn't be any **spaces** between the names of the script. (Use underscore or dash Symbol)
-	- :x: Script One
-	- :heavy_check_mark: Script_One
-	- :heavy_check_mark: Script-One
+### Steps to Follow Before Adding a Script:
+- ***Create a separate folder for your script.***
+- ***Avoid spaces in the folder name (use underscores or dashes instead).***
+- ***The folder should contain the following:***
+    - *Main Python script.*
+    - *Supporting files if required.*
+    - *A `README.md`*
+    - *A `README.md` file with proper documentation.*
+    - *A `requirements.txt` file for any required libraries.*
 
-- The Folder should contain the followings -
-	- Main Python Script,
-	- Supporting files for the Script (If any)
-	-  A separate `README.md` File with proper documentation.
-    - `requirements.txt` file for any required library.
+- ***Add your name and script to the project's list above in the same format.***
+- ***Make only one commit per pull request (PR).***
+<br><br>
 
-    - How to create `requirements.txt` file
-            - `cd <your_script_dir>`
-            - Activate your local virtual environment
-                - `source env\bin\activate`
-            - `pip freeze > requirements.txt`
+## If you like the project:
+- **Star the repository [Awesome Python Scripts](https://github.com/hastagAB/Awesome-Python-Scripts).**
+- **Follow me on GitHub [Ayush Bhardwaj](https://github.com/hastagAB).**
 
-- Add your name & script in the [project's list](https://github.com/hastagAB/Awesome-Python-Scripts#what-do-we-have) above in the same format. [Compulsory]
-
-- Only One Commit per PR is Adviced.
-
-# If you like the project:
-- Star this Repo - [Awesome Python Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
-
-- Follow me on GitHub - [Ayush Bhardwaj](https://github.com/hastagAB)
-
-# Want to connect with me?
-- [LinkedIn](https://www.linkedin.com/in/hastagab/)
-- [Twitter](https://twitter.com/HastagAB)
-- [Facebook](https://www.facebook.com/SirHastagAB)
-- [Instagram](https://www.instagram.com/sirhastagab/)
-
+## Want to Connect with Me?
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="30px" alt="Linkedin">](https://www.linkedin.com/in/hastagab/)
+[<img src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" height="30px" alt="X/Twitter">](https://twitter.com/HastagAB)
+[<img src="https://w7.pngwing.com/pngs/561/460/png-transparent-fb-facebook-facebook-logo-social-media-icon-thumbnail.png" height="30px" alt="Facebook">](https://www.facebook.com/SirHastagAB)
+[<img src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" height="31px" alt="Instagram">](https://www.instagram.com/sirhastagab/)
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-HastagAB-red)](https://github.com/hastagAB)
