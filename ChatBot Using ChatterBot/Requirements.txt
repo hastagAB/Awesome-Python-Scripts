@@ -1,0 +1,4 @@
+flask
+ChatterBot
+Spacy
+Numpy
