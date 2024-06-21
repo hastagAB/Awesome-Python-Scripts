@@ -1,4 +1,6 @@
-# Awesome Python Scripts :sunglasses: <img alt="PyPI" src="https://warehouse-camo.cmh1.psfhosted.org/18509a25dde64f893bd96f21682bd6211c3d4e80/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f64796e61636f6e662e737667"> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hastagAB/Awesome-Python-Scripts)  ![GitHub stars](https://img.shields.io/github/stars/hastagAB/Awesome-Python-Scripts?style=social)
+# Awesome Python Scripts :snake: 
+
+<img alt="PyPI" src="https://pypi.org/static/images/logo-small.8998e9d1.svg" height="30px" width="auto"> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hastagAB/Awesome-Python-Scripts) ![GitHub stars](https://img.shields.io/github/stars/hastagAB/Awesome-Python-Scripts?style=social)
 
 
 ## Contents:
@@ -197,15 +199,15 @@ Remember to star the repo if you love the scripts~ :wink:
 - Only One Commit per PR is Adviced.
 
 # If you like the project:
-- Star this Repo - [Awesome Python Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
+- **Star this Repo - [Awesome Python Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)**
 
-- Follow me on GitHub - [Ayush Bhardwaj](https://github.com/hastagAB)
+- **Follow me on GitHub - [Ayush Bhardwaj](https://github.com/hastagAB)**
 
-# Want to connect with me?
-- [LinkedIn](https://www.linkedin.com/in/hastagab/)
-- [Twitter](https://twitter.com/HastagAB)
-- [Facebook](https://www.facebook.com/SirHastagAB)
-- [Instagram](https://www.instagram.com/sirhastagab/)
+## Want to Connect with Me?
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="30px" alt="Linkedin">](https://www.linkedin.com/in/hastagab/)
+[<img src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" height="30px" alt="X/Twitter">](https://twitter.com/HastagAB)
+[<img src="https://w7.pngwing.com/pngs/561/460/png-transparent-fb-facebook-facebook-logo-social-media-icon-thumbnail.png" height="30px" alt="Facebook">](https://www.facebook.com/SirHastagAB)
+[<img src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" height="31px" alt="Instagram">](https://www.instagram.com/sirhastagab/)
 
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-HastagAB-red)](https://github.com/hastagAB)
