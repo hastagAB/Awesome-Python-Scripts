@@ -94,7 +94,7 @@ while True:
       print("Wanna go again? y for yes and anykey for no. ")
       i = input("");
       if(i == "y"):
-          print(breaking * 10);
+          print(breaking * 10)
           a = int(input("Min: "))
           b = int(input("Max: "))
 
