@@ -160,6 +160,7 @@ So far, the following projects have been integrated to this repo:
 |[Zip password cracker](zip_password_cracker)|[umar abdullahi](https://github.com/umarbrowser)| 
 |[Task Scheduler](Task-Scheduler)|[heysagnik](https://github.com/heysagnik)| 
 |[PDF Password Decypter](PDF_Password_Decrypter)|[parthasdey2304](https://github.com/parthasdey2304)|
+|[Github repo auditor](Github_repo_auditor)|[av4nth1ka](https://github.com/av4nth1ka)|
 
 ## How to use:
 - Clone/Download the directory and navigate to each folder. Or...
