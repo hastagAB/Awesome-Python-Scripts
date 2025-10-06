@@ -16,6 +16,8 @@ if systemInfo == "Linux":
             password=wifiPass[15].strip("psk=");
             print ("{:<30} {:<}".format(wifiname, password))
 else:
+    print ("Wifiname                       Password")
+    print ("----------------------------------------")
     wifi = subprocess.check_output(['netsh', 'wlan', 'show', 'profiles']).decode('utf-8', errors="backslashreplace").split('\n')
     profiles = [i.split(":")[1][1:-1] for i in wifi if "All User Profile" in i]
     for i in profiles:
