@@ -13,14 +13,16 @@ class BetterCSVStorage():
             self.valid_headers = next(csv_reader)
 
     def write_dict_csv(self, data_rows):
-        if data_rows:
+        if type(data_rows) == dict and data_rows:
             field_names = list(data_rows[0].keys())
-            with open(self.csv_f_path,'w') as csv_wf:
+            with open(self.csv_f_path,'w',newline='') as csv_wf:
                 csv_writer = csv.DictWriter(csv_wf, fieldnames=field_names)
                 csv_writer.writeheader()
                 for row in data_rows:
                     csv_writer.writerow(row)
             print('[+] Data Written Successfully ...')
+        elif type(data_rows) != dict:
+            print('[-] Error : Data Type is Incorrect ...')
         else:
             print('[-] Error : Data Rows Could not be empty ...')
 
@@ -76,6 +78,47 @@ class BetterCSVStorage():
                             row[col_name] = value
                         updated_rows.append(row)
                 self.write_dict_csv(updated_rows)
+            
+    def append_dict_csv(self, data_rows):
+        if type(data_rows) == dict and data_rows:
+            field_names = list(data_rows[0].keys())
+            with open(self.csv_f_path,'a',newline='') as csv_af:
+                csv_writer = csv.DictWriter(csv_af, fieldnames=field_names)
+                csv_writer.writeheader()
+                for row in data_rows:
+                    csv_writer.writerow(row)
+            print('[+] Data Appended Successfully ...')
+        elif type(data_rows) != dict:
+            print('[-] Error : Data Type is Incorrect ...')
+        else:
+            print('[-] Error : Data Rows Could not be empty ...')
+
+    def write_list_csv(self, data_rows):
+        if type(data_rows) == list and data_rows:
+            with open(self.csv_f_path,'w',newline='') as csv_wf:
+                csv_writer = csv.writer(csv_wf)
+                if len(data_rows) == 1:
+                    csv_writer.writerow(data_rows)
+                else:
+                    csv_writer.writerows(data_rows)
+        elif type(data_rows) != list:
+            print('[-] Error : Data Type is Incorrect ...')
+        else:
+            print('[-] Error : Data Rows Could not be empty ...')
+    
+    def append_list_csv(self, data_rows):
+        if type(data_rows) == list and data_rows:
+            with open(self.csv_f_path,'a',newline='') as csv_af:
+                csv_writer = csv.writer(csv_af)
+                if len(data_rows) == 1:
+                    csv_writer.writerow(data_rows)
+                else:
+                    csv_writer.writerows(data_rows)
+        elif type(data_rows) != list:
+            print('[-] Error : Data Type is Incorrect ...')
+        else:
+            print('[-] Error : Data Rows Could not be empty ...')
+
 
 if __name__ == '__main__':
 
