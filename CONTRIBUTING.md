@@ -1,63 +1,105 @@
-# Contributing to Awesome Python Scripts
+# 🐍 Contributing to Awesome Python Scripts
 
-First off, thanks for taking the time to contribute!
-
-All types of contributions are encouraged and valued. Please make sure to read the relevant section before making your contribution. It will make it a lot easier for the maintainers and smooth out the experience for all involved. The community looks forward to your contributions. 🎉
-
+First off — **thank you for taking the time to contribute!**
+All types of contributions are encouraged and valued. Please read the relevant section before contributing.
+It helps maintainers and ensures a smooth experience for everyone. 🎉
 
 # Steps for Contribution
 
 ## 1. Fork this repository
-Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
+
+Click the **Fork** button at the top-right of this page.
+This creates a copy of the repository under your own GitHub account.
 
 ## 2. Clone the forked repository
-In your cloned repository click on the **green code button** and copy the link shown.
 
-Clone your forked repository by running the **git clone** command with you copied link on you command line.
+Click on the **green “Code” button** in your forked repo and copy the link shown.
+Then, open your terminal and run:
 
-```git clone <url_you_just_copied>```
+```bash
+git clone <url_you_just_copied>
+```
 
-Do the following command to get into the repository directory:
+Move into the cloned project directory:
 
-```cd <your_directory>```
+```bash
+cd <your_directory>
+```
 
-Then create your own branch in the repo using:
+Now, create a new branch for your changes:
 
-```git checkout -b <your_branch_name>```
+```bash
+git checkout -b <your_branch_name>
+```
 
-## 3. Add your changes
-You can see what all you changes using the `git status` command.
+## 3. Make your changes
 
-## 4. Add all you changes 
-Add all your changes to you branch using the `git add .` command
+Edit or add files as needed.
+You can check which files you’ve modified using:
+
+```bash
+git status
+```
+
+## 4. Add your changes
+
+Add all modified files to staging using:
+
+```bash
+git add .
+```
 
 ## 5. Commit your changes
-Commit your changes to your branch using `git commit -m "commit message"` command.
 
-## Commit Message Conventions
+Commit them with a meaningful message:
 
-- Start with a short summary (50 characters or less) of the changes made.
-- Use the present tense and imperative mood.
-- Separate the summary from the body of the message with a blank line.
-- Use the body to explain what and why changes were made, as well as any necessary details.
-- Additionally, you can consider using [semantic commit messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716?permalink_comment_id=3867882) like "feat:", "docs:", etc. which will provide additional context to the commit message.
+```bash
+git commit -m "feat: add new python script for file sorting"
+```
 
-| Commit Type | Description |
-| ---- | ---- |
-| `feat` | New feature or functionality added |
-| `fix` | Bug fix |
-| `docs` | Changes to documentation |
-| `test` | Adding or updating tests |
-| `chore` | Maintenance tasks such as refactoring, dependencies updates, or removing unused code |
-| `ci` | Changes to the build or continuous integration process |
+### Commit Message Conventions
 
-## 5. Push you changes to GitHub
-Switch to the master branch using this command:
+| Commit Type | Description                        |
+| ----------- | ---------------------------------- |
+| `feat`      | New feature or functionality added |
+| `fix`       | Bug fix                            |
+| `docs`      | Documentation updates              |
+| `test`      | Adding or updating tests           |
+| `chore`     | Maintenance or refactoring         |
+| `ci`        | Build or CI configuration changes  |
 
-```git checkout master``` 
+**Tips:**
 
-Push all your changes to GitHub using the command:
+* Use **present tense** (“add feature” not “added feature”).
+* Keep the first line short (≤ 50 chars).
+* Separate the summary and body with a blank line.
 
-```git push --set-upstream origin <your_branch_name>```
+## 6. Push your changes
+
+Push the branch to your GitHub fork:
+
+```bash
+git push --set-upstream origin <your_branch_name>
+```
+
+## 7. Create a Pull Request
+
+1. Go to your forked repo on GitHub.
+2. Click on **Compare & pull request**.
+3. Add a descriptive title and explain your changes.
+4. Click **Create pull request**.
+
+Once submitted, the maintainers will review your PR and merge it if everything looks good. 🎉
+
+# Additional Notes
+
+* Please make sure your code is well-formatted and tested before submission.
+* If your contribution adds new scripts, include a short README section describing what the script does.
+* Be respectful and kind in discussions — we’re all here to learn and grow together ❤️
+
+---
+
+**Thank you for contributing to Awesome Python Scripts! 🐍**
+Your efforts make this community better every day.
 
 
