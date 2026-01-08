@@ -1,0 +1,39 @@
+Fixes #296
+
+#python code for displaying a CPU temperature display for windows.
+
+
+#Firstly install 'psutil' library if not installed, using,
+pip install psutil
+
+
+#Install 'plyer' library if not installed, using
+pip install plyer
+
+
+#using 'plyer' library this is the python code
+import psutil
+from plyer import notification
+
+def get_cpu_temperature():
+    try:
+        sensors_temperatures = psutil.sensors_temperatures()
+        if "coretemp" in sensors_temperatures:
+            for entry in sensors_temperatures["coretemp"]:
+                if "Core" in entry.label:
+                    return f"{entry.label}: {entry.current}°C"
+    except Exception as e:
+        return f"Error: {str(e)}"
+
+if __name__ == "__main__":
+    temperature = get_cpu_temperature()
+    if temperature:
+        notification_title = "CPU Temperature"
+        notification_text = f"CPU Temperature: {temperature}"
+        notification.notify(
+            title=notification_title,
+            message=notification_text,
+            app_name="CPU Temperature Checker"
+        )
+    else:
+        print("Unable to retrieve CPU temperature data.")
