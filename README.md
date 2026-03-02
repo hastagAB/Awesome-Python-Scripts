@@ -53,6 +53,7 @@ So far, the following projects have been integrated to this repo:
 |[Cryptocurrency Converter](Cryptocurrency-converter) |[AdnCodz](https://github.com/AdnCodez) |  
 |[Cryptocurrency Prices](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Cryptocurrency-Prices) |[xemeds](https://github.com/xemeds) | 
 |[Current City Weather](Current_City_Weather) |[Jesse Bridge](https://github.com/jessebridge) |  
+|[DNA Analysis Toolkit](https://github.com/shmlkv/dna-claude-analysis)|[shmlkv](https://github.com/shmlkv)|
 |[DOH DIG](DOH-Dig/) | [Ryan](https://github.com/awsumco) | 
 |[Database-As-Storage](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Database-As-Storage) | [Bhargav Kuvadiya](https://github.com/techdobz) | 
 |[Directory Tree Visualizer](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Directory_Tree_Generator) | [Harpreet Singh Saluja](https://github.com/hssaluja25/) | 
