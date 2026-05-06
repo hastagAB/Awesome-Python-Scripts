@@ -29,6 +29,7 @@ So far, the following projects have been integrated to this repo:
 |[AI chatbot](Artificial-intelligence_bot) |[umar abdullahi](https://github.com/umarbrowser) | 
 |[AI for guess the number](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/AI_for_Guess_the_number) | [Omar Sameh](https://github.com/ShadowHunter15) | 
 |[Address locator](Location_Of_Adress) | [Chris]() | 
+|[AWE-SMART CODE REVIEWER](Location_Of_Adress) | [Chris]() | 
 |[Asymmetric Encryption](asymmetric_cryptography) |[victor matheus](https://github.com/victormatheusc) | 
 |[Attachment Unique Mail](Attachment_Unique_Mail) |[Arnav Dandekar](https://github.com/4rnv) | 
 |[Automated calendar](automated_calendar) | [J.A. Hernández](https://github.com/jesusalberto18) | 
@@ -121,6 +122,7 @@ So far, the following projects have been integrated to this repo:
 |[Remove-Duplicate-Files](Remove-Duplicate-Files)|[Aayushi Varma](https://github.com/aayuv17)| 
 |[Rock-Paper-Scissor Game](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Rock-Paper-Scissor)|[Punit Sakre](https://github.com/punitsakre23)| 
 |[send_whatsapp_message](send_whatsapp_message)|[Mukesh Prasad](https://github.com/mukeshprasad)| 
+|[smart_code_reviewer](https://github.com/TheBinaryAVA/Awesome-Python-Scripts/tree/master/smart_code_reviewer)|[TheBinaryAVA](https://github.com/TheBinaryAVA)|
 |[Send messages to sqs in parallel](send_sqs_messages_in_parallel)|[Jinam Shah](https://github.com/jinamshah)| 
 |[Server Ping](Ping_Server)|[prince]()|  
 |[Signature photo to PNG converter](signature2png)|[Rodolfo Ferro](https://github.com/RodolfoFerro)| 
