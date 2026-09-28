@@ -26,4 +26,4 @@ $ pipenv run python crypt -d file.enc
 ```
 **note** 
 - `file.enc` will be created if you pass in `file.txt`
-- Do not loose the Encryption 🗝
+- Do not lose the Encryption 🗝
