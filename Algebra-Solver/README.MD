@@ -12,5 +12,5 @@ pip install sympy
 #Usage 
 Call python following with the simple algebra problem
 ```bash
-$ python Solver.py "5 = X - 2"
+$ python Algebra-Solver.py "5 = X - 2"
 ```
